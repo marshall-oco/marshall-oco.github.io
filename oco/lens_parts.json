@@ -1,3 +1,8 @@
 {"id":"at-a-glance/1","lens":"at-a-glance","part":1,"through":"now","only":"being done now"}
 {"id":"at-a-glance/2","lens":"at-a-glance","part":2,"through":"work","only":"in progress - read off what was done"}
 {"id":"at-a-glance/3","lens":"at-a-glance","part":3,"through":"signs","only":"showing - nothing has come of it yet"}
+{"id":"still-showing/1","lens":"still-showing","part":1,"through":"signs","only":"showing - nothing has come of it yet"}
+{"id":"still-showing/2","lens":"still-showing","part":2,"through":"signs","only":"failing on main"}
+{"id":"still-showing/3","lens":"still-showing","part":3,"through":"work","only":"held back - read off what halts it"}
+{"id":"still-showing/4","lens":"still-showing","part":4,"through":"work","only":"said to be waiting, though nothing drawn holds it back"}
+{"id":"still-showing/5","lens":"still-showing","part":5,"through":"purpose","only":"ahead - what, once done, would free the most"}
