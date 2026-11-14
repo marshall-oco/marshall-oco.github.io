@@ -102,7 +102,7 @@
 {"bytes":30213,"id":"src/dome.rs","lines":770,"path":"src/dome.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":21363,"id":"src/entries.rs","lines":598,"path":"src/entries.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":22321,"id":"src/fits.rs","lines":571,"path":"src/fits.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":82231,"id":"src/focus.rs","lines":1874,"path":"src/focus.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":82381,"id":"src/focus.rs","lines":1877,"path":"src/focus.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":22267,"id":"src/fulldome.rs","lines":584,"path":"src/fulldome.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":8226,"id":"src/gather.rs","lines":218,"path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":13751,"id":"src/glimpse.rs","lines":399,"path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
@@ -111,13 +111,13 @@
 {"bytes":8524,"id":"src/kept.rs","lines":218,"path":"src/kept.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":38577,"id":"src/lenses.rs","lines":932,"path":"src/lenses.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":443,"id":"src/lib.rs","lines":24,"path":"src/lib.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":39348,"id":"src/main.rs","lines":922,"path":"src/main.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":39505,"id":"src/main.rs","lines":924,"path":"src/main.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":15997,"id":"src/manual.rs","lines":463,"path":"src/manual.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":8616,"id":"src/mark.rs","lines":214,"path":"src/mark.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":18222,"id":"src/moving.rs","lines":473,"path":"src/moving.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":18520,"id":"src/note.rs","lines":497,"path":"src/note.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":12831,"id":"src/pick.rs","lines":387,"path":"src/pick.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":47137,"id":"src/relations.rs","lines":1169,"path":"src/relations.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":50109,"id":"src/relations.rs","lines":1252,"path":"src/relations.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":26834,"id":"src/routes.rs","lines":669,"path":"src/routes.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":3277,"id":"src/trail.rs","lines":102,"path":"src/trail.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":7061,"id":"src/typed.rs","lines":198,"path":"src/typed.rs","project":"open-commons-observatory/ocoeco"}
