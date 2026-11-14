@@ -681,6 +681,7 @@
 {"at":"2026-11-14T20:47:55Z","by":"oco observe","id":"04d6e2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:48:15Z","by":"oco observe","id":"063adf4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:13:21Z","by":"oco observe","id":"065c559","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T23:20:34Z","by":"oco observe","id":"073457f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:48:23Z","by":"oco observe","id":"07887c5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T06:49:13Z","by":"oco observe","id":"07db5cd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:48:35Z","by":"oco observe","id":"09cefc5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -974,6 +975,7 @@
 {"at":"2026-11-14T09:30:23+01:00","by":"grenudi","id":"8c3a21c","project":"open-commons-observatory/ecosystem","says":"docs: one folder, one nature (#47)"}
 {"at":"2026-11-14T23:43:04+01:00","by":"grenudi","id":"9087e67","project":"open-commons-observatory/ecosystem","says":"docs: the perfect form, said in OCO's place, and how the whole stands to it (#85)"}
 {"at":"2026-11-14T19:06:05+01:00","by":"grenudi","id":"9e650de","project":"open-commons-observatory/ecosystem","says":"docs: all means all: the author's words; the conversation, read (#64)"}
+{"at":"2026-11-15T00:23:02+01:00","by":"grenudi","id":"a108cdc","project":"open-commons-observatory/ecosystem","says":"docs: the sheet shows, for each angle of the form, the work made standing on it (#88)"}
 {"at":"2026-11-13T02:29:56+01:00","by":"grenudi","id":"a57de49","project":"open-commons-observatory/ecosystem","says":"docs: the decisions about the whole are in OCO's place; links follow (#2)"}
 {"at":"2026-11-13T19:04:18+01:00","by":"grenudi","id":"a580884","project":"open-commons-observatory/ecosystem","says":"docs: a workflow may not open a pull request, met a second time (#21)"}
 {"at":"2026-11-14T02:05:28+01:00","by":"grenudi","id":"a6b97ce","project":"open-commons-observatory/ecosystem","says":"docs: chosen, not typed (#41)"}
@@ -987,6 +989,7 @@
 {"at":"2026-11-14T20:52:32+01:00","by":"grenudi","id":"b7bb10a","project":"open-commons-observatory/ecosystem","says":"docs: the canon says where it is shown: what came of the sign (#73)"}
 {"at":"2026-11-14T00:19:56+01:00","by":"grenudi","id":"b859be3","project":"open-commons-observatory/ecosystem","says":"docs: what the graph showed the first time it was asked (#32)"}
 {"at":"2026-11-13T13:00:33+01:00","by":"grenudi","id":"ba412a2","project":"open-commons-observatory/ecosystem","says":"docs: the flow is continuous: the author's words, and what the lab already keeps (#15)"}
+{"at":"2026-11-15T00:20:48+01:00","by":"grenudi","id":"c28bc07","project":"open-commons-observatory/ecosystem","says":"docs: not fixed on a surface: the author's words, and what came of the sign (#87)"}
 {"at":"2026-11-13T12:33:07+01:00","by":"grenudi","id":"c5d6443","project":"open-commons-observatory/ecosystem","says":"docs: argenv is a lens's glimpse and a surface that reads back: the author's words (#14)"}
 {"at":"2026-11-14T14:50:06+01:00","by":"grenudi","id":"c8fd9c0","project":"open-commons-observatory/ecosystem","says":"docs: a field's place in order says ordinal (#53)"}
 {"at":"2026-11-13T07:11:38+01:00","by":"grenudi","id":"ca46280","project":"open-commons-observatory/ecosystem","says":"docs: the route as a red line: seventeen connections, each saying how it is known (#4)"}
@@ -1039,6 +1042,7 @@
 {"at":"2026-11-13T23:56:25+01:00","by":"grenudi","id":"1bb9523","project":"open-commons-observatory/ocoeco","says":"feat: the beam: how light travels through a lens, a key away (#129)"}
 {"at":"2026-11-14T16:33:37+01:00","by":"grenudi","id":"1bc525d","project":"open-commons-observatory/ocoeco","says":"feat: a route says as of when: light in, by which route each table came (#188)"}
 {"at":"2026-11-12T14:13:36+01:00","by":"grenudi","id":"1c04d71","project":"open-commons-observatory/ocoeco","says":"fix: in criteria, what carries an @ is a condition, not a link (#58)"}
+{"at":"2026-11-15T00:20:15+01:00","by":"github-actions[bot]","id":"1cb9a80","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.35.0 (#244)"}
 {"at":"2026-11-13T20:01:39+01:00","by":"github-actions[bot]","id":"1cc5be8","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.3.0 (#117)"}
 {"at":"2026-11-13T00:54:39+01:00","by":"grenudi","id":"200d80c","project":"open-commons-observatory/ocoeco","says":"feat: text as a screen: shapes fitted into a width, nothing reaching past it (#85)"}
 {"at":"2026-11-12T23:07:14+01:00","by":"grenudi","id":"20d9e9f","project":"open-commons-observatory/ocoeco","says":"feat: a lens adds meaning, a surface adds looks: a measure, shown three ways (#81)"}
@@ -1614,6 +1618,7 @@
 {"at":"2026-11-10T23:12:47+01:00","by":"grenudi","id":"a6ae8dd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: Essence live - a method (its own project) and the signature view; the decision and the log (#33)"}
 {"at":"2026-11-14T19:46:21Z","by":"oco harvest","id":"a6b6d6a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:56:01+01:00","by":"grenudi","id":"a77c3a5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"fix: a harvest collision on its own data: the later observation wins (#75)"}
+{"at":"2026-11-14T23:22:07Z","by":"oco harvest","id":"a82b3eb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:17:21Z","by":"oco harvest","id":"a86a39c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:35:33Z","by":"oco harvest","id":"a94adef","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:51:49Z","by":"oco harvest","id":"a98fcaa","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
