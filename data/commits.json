@@ -776,6 +776,7 @@
 {"at":"2026-11-14T08:35:34Z","by":"oco observe","id":"7ce2e11","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:18:12Z","by":"oco observe","id":"7e49958","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:07:07Z","by":"oco observe","id":"7eae7c0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T21:57:01Z","by":"oco observe","id":"7edde6c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:06:56Z","by":"oco observe","id":"7f5ff67","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:33:06Z","by":"oco observe","id":"7f87d2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:37:32Z","by":"oco observe","id":"84c7f6d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1209,6 +1210,7 @@
 {"at":"2026-11-14T20:27:09+01:00","by":"grenudi","id":"f5df7ef","project":"open-commons-observatory/ocoeco","says":"feat: the language in the graph: a lens is a thing; a star says why it exists (#210)"}
 {"at":"2026-11-13T02:29:03+01:00","by":"grenudi","id":"f69ed27","project":"open-commons-observatory/ocoeco","says":"feat: rows move between places with every link kept true (#91)"}
 {"at":"2026-11-14T14:51:58+01:00","by":"grenudi","id":"f7a351c","project":"open-commons-observatory/ocoeco","says":"fix: a field's ordinal; three names that hold two kinds, said (#179)"}
+{"at":"2026-11-14T23:00:38+01:00","by":"grenudi","id":"f839cdb","project":"open-commons-observatory/ocoeco","says":"perf: a lens is brought into focus once in a look (#231)"}
 {"at":"2026-11-14T22:30:43+01:00","by":"github-actions[bot]","id":"fb2044e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.0 (#227)"}
 {"at":"2026-11-13T20:15:42+01:00","by":"grenudi","id":"fc19bc5","project":"open-commons-observatory/ocoeco","says":"fix: the lab does not cry wolf: a run replaced is not said to fail (#121)"}
 {"at":"2026-11-13T07:58:05+01:00","by":"grenudi","id":"fdc1cfb","project":"open-commons-observatory/ocoeco","says":"docs: ocoeco on argenv is next: entries become real commands (#96)"}
@@ -1402,6 +1404,7 @@
 {"at":"2026-11-13T15:43:02Z","by":"oco harvest","id":"48cdeb7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:03:10Z","by":"oco harvest","id":"4970451","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T00:14:55+01:00","by":"grenudi","id":"49eadbe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: the redesign comes first; everything else parked with its resume order (#69)"}
+{"at":"2026-11-14T21:57:46Z","by":"oco harvest","id":"4a30d93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:15:14Z","by":"oco harvest","id":"4aeb830","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:00:51+01:00","by":"grenudi","id":"4cbd2cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
 {"at":"2026-11-12T02:41:02Z","by":"oco harvest","id":"4cff19f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
