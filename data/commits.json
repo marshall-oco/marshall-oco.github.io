@@ -306,6 +306,7 @@
 {"at":"2026-11-12T00:33:14+01:00","by":"grenudi","id":"fcb65f8","project":"creation-guidelines/lab-agent","says":"docs: the redesign: ports and adapters, plain names, the journal as tad tables (#132)"}
 {"at":"2026-11-04T21:09:41+01:00","by":"grenudi","id":"fe84fc1","project":"creation-guidelines/lab-agent","says":"fix: home no longer defaults to a root-only system path (#5)"}
 {"at":"2026-11-09T17:34:42+01:00","by":"github-actions[bot]","id":"fedcffb","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.11 (#34)"}
+{"at":"2026-11-14T23:32:33+01:00","by":"grenudi","id":"ff67c03","project":"creation-guidelines/lab-agent","says":"docs: drivers of every kind: the view to open and move in exists; what it waits on is drawn (#191)"}
 {"at":"2026-09-22T21:48:45Z","by":"grenudi","id":"017e08c","project":"creation-guidelines/software-engineering-canon","says":"chore(tad): pull engine update (definition-list field rendering)"}
 {"at":"2026-09-22T21:50:33Z","by":"github-actions[bot]","id":"083d44a","project":"creation-guidelines/software-engineering-canon","says":"chore(main): release 1.1.0"}
 {"at":"2026-09-22T10:21:21+02:00","by":"grenudi","id":"0858067","project":"creation-guidelines/software-engineering-canon","says":"Initial commit"}
@@ -781,6 +782,7 @@
 {"at":"2026-11-14T15:15:50Z","by":"oco observe","id":"7900e6b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:02:25Z","by":"oco observe","id":"79e01a7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:03:05Z","by":"oco observe","id":"7a8e1a7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T22:32:43Z","by":"oco observe","id":"7ad3d5e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:35:34Z","by":"oco observe","id":"7ce2e11","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:18:12Z","by":"oco observe","id":"7e49958","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:07:07Z","by":"oco observe","id":"7eae7c0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -918,6 +920,7 @@
 {"at":"2026-11-14T17:58:48+01:00","by":"grenudi","id":"1ff7065","project":"open-commons-observatory/ecosystem","says":"docs: a date is words held to a shape; what waits on the author, drawn (#61)"}
 {"at":"2026-11-13T21:47:13+01:00","by":"grenudi","id":"20568ca","project":"open-commons-observatory/ecosystem","says":"docs: a sheet is a word: the author's words, and what came of them (#27)"}
 {"at":"2026-11-13T08:49:36+01:00","by":"grenudi","id":"20a3dd4","project":"open-commons-observatory/ecosystem","says":"docs: what does not fit is a sign: the author's words, and what the week's records show (#7)"}
+{"at":"2026-11-14T23:33:09+01:00","by":"grenudi","id":"2562a1f","project":"open-commons-observatory/ecosystem","says":"docs: three waits drawn, not said in words; what the three repositories with no mark are (#84)"}
 {"at":"2026-11-14T18:36:08+01:00","by":"grenudi","id":"256424a","project":"open-commons-observatory/ecosystem","says":"docs: where everything lives: the surfaces, read and not yet read (#63)"}
 {"at":"2026-11-14T00:53:50+01:00","by":"grenudi","id":"274730b","project":"open-commons-observatory/ecosystem","says":"docs: shapes across lenses: what the trial showed, and what is next (#35)"}
 {"at":"2026-11-14T15:27:33+01:00","by":"grenudi","id":"28b88fb","project":"open-commons-observatory/ecosystem","says":"docs: navigation: the author's words, and standing on a thing (#54)"}
