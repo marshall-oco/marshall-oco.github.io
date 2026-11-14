@@ -260,6 +260,7 @@
 {"at":"2026-11-10T23:32:12+01:00","by":"grenudi","id":"c10adc3","project":"creation-guidelines/lab-agent","says":"docs: it tells its essence - its idea for anyone and its workings (#108)"}
 {"at":"2026-11-14T01:24:31+01:00","by":"grenudi","id":"c1d023d","project":"creation-guidelines/lab-agent","says":"fix: the voice carries urgency as the lens says; observing only observes (#185)"}
 {"at":"2026-11-13T08:49:09+01:00","by":"grenudi","id":"c2de9c8","project":"creation-guidelines/lab-agent","says":"docs: the author's driving waits on a surface that speaks for itself (#177)"}
+{"at":"2026-11-14T23:12:48+01:00","by":"grenudi","id":"c46169d","project":"creation-guidelines/lab-agent","says":"docs: the wait did not fail: the sign says what the journal says (#190)"}
 {"at":"2026-11-13T02:17:59+01:00","by":"grenudi","id":"c5e77db","project":"creation-guidelines/lab-agent","says":"feat: the voice reads what the author's own observatory observed (#176)"}
 {"at":"2026-11-10T04:18:07+01:00","by":"grenudi","id":"c8142eb","project":"creation-guidelines/lab-agent","says":"feat: updates apply themselves when the agent is idle (#74)"}
 {"at":"2026-11-12T10:06:27+01:00","by":"grenudi","id":"c93a92e","project":"creation-guidelines/lab-agent","says":"fix: release-plz: oco-agent's crates get their own tag names (#156)"}
@@ -674,6 +675,7 @@
 {"at":"2026-11-13T15:46:56Z","by":"oco observe","id":"04be203","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:47:55Z","by":"oco observe","id":"04d6e2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:48:15Z","by":"oco observe","id":"063adf4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T22:13:21Z","by":"oco observe","id":"065c559","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:48:23Z","by":"oco observe","id":"07887c5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T06:49:13Z","by":"oco observe","id":"07db5cd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:48:35Z","by":"oco observe","id":"09cefc5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1001,6 +1003,7 @@
 {"at":"2026-11-10T19:02:57+01:00","by":"grenudi","id":"0896c56","project":"open-commons-observatory/ocoeco","says":"fix: read shared tables through GitHub's API - current and authoritative (#10)"}
 {"at":"2026-11-10T20:31:00+01:00","by":"grenudi","id":"08a85c4","project":"open-commons-observatory/ocoeco","says":"fix: gathered data on its own branch; automation is not work (#14)"}
 {"at":"2026-11-11T22:08:13+01:00","by":"grenudi","id":"0af68a2","project":"open-commons-observatory/ocoeco","says":"docs: every change recorded - research, design and the milestone (#43)"}
+{"at":"2026-11-14T23:14:08+01:00","by":"github-actions[bot]","id":"0c06383","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.3 (#235)"}
 {"at":"2026-11-13T09:45:14+01:00","by":"grenudi","id":"0de70d8","project":"open-commons-observatory/ocoeco","says":"feat: a part laid out once per value: each red line under its own name (#101)"}
 {"at":"2026-11-14T10:43:39+01:00","by":"github-actions[bot]","id":"0fe2f8d","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.18.0 (#175)"}
 {"at":"2026-11-13T02:21:29+01:00","by":"grenudi","id":"115b637","project":"open-commons-observatory/ocoeco","says":"fix: a new place can record its work, its reasoning and what is wrong (#90)"}
@@ -1351,6 +1354,7 @@
 {"at":"2026-11-12T00:33:43Z","by":"oco harvest","id":"2a2cf28","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T18:22:32Z","by":"oco harvest","id":"2a3b5c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:51:15Z","by":"oco harvest","id":"2b8ae0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-14T23:13:20+01:00","by":"grenudi","id":"2caefd5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: evidence before the word: shown where it was not followed, and what came of it (#83)"}
 {"at":"2026-11-12T20:09:31Z","by":"oco harvest","id":"2d3da85","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:50:57Z","by":"oco harvest","id":"2e20db4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:00:19+01:00","by":"grenudi","id":"2e2a503","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: practices since the 26th: ten ways of working, each saying where it is shown (#78)"}
