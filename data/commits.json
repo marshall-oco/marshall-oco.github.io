@@ -668,6 +668,7 @@
 {"at":"2026-11-14T19:05:42+01:00","by":"lab-agent-session","id":"87a9420","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: all means all"}
 {"at":"2026-11-14T21:38:44+01:00","by":"lab-agent-session","id":"8badde7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T19:59:53+01:00","by":"lab-agent-session","id":"8ef91ae","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T00:27:35+01:00","by":"lab-agent-session","id":"9bb0ec5","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: the oscillation of discovery"}
 {"at":"2026-11-14T22:35:12+01:00","by":"lab-agent-session","id":"bbfeee7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T20:30:31+01:00","by":"lab-agent-session","id":"d9fbddc","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T00:16:16+01:00","by":"lab-agent-session","id":"dd7f5f8","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: not fixed on a surface"}
@@ -878,6 +879,7 @@
 {"at":"2026-11-14T22:39:11Z","by":"oco observe","id":"c697d8b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:52:26Z","by":"oco observe","id":"c6e44de","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:28:51Z","by":"oco observe","id":"c8809ab","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T00:30:18+01:00","by":"grenudi","id":"c9e1bf5","project":"marshall-oco/marshall-oco.github.io","says":"docs: a guard is part of the file it is in: a relation, added to the lens of the program (#12)"}
 {"at":"2026-11-13T07:58:45Z","by":"oco observe","id":"cab4cc6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:03:15Z","by":"oco observe","id":"d059e19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:42:04+01:00","by":"grenudi","id":"d1e3b71","project":"marshall-oco/marshall-oco.github.io","says":"docs: the sheet says what each sign waits on (#5)"}
@@ -909,6 +911,7 @@
 {"at":"2026-11-13T05:33:31Z","by":"oco observe","id":"e8a2135","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:50:02Z","by":"oco observe","id":"e8c241a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:32:14Z","by":"oco observe","id":"e8dc540","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T23:25:39Z","by":"oco observe","id":"eb258b7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:48:20Z","by":"oco observe","id":"eb905a3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:21:05Z","by":"oco observe","id":"ecd7cdc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:22:56Z","by":"oco observe","id":"ed06e6a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1639,6 +1642,7 @@
 {"at":"2026-11-12T13:28:30Z","by":"oco harvest","id":"b04f4c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T03:13:00Z","by":"oco harvest","id":"b29f6ae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T10:34:57Z","by":"oco harvest","id":"b2b23e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-14T23:25:30Z","by":"oco harvest","id":"b3ba866","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:11:37Z","by":"oco harvest","id":"b483fcf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T10:34:06Z","by":"oco harvest","id":"b4f4563","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:26:48+01:00","by":"grenudi","id":"b5a1141","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): the observatory's own thinking as data - concepts, decisions, backlog, session log (#5)"}
@@ -1728,6 +1732,7 @@
 {"at":"2026-11-12T19:14:02Z","by":"oco harvest","id":"e80c876","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:20:47Z","by":"oco harvest","id":"e84ae3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T18:08:24Z","by":"oco harvest","id":"e886df1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-14T23:28:50Z","by":"oco harvest","id":"e8a0b0f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:46:50Z","by":"oco harvest","id":"e8c5a6a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T23:20:38Z","by":"oco harvest","id":"e8d114f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:03:48Z","by":"oco harvest","id":"e90c186","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
