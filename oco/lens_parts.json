@@ -1,3 +1,4 @@
+{"id":"as-steps/1","lens":"as-steps","part":1,"always":true,"query":"SELECT 'ocoeco focus around@' || thing || '   # ' || says AS text FROM (SELECT thing, min(seq) AS first, arg_min(says, seq) AS says FROM plane WHERE kind = 'line' AND coalesce(thing, '') <> '' GROUP BY thing) ORDER BY first","lays_out":"{text}"}
 {"id":"at-a-glance/1","lens":"at-a-glance","part":1,"places":"now","only":"being done now"}
 {"id":"at-a-glance/2","lens":"at-a-glance","part":2,"places":"work","only":"in progress - read off what was done"}
 {"id":"at-a-glance/3","lens":"at-a-glance","part":3,"places":"signs","only":"showing - nothing has come of it yet"}
