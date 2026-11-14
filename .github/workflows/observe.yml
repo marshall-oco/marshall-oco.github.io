@@ -37,7 +37,16 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           ONLY: ${{ inputs.only }}
-        run: ocoeco observe --out data ${ONLY:+--only "$ONLY"}
+        run: |
+          # Everything is observed by holding: each place this observatory gathers is brought to hand, as it
+          # is on GitHub now, and read as any place held is read - its tables, those it keeps on another
+          # branch, and what the routes read. What has run alone, which the lab asks for every quarter hour,
+          # is asked of GitHub.
+          if [ -n "$ONLY" ]; then
+            ocoeco observe --out data --only "$ONLY"
+          else
+            ocoeco observe --hold "$RUNNER_TEMP/held" --out data
+          fi
       - name: commit what changed
         run: |
           git add data
