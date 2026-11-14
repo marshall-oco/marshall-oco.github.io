@@ -2,7 +2,8 @@
 {"id":"at-a-glance/2","lens":"at-a-glance","part":2,"places":"work","only":"in progress - read off what was done"}
 {"id":"at-a-glance/3","lens":"at-a-glance","part":3,"places":"signs","only":"showing - nothing has come of it yet"}
 {"id":"still-showing/1","lens":"still-showing","part":1,"places":"signs","only":"showing - nothing has come of it yet"}
-{"id":"still-showing/2","lens":"still-showing","part":2,"places":"signs","only":"failing on main"}
-{"id":"still-showing/3","lens":"still-showing","part":3,"places":"work","only":"held back - read off what halts it"}
-{"id":"still-showing/4","lens":"still-showing","part":4,"places":"work","only":"said to be waiting, though nothing drawn holds it back"}
-{"id":"still-showing/5","lens":"still-showing","part":5,"places":"purpose","only":"ahead - what, once done, would free the most"}
+{"id":"still-showing/2","lens":"still-showing","part":3,"places":"signs","only":"failing on main"}
+{"id":"still-showing/3","lens":"still-showing","part":4,"places":"work","only":"held back - read off what halts it"}
+{"id":"still-showing/4","lens":"still-showing","part":5,"places":"work","only":"said to be waiting, though nothing drawn holds it back"}
+{"id":"still-showing/5","lens":"still-showing","part":6,"places":"purpose","only":"ahead - what, once done, would free the most"}
+{"id":"still-showing/what-each-waits-on","lens":"still-showing","part":2,"places":"signs","only":"showing, and what each waits on"}
