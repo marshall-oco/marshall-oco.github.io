@@ -902,6 +902,7 @@
 {"at":"2026-11-14T09:48:18Z","by":"oco observe","id":"de50b03","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T16:55:31Z","by":"oco observe","id":"dfa3c3d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:03:35Z","by":"oco observe","id":"dfbe82c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T23:49:26Z","by":"oco observe","id":"dff0fca","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T09:38:44Z","by":"oco observe","id":"e19ac8a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:32:51Z","by":"oco observe","id":"e3b3f79","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:47:49Z","by":"oco observe","id":"e3d3789","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1105,6 +1106,7 @@
 {"at":"2026-11-10T22:45:09+01:00","by":"grenudi","id":"581195d","project":"open-commons-observatory/ocoeco","says":"docs: ocoeco's idea, told for anyone - in its own data (#18)"}
 {"at":"2026-11-14T01:36:03+01:00","by":"grenudi","id":"584b665","project":"open-commons-observatory/ocoeco","says":"feat: what fits here: from a blank, what may come next (#147)"}
 {"at":"2026-11-13T22:40:37+01:00","by":"github-actions[bot]","id":"5980a5b","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.4.0 (#120)"}
+{"at":"2026-11-15T00:52:27+01:00","by":"grenudi","id":"59ff83b","project":"open-commons-observatory/ocoeco","says":"feat: a row is taken back by saying so, guarded as entering is (#249)"}
 {"at":"2026-11-14T16:40:29+01:00","by":"grenudi","id":"5a8e028","project":"open-commons-observatory/ocoeco","says":"fix: the graph by any route: made of what was observed as of what is held (#190)"}
 {"at":"2026-11-11T12:05:32+01:00","by":"grenudi","id":"5c4e9c1","project":"open-commons-observatory/ocoeco","says":"feat: the vocabulary - ocoeco's shared words, compiled into the tool (#26)"}
 {"at":"2026-11-14T22:30:16+01:00","by":"grenudi","id":"5edf02a","project":"open-commons-observatory/ocoeco","says":"feat: observed by holding: one way of reading; what a route reads is a thing (#226)"}
@@ -1451,6 +1453,7 @@
 {"at":"2026-11-10T17:50:42+01:00","by":"grenudi","id":"439c2d6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"chore(mark): its place among the observatory's family (1) (#11)"}
 {"at":"2026-11-11T00:39:27Z","by":"oco harvest","id":"442fd3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:14:11Z","by":"oco harvest","id":"445b353","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-14T23:50:16Z","by":"oco harvest","id":"44d3653","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T09:45:22Z","by":"oco harvest","id":"45539e8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:35:57Z","by":"oco harvest","id":"458c7eb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:53:30Z","by":"oco harvest","id":"45a484c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
