@@ -124,6 +124,7 @@
 {"at":"2026-11-14T18:04:16Z","by":"claude","id":"g-20261114-180416","kind":"docs","project":"marshall-oco/conversation","summary":"the conversation, kept in a place: what was said, turn by turn","where":"open-commons-observatory/ecosystem/reflections:2026-11-14-all-of-it-as-one"}
 {"at":"2026-11-14T18:05:42Z","by":"claude","id":"g-20261114-180542","kind":"docs","project":"marshall-oco/conversation","summary":"a turn entered as it was said: all means all"}
 {"at":"2026-11-14T18:52:47Z","by":"claude","id":"g-20261114-185247","kind":"docs","project":"marshall-oco/conversation","summary":"a turn entered as it was said: you see it"}
+{"at":"2026-11-14T18:59:53Z","by":"claude","id":"g-20261114-185953","kind":"docs","project":"marshall-oco/conversation","summary":"a turn entered as it was said: continue"}
 {"at":"2026-11-13T01:22:10Z","by":"claude","id":"g-20261113-012210","kind":"docs","project":"marshall-oco/marshall-oco.github.io","summary":"a landing starts this observatory; it can record its own work"}
 {"at":"2026-11-13T21:39:39Z","by":"claude","id":"g-20261113-213939","kind":"docs","project":"marshall-oco/marshall-oco.github.io","summary":"a sheet made through a lens: at-a-glance"}
 {"at":"2026-11-14T07:28:40Z","by":"claude","id":"g-20261114-072840","kind":"docs","project":"marshall-oco/marshall-oco.github.io","summary":"still showing: a sheet of what the whole waits on, made through entries"}
@@ -339,6 +340,7 @@
 {"at":"2026-11-12T19:55:44Z","by":"claude","id":"g-20261112-195544","kind":"fix","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"a harvest collision on its own data: the later observation wins"}
 {"at":"2026-11-12T21:32:22Z","by":"claude","id":"g-20261112-213222","kind":"feat","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"the observatory's page shows the fulldome, beside the engine's views"}
 {"at":"2026-11-13T07:24:53Z","by":"Claude","id":"g-20261113-072453","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"practice 26: refining first, and recorded through ocoeco","touches":"practices:26-refining-first"}
+{"at":"2026-11-14T19:00:02Z","by":"claude","id":"g-20261114-190002","kind":"docs","project":"open-commons-observatory/open-commons-observatory.github.io","summary":"practices since the 26th: ten ways of working, each saying where it is shown","where":"marshall-oco/conversation/turns:turn-2026-11-14-continue open-commons-observatory/ecosystem/problems:the-guidelines-are-pointed-at-by-nothing"}
 {"at":"2026-11-11T21:41:03Z","by":"lab-agent-session","id":"g-20261111-214103","kind":"chore","project":"rhizome-oco/lens","summary":"glimpses are recorded here from now on"}
 {"at":"2026-11-13T00:33:32Z","by":"claude","id":"g-20261113-003332","kind":"docs","project":"rhizome-oco/lens","summary":"this is a constellation, and says what it gathers"}
 {"at":"2026-11-11T21:41:25Z","by":"lab-agent-session","id":"g-20261111-214125","kind":"chore","project":"rhizome-oco/rhizome","summary":"glimpses are recorded here from now on"}
