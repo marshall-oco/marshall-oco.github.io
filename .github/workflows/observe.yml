@@ -5,6 +5,11 @@ on:
   schedule:
     - cron: "23 */6 * * *"
   workflow_dispatch:
+    inputs:
+      only:
+        description: "Observe only this part (runs): the lab asks for what has run every quarter hour"
+        required: false
+        default: ""
 permissions:
   contents: write
   pages: write
@@ -17,13 +22,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: dtolnay/rust-toolchain@stable
-      - name: ocoeco
-        run: cargo install --locked --git https://github.com/open-commons-observatory/ocoeco ocoeco
+      # ocoeco taken from its release, checked against its sums: seconds, where building it took minutes
+      - name: ocoeco, from its release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/ocoeco" "$RUNNER_TEMP/bin" && cd "$RUNNER_TEMP/ocoeco"
+          gh release download --repo open-commons-observatory/ocoeco --pattern "ocoeco-v*-x86_64-unknown-linux-musl.tar.gz" --pattern "SHA256SUMS-x86_64-unknown-linux-musl"
+          sha256sum -c --ignore-missing SHA256SUMS-x86_64-unknown-linux-musl
+          tar -xzf ocoeco-v*-x86_64-unknown-linux-musl.tar.gz
+          install -m 755 "$(find . -name ocoeco -type f | head -1)" "$RUNNER_TEMP/bin/ocoeco"
+          echo "$RUNNER_TEMP/bin" >> "$GITHUB_PATH"
       - name: observe
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: ocoeco observe --out data
+          ONLY: ${{ inputs.only }}
+        run: ocoeco observe --out data ${ONLY:+--only "$ONLY"}
       - name: commit what changed
         run: |
           git add data
