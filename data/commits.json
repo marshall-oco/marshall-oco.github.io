@@ -205,6 +205,7 @@
 {"at":"2026-11-09T23:05:34+01:00","by":"github-actions[bot]","id":"7a3bb8c","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.20 (#54)"}
 {"at":"2026-11-10T13:12:32+01:00","by":"grenudi","id":"7bbac87","project":"creation-guidelines/lab-agent","says":"fix: self-update --within retries a failed sync (#89)"}
 {"at":"2026-11-12T21:34:29+01:00","by":"grenudi","id":"7ef5486","project":"creation-guidelines/lab-agent","says":"docs: the switch on the board as it stands; three finished items closed with evidence (#172)"}
+{"at":"2026-11-14T22:52:18+01:00","by":"grenudi","id":"7fb0f0c","project":"creation-guidelines/lab-agent","says":"docs: wait does not see a long job end: said as a sign (#189)"}
 {"at":"2026-11-09T22:01:40+01:00","by":"grenudi","id":"809f155","project":"creation-guidelines/lab-agent","says":"feat: ask with buttons; popups only for what needs the user; the agent's messages in the board chat (#51)"}
 {"at":"2026-11-10T04:19:00+01:00","by":"github-actions[bot]","id":"82296a0","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.28 (#75)"}
 {"at":"2026-11-12T02:21:53+01:00","by":"grenudi","id":"839c58b","project":"creation-guidelines/lab-agent","says":"perf: the core reads the journal once to see where every job stands (#137)"}
@@ -857,6 +858,7 @@
 {"at":"2026-11-14T15:42:45Z","by":"oco observe","id":"d496caf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:44:30+01:00","by":"grenudi","id":"d68cec3","project":"marshall-oco/marshall-oco.github.io","says":"docs: what is showing where it is kept out, first on the sheet (#7)"}
 {"at":"2026-11-13T17:21:52Z","by":"oco observe","id":"d6ba68b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T21:51:34Z","by":"oco observe","id":"d6c1a1c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:28:54Z","by":"oco observe","id":"d6e84ad","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:48:21Z","by":"oco observe","id":"d79ce47","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:50:20Z","by":"oco observe","id":"d868a1a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -967,6 +969,7 @@
 {"at":"2026-11-14T20:01:32+01:00","by":"grenudi","id":"e2929b8","project":"open-commons-observatory/ecosystem","says":"docs: how work is done, said as practices: what came of it, and two signs (#68)"}
 {"at":"2026-11-14T02:11:27+01:00","by":"grenudi","id":"e2bdc56","project":"open-commons-observatory/ecosystem","says":"docs: what lies ahead, read off (#42)"}
 {"at":"2026-11-13T20:04:48+01:00","by":"grenudi","id":"e98699c","project":"open-commons-observatory/ecosystem","says":"docs: what came of a sign is a connection (#23)"}
+{"at":"2026-11-14T22:51:05+01:00","by":"grenudi","id":"eb14c1d","project":"open-commons-observatory/ecosystem","says":"docs: what is observed is what is held: what came of the sign (#81)"}
 {"at":"2026-11-14T21:16:50+01:00","by":"grenudi","id":"ec905fd","project":"open-commons-observatory/ecosystem","says":"docs: the steps of a route is a lens, as items that serve it (#76)"}
 {"at":"2026-11-14T10:08:52+01:00","by":"grenudi","id":"ed76100","project":"open-commons-observatory/ecosystem","says":"docs: one observer of what has run (#50)"}
 {"at":"2026-11-14T21:00:23+01:00","by":"grenudi","id":"ee30596","project":"open-commons-observatory/ecosystem","says":"docs: a next step is words: what looking found, said as a sign (#75)"}
