@@ -945,6 +945,7 @@
 {"at":"2026-11-14T18:18:10Z","by":"oco observe","id":"a80c08e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:49:54Z","by":"oco observe","id":"a821c48","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:11:23Z","by":"oco observe","id":"a898ce2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T15:20:28Z","by":"oco observe","id":"a8b1e99","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:42:08Z","by":"oco observe","id":"a964209","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:54:52Z","by":"oco observe","id":"a968264","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:02:52Z","by":"oco observe","id":"a976a20","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1189,6 +1190,7 @@
 {"at":"2026-11-14T23:03:55+01:00","by":"grenudi","id":"f0a60de","project":"open-commons-observatory/ecosystem","record":"g-20261114-220338","says":"docs: what a look's time went to: what came of the sign (#82)"}
 {"at":"2026-11-13T23:11:16+01:00","by":"grenudi","id":"f1366f1","project":"open-commons-observatory/ecosystem","record":"g-20261113-221059","says":"docs: squares on the periphery: the author's question, and the trial it leads to (#30)"}
 {"at":"2026-11-15T13:43:59+01:00","by":"grenudi","id":"f1568b0","project":"open-commons-observatory/ecosystem","record":"g-20261115-124341","says":"docs: what came of a row taken back leaving a link pointing nowhere (#104)"}
+{"at":"2026-11-15T16:20:49+01:00","by":"grenudi","id":"f20b97b","project":"open-commons-observatory/ecosystem","record":"g-20261115-152033","says":"docs: the way to the lab, tried: asked with git alone, from a workspace with no token (#107)"}
 {"at":"2026-11-14T21:27:50+01:00","by":"grenudi","id":"f3623fe","project":"open-commons-observatory/ecosystem","record":"g-20261114-202734","says":"docs: a table entered as itself: the step taken, and what came of the sign (#77)"}
 {"at":"2026-11-14T21:59:05+01:00","by":"grenudi","id":"fa3c886","project":"open-commons-observatory/ecosystem","record":"g-20261114-205850","says":"docs: the program in view: its source and its guards, read (#79)"}
 {"at":"2026-11-13T08:25:36+01:00","by":"grenudi","id":"fd65cf1","project":"open-commons-observatory/ecosystem","record":"g-20261113-072521","says":"docs: what a milestone is, in the author's words; the other half on the board (#6)"}
@@ -1627,6 +1629,7 @@
 {"at":"2026-11-14T20:00:19+01:00","by":"grenudi","id":"2e2a503","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-190002","says":"docs: practices since the 26th: ten ways of working, each saying where it is shown (#78)"}
 {"at":"2026-11-12T18:33:36Z","by":"oco harvest","id":"2ecd540","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:04:51Z","by":"oco harvest","id":"2edbf72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T15:20:46Z","by":"oco harvest","id":"2fbfa22","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T21:42:40Z","by":"oco harvest","id":"2fe9628","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:59:20Z","by":"oco harvest","id":"30a6a92","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:30:56Z","by":"oco harvest","id":"30bfcf3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -1901,6 +1904,7 @@
 {"at":"2026-11-14T08:32:24Z","by":"oco harvest","id":"adb6ab5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:05:03Z","by":"oco harvest","id":"ade2537","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:28:43Z","by":"oco harvest","id":"aece638","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T16:20:16+01:00","by":"grenudi","id":"af13c91","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-152000","says":"docs: working on the lab: a fresh workspace gets there by itself, with no token (#92)"}
 {"at":"2026-11-12T02:11:30Z","by":"oco harvest","id":"af28df8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:07:34Z","by":"oco harvest","id":"af5dff7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:28:30Z","by":"oco harvest","id":"b04f4c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
