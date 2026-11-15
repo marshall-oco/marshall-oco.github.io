@@ -723,6 +723,7 @@
 {"at":"2026-11-13T17:17:59Z","by":"oco observe","id":"0f066a9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T13:33:23Z","by":"oco observe","id":"1040aa7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:36:41Z","by":"oco observe","id":"1078feb","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T13:36:07Z","by":"oco observe","id":"10ee969","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T22:39:55+01:00","by":"grenudi","id":"11f8ebb","project":"marshall-oco/marshall-oco.github.io","record":"g-20261113-213939","says":"docs: a sheet made through a lens: at-a-glance (#2)"}
 {"at":"2026-11-14T12:03:24Z","by":"oco observe","id":"1209cb1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:33:15Z","by":"oco observe","id":"1245e16","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1074,6 +1075,7 @@
 {"at":"2026-11-14T09:44:08+01:00","by":"grenudi","id":"058d740","project":"open-commons-observatory/ecosystem","record":"g-20261114-084352","says":"docs: who takes part: a lens made through entries, and halts drawn from a person (#49)"}
 {"at":"2026-11-15T00:09:42+01:00","by":"grenudi","id":"065b932","project":"open-commons-observatory/ecosystem","record":"g-20261114-230926","says":"docs: a surface is said by a lens: what came of the author's words on surfaces (#86)"}
 {"at":"2026-11-14T19:51:09+01:00","by":"grenudi","id":"0afbc1c","project":"open-commons-observatory/ecosystem","record":"g-20261114-185053","says":"docs: found with no label: what came of the sign (#67)"}
+{"at":"2026-11-15T14:36:32+01:00","by":"grenudi","id":"104c010","project":"open-commons-observatory/ecosystem","record":"g-20261115-133615","says":"docs: what the engine's page showed: a reflection, and the item says what is ahead (#105)"}
 {"at":"2026-11-14T16:34:07+01:00","by":"grenudi","id":"13695c5","project":"open-commons-observatory/ecosystem","record":"g-20261114-153351","says":"docs: a route says as of when: what the look found (#58)"}
 {"at":"2026-11-14T20:07:42+01:00","by":"grenudi","id":"15767f2","project":"open-commons-observatory/ecosystem","record":"g-20261114-190727","says":"docs: shown rather than lost: what came of the sign (#69)"}
 {"at":"2026-11-13T01:59:06+01:00","by":"lab-agent-session","id":"1d19d30","project":"open-commons-observatory/ecosystem","says":"feat: OCO, as a constellation in a place of its own"}
@@ -1196,6 +1198,7 @@
 {"at":"2026-11-15T11:10:12+01:00","by":"grenudi","id":"0e69caa","project":"open-commons-observatory/ocoeco","record":"g-20261115-100843","says":"docs: the names not yet said: eleven words, read from what each holds (#276)"}
 {"at":"2026-11-14T10:43:39+01:00","by":"github-actions[bot]","id":"0fe2f8d","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.18.0 (#175)"}
 {"at":"2026-11-13T02:21:29+01:00","by":"grenudi","id":"115b637","project":"open-commons-observatory/ocoeco","record":"g-20261113-012009","says":"fix: a new place can record its work, its reasoning and what is wrong (#90)"}
+{"at":"2026-11-15T14:35:31+01:00","by":"github-actions[bot]","id":"1261630","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.47.1 (#291)"}
 {"at":"2026-11-14T02:16:54+01:00","by":"github-actions[bot]","id":"13eb915","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.14.0 (#156)"}
 {"at":"2026-11-14T17:58:17+01:00","by":"grenudi","id":"14c26c2","project":"open-commons-observatory/ocoeco","record":"g-20261114-165647","says":"fix: the language asks what a value is; two signs say what looking found (#196)"}
 {"at":"2026-11-13T19:41:57+01:00","by":"grenudi","id":"152a472","project":"open-commons-observatory/ocoeco","record":"g-20261113-184037","says":"docs: ocoeco is released: taken from its release elsewhere, and looked through (#115)"}
@@ -1688,6 +1691,7 @@
 {"at":"2026-11-13T11:04:16Z","by":"oco harvest","id":"4ed30ae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T20:02:26Z","by":"oco harvest","id":"4edef89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T02:16:41Z","by":"oco harvest","id":"4ee4cbb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T14:35:57+01:00","by":"grenudi","id":"4eec22e","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-133541","says":"feat: the first observatory says what it shows first: where the whole is weakest (#90)"}
 {"at":"2026-11-11T14:43:45+01:00","by":"grenudi","id":"4f46e86","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: patching source by text is automated by structural edits (#59)"}
 {"at":"2026-11-15T05:00:10Z","by":"oco harvest","id":"4fa34e0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T12:06:26Z","by":"oco harvest","id":"5092197","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
