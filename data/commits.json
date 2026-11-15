@@ -907,6 +907,7 @@
 {"at":"2026-11-14T08:32:32Z","by":"oco observe","id":"b9261f3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T06:41:04Z","by":"oco observe","id":"b9f4aa7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:42:42Z","by":"oco observe","id":"baeb8e0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T08:52:30Z","by":"oco observe","id":"bb465b6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:23:40+01:00","by":"grenudi","id":"bb63a3e","project":"marshall-oco/marshall-oco.github.io","says":"docs: the parts say places: one word for placing side by side (#4)"}
 {"at":"2026-11-14T19:33:29Z","by":"oco observe","id":"be0dd06","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T03:48:25Z","by":"oco observe","id":"bf1f860","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1175,6 +1176,7 @@
 {"at":"2026-11-14T16:18:49+01:00","by":"grenudi","id":"4e0ac79","project":"open-commons-observatory/ocoeco","says":"feat: the board reads where the work is happening (#186)"}
 {"at":"2026-11-14T20:53:21+01:00","by":"github-actions[bot]","id":"4fb160d","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.28.1 (#216)"}
 {"at":"2026-11-14T22:55:33+01:00","by":"grenudi","id":"5008e0f","project":"open-commons-observatory/ocoeco","says":"docs: a look is slower than is understood: said as a sign, with what was measured (#230)"}
+{"at":"2026-11-15T09:51:49+01:00","by":"github-actions[bot]","id":"525eddc","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.1 (#262)"}
 {"at":"2026-11-12T12:40:26+01:00","by":"grenudi","id":"5470c24","project":"open-commons-observatory/ocoeco","says":"docs: the whole is the fulldome: one sky, no walls; ocoeco is the agreement (#51)"}
 {"at":"2026-11-13T19:33:07+01:00","by":"github-actions[bot]","id":"55b6188","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.2.1 (#114)"}
 {"at":"2026-11-14T16:48:47+01:00","by":"github-actions[bot]","id":"564e7ab","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.23.0 (#189)"}
@@ -1312,6 +1314,7 @@
 {"at":"2026-11-11T11:58:46+01:00","by":"grenudi","id":"c9c84be","project":"open-commons-observatory/ocoeco","says":"feat: ocoeco note - recording as a tool (#23)"}
 {"at":"2026-11-14T00:33:26+01:00","by":"github-actions[bot]","id":"cc26c4e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.7.0 (#136)"}
 {"at":"2026-11-14T23:01:23+01:00","by":"github-actions[bot]","id":"ce2f6fd","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.2 (#232)"}
+{"at":"2026-11-15T09:53:59+01:00","by":"grenudi","id":"cf69f1c","project":"open-commons-observatory/ocoeco","says":"docs: making the graph takes time that is not understood: said as a sign (#263)"}
 {"at":"2026-11-13T22:06:34+01:00","by":"grenudi","id":"d1b01f5","project":"open-commons-observatory/ocoeco","says":"fix: in progress is the last day, not the last three (#125)"}
 {"at":"2026-11-10T18:33:32+01:00","by":"grenudi","id":"d23bb12","project":"open-commons-observatory/ocoeco","says":"docs(spec): lenses - grand views as repositories of their own, rendered by one engine (#6)"}
 {"at":"2026-11-14T02:15:58+01:00","by":"grenudi","id":"d4d6bf7","project":"open-commons-observatory/ocoeco","says":"feat: every command speaks from a blank: read off its declaration (#157)"}
