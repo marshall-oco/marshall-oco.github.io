@@ -71,9 +71,9 @@ jobs:
       - name: the fulldome, on the page
         run: |
           mkdir -p _site
-          # the page is laid out by a lens: as-page, the surface said in the language - what it looks like
-          # is what that lens says
-          ocoeco fulldome --observed data --surface as-page > _site/index.html
+          # the site is said by a lens of this place: its rows are the pages - the whole, and a page for
+          # each place in view - each laid out by the page lens; a line about a place leads to its page
+          ocoeco site site --observed data --out _site
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
