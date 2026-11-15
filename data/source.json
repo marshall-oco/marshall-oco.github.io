@@ -99,10 +99,10 @@
 {"bytes":4708,"id":"build.rs","lines":114,"path":"build.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":6720,"id":"src/board.rs","lines":179,"path":"src/board.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":22946,"id":"src/discover.rs","lines":620,"path":"src/discover.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":30736,"id":"src/dome.rs","lines":789,"path":"src/dome.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":23601,"id":"src/dome.rs","lines":640,"path":"src/dome.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":21363,"id":"src/entries.rs","lines":598,"path":"src/entries.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":22728,"id":"src/fits.rs","lines":582,"path":"src/fits.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":101764,"id":"src/focus.rs","lines":2285,"path":"src/focus.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":100931,"id":"src/focus.rs","lines":2274,"path":"src/focus.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":32216,"id":"src/fulldome.rs","lines":820,"path":"src/fulldome.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":8226,"id":"src/gather.rs","lines":218,"path":"src/gather.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":13751,"id":"src/glimpse.rs","lines":399,"path":"src/glimpse.rs","project":"open-commons-observatory/ocoeco"}
@@ -111,7 +111,7 @@
 {"bytes":8524,"id":"src/kept.rs","lines":218,"path":"src/kept.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":44500,"id":"src/lenses.rs","lines":1074,"path":"src/lenses.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":443,"id":"src/lib.rs","lines":24,"path":"src/lib.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":54940,"id":"src/main.rs","lines":1257,"path":"src/main.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":55475,"id":"src/main.rs","lines":1271,"path":"src/main.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":15997,"id":"src/manual.rs","lines":463,"path":"src/manual.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":8616,"id":"src/mark.rs","lines":214,"path":"src/mark.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":18222,"id":"src/moving.rs","lines":473,"path":"src/moving.rs","project":"open-commons-observatory/ocoeco"}

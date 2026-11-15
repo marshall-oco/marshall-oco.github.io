@@ -987,6 +987,7 @@
 {"at":"2026-11-14T22:06:11Z","by":"oco observe","id":"f5b5aed","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:48:53Z","by":"oco observe","id":"f6850e5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T01:33:23Z","by":"oco observe","id":"f725c19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T08:36:13Z","by":"oco observe","id":"f82d6dd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:18:20Z","by":"oco observe","id":"f95e452","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T21:09:32Z","by":"oco observe","id":"fa31a29","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:23:20Z","by":"oco observe","id":"fb48bb0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1115,6 +1116,7 @@
 {"at":"2026-11-14T02:16:54+01:00","by":"github-actions[bot]","id":"13eb915","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.14.0 (#156)"}
 {"at":"2026-11-14T17:58:17+01:00","by":"grenudi","id":"14c26c2","project":"open-commons-observatory/ocoeco","says":"fix: the language asks what a value is; two signs say what looking found (#196)"}
 {"at":"2026-11-13T19:41:57+01:00","by":"grenudi","id":"152a472","project":"open-commons-observatory/ocoeco","says":"docs: ocoeco is released: taken from its release elsewhere, and looked through (#115)"}
+{"at":"2026-11-15T09:40:46+01:00","by":"grenudi","id":"158f011","project":"open-commons-observatory/ocoeco","says":"refactor: the program lets the page go: a lens says it; a beam says what took how long (#260)"}
 {"at":"2026-11-12T14:47:16+01:00","by":"grenudi","id":"1682c01","project":"open-commons-observatory/ocoeco","says":"refactor: the lenses hold the shared language: regrouped, proven unchanged (#63)"}
 {"at":"2026-11-12T12:11:06+01:00","by":"grenudi","id":"187f4f1","project":"open-commons-observatory/ocoeco","says":"docs: the room: the board is the open commons' obeya; star, constellation, lens, observer (#50)"}
 {"at":"2026-11-15T08:03:01+01:00","by":"grenudi","id":"1a09d4e","project":"open-commons-observatory/ocoeco","says":"feat: a step says when: who stood where, as a row of a place the machine holds (#258)"}
@@ -1835,6 +1837,7 @@
 {"at":"2026-11-11T00:37:18Z","by":"oco harvest","id":"e7015c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:59:14Z","by":"oco harvest","id":"e794aec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:14:02Z","by":"oco harvest","id":"e80c876","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T08:37:57Z","by":"oco harvest","id":"e835659","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:20:47Z","by":"oco harvest","id":"e84ae3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T18:08:24Z","by":"oco harvest","id":"e886df1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T23:28:50Z","by":"oco harvest","id":"e8a0b0f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
