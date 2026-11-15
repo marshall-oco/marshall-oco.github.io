@@ -669,6 +669,7 @@
 {"at":"2026-11-15T10:28:23+01:00","by":"lab-agent-session","id":"4b075a2","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T19:04:16+01:00","by":"lab-agent-session","id":"54cd2b0","project":"marshall-oco/conversation","says":"docs: the conversation, kept in a place: what was said, turn by turn"}
 {"at":"2026-11-14T23:25:43+01:00","by":"lab-agent-session","id":"5ccb5fb","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T11:30:28+01:00","by":"lab-agent-session","id":"6fa911e","project":"marshall-oco/conversation","says":"fix: a reply kept twice is kept once: the turn after it follows the first"}
 {"at":"2026-11-14T20:19:29+01:00","by":"lab-agent-session","id":"746ae77","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T11:27:12+01:00","by":"lab-agent-session","id":"7fbb01d","project":"marshall-oco/conversation","says":"docs: two more transcripts read: the turns of the thirteenth evening and the fourteenth"}
 {"at":"2026-11-14T19:52:47+01:00","by":"lab-agent-session","id":"866c745","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: you see it"}
@@ -676,6 +677,7 @@
 {"at":"2026-11-14T21:38:44+01:00","by":"lab-agent-session","id":"8badde7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T19:59:53+01:00","by":"lab-agent-session","id":"8ef91ae","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T05:49:25+01:00","by":"lab-agent-session","id":"91ed4ce","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T11:32:34+01:00","by":"lab-agent-session","id":"94a3f76","project":"marshall-oco/conversation","says":"fix: the seam between transcripts repeats a turn: kept once; the way in is kept here"}
 {"at":"2026-11-15T00:27:35+01:00","by":"lab-agent-session","id":"9bb0ec5","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: the oscillation of discovery"}
 {"at":"2026-11-15T07:56:04+01:00","by":"lab-agent-session","id":"a71408c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T06:05:39+01:00","by":"lab-agent-session","id":"af0d9ed","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -778,6 +780,7 @@
 {"at":"2026-11-13T19:07:01Z","by":"oco observe","id":"4165b19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:44:32Z","by":"oco observe","id":"420942d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T12:33:17Z","by":"oco observe","id":"424d87f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T10:33:15Z","by":"oco observe","id":"4260846","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:54:55Z","by":"oco observe","id":"428f154","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:28:22Z","by":"oco observe","id":"45d56e3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:03:10Z","by":"oco observe","id":"47825c4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -931,6 +934,7 @@
 {"at":"2026-11-14T07:34:08Z","by":"oco observe","id":"b8352c9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:03:33Z","by":"oco observe","id":"b8a1410","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:32:32Z","by":"oco observe","id":"b9261f3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T10:30:11Z","by":"oco observe","id":"b9c4651","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T06:41:04Z","by":"oco observe","id":"b9f4aa7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:42:42Z","by":"oco observe","id":"baeb8e0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:52:30Z","by":"oco observe","id":"bb465b6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1041,6 +1045,7 @@
 {"at":"2026-11-14T17:58:48+01:00","by":"grenudi","id":"1ff7065","project":"open-commons-observatory/ecosystem","says":"docs: a date is words held to a shape; what waits on the author, drawn (#61)"}
 {"at":"2026-11-13T21:47:13+01:00","by":"grenudi","id":"20568ca","project":"open-commons-observatory/ecosystem","says":"docs: a sheet is a word: the author's words, and what came of them (#27)"}
 {"at":"2026-11-13T08:49:36+01:00","by":"grenudi","id":"20a3dd4","project":"open-commons-observatory/ecosystem","says":"docs: what does not fit is a sign: the author's words, and what the week's records show (#7)"}
+{"at":"2026-11-15T11:32:59+01:00","by":"grenudi","id":"24c493b","project":"open-commons-observatory/ecosystem","says":"docs: the way in for the conversation is kept where the conversation is (#102)"}
 {"at":"2026-11-14T23:33:09+01:00","by":"grenudi","id":"2562a1f","project":"open-commons-observatory/ecosystem","says":"docs: three waits drawn, not said in words; what the three repositories with no mark are (#84)"}
 {"at":"2026-11-14T18:36:08+01:00","by":"grenudi","id":"256424a","project":"open-commons-observatory/ecosystem","says":"docs: where everything lives: the surfaces, read and not yet read (#63)"}
 {"at":"2026-11-14T00:53:50+01:00","by":"grenudi","id":"274730b","project":"open-commons-observatory/ecosystem","says":"docs: shapes across lenses: what the trial showed, and what is next (#35)"}
@@ -1693,6 +1698,7 @@
 {"at":"2026-11-10T17:46:09Z","by":"ocoeco gather","id":"6dbef37","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T16:54:25+01:00","by":"grenudi","id":"6e805c4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): oco-eco named; tad the heart, a rhizcut with its own path (#8)"}
 {"at":"2026-11-12T01:36:51Z","by":"oco harvest","id":"6f6e0ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T10:31:58Z","by":"oco harvest","id":"70d1d85","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:13:50Z","by":"oco harvest","id":"719fa51","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:24:01Z","by":"oco harvest","id":"71ba2ba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:18:17Z","by":"oco harvest","id":"71f6c87","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
