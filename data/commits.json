@@ -682,6 +682,7 @@
 {"at":"2026-11-15T05:49:25+01:00","by":"lab-agent-session","id":"91ed4ce","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T11:32:34+01:00","by":"lab-agent-session","id":"94a3f76","project":"marshall-oco/conversation","record":"g-20261115-103233","says":"fix: the seam between transcripts repeats a turn: kept once; the way in is kept here"}
 {"at":"2026-11-15T00:27:35+01:00","by":"lab-agent-session","id":"9bb0ec5","project":"marshall-oco/conversation","record":"g-20261114-232735","says":"docs: a turn entered as it was said: the oscillation of discovery"}
+{"at":"2026-11-15T13:53:44+01:00","by":"lab-agent-session","id":"a56905c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T07:56:04+01:00","by":"lab-agent-session","id":"a71408c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T06:05:39+01:00","by":"lab-agent-session","id":"af0d9ed","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T10:52:21+01:00","by":"lab-agent-session","id":"b7a485b","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -868,6 +869,7 @@
 {"at":"2026-11-14T22:32:43Z","by":"oco observe","id":"7ad3d5e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:07:01Z","by":"oco observe","id":"7bc1ae6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:35:34Z","by":"oco observe","id":"7ce2e11","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T12:51:45Z","by":"oco observe","id":"7d3ae15","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:18:12Z","by":"oco observe","id":"7e49958","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:07:07Z","by":"oco observe","id":"7eae7c0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:57:01Z","by":"oco observe","id":"7edde6c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -882,6 +884,7 @@
 {"at":"2026-11-14T13:18:09Z","by":"oco observe","id":"88ae050","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:40:23Z","by":"oco observe","id":"89207b9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:36:59Z","by":"oco observe","id":"89306be","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T13:03:23Z","by":"oco observe","id":"8a22b50","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:23:14Z","by":"oco observe","id":"8a2bac3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T16:22:17Z","by":"oco observe","id":"8b4b9e3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T12:48:10Z","by":"oco observe","id":"8bb3387","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1329,6 +1332,7 @@
 {"at":"2026-11-14T20:08:23+01:00","by":"github-actions[bot]","id":"8bdb730","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.2 (#209)"}
 {"at":"2026-11-13T07:25:46+01:00","by":"grenudi","id":"8d3325c","project":"open-commons-observatory/ocoeco","record":"g-20261113-062416","says":"feat: a chain is a shape: walked from where it begins, on every surface (#94)"}
 {"at":"2026-11-15T10:56:33+01:00","by":"grenudi","id":"8e45bf5","project":"open-commons-observatory/ocoeco","record":"g-20261115-095503","says":"docs: what the fields of rows mean: fifty-seven words (#271)"}
+{"at":"2026-11-15T14:15:52+01:00","by":"grenudi","id":"8e7a803","project":"open-commons-observatory/ocoeco","record":"g-20261115-131410","says":"feat: the window opens on what a place shows first, as the page does (#288)"}
 {"at":"2026-11-13T02:31:36+01:00","by":"grenudi","id":"8ece879","project":"open-commons-observatory/ocoeco","record":"g-20261113-013005","says":"docs: the decisions about the whole are in OCO's place; links follow (#92)"}
 {"at":"2026-11-15T10:10:10+01:00","by":"grenudi","id":"8f6da51","project":"open-commons-observatory/ocoeco","record":"g-20261115-090830","says":"perf: git is asked once for a commit; the graph says where its making went (#264)"}
 {"at":"2026-11-13T23:10:46+01:00","by":"grenudi","id":"8fd6d62","project":"open-commons-observatory/ocoeco","record":"g-20261113-220925","says":"docs: research: tables or a graph - ourselves, and how the world dealt with it (#128)"}
@@ -2024,6 +2028,7 @@
 {"at":"2026-11-10T20:48:43+01:00","by":"grenudi","id":"fbe1b24","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a practice - never run two jobs in the same clone at once (#25)"}
 {"at":"2026-11-14T08:44:45Z","by":"oco harvest","id":"fcc7d89","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:17:01Z","by":"oco harvest","id":"fcfeadb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T12:53:32Z","by":"oco harvest","id":"fd404db","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T09:13:05Z","by":"oco harvest","id":"fdf8910","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T12:40:11Z","by":"oco harvest","id":"fe1209e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:53:43Z","by":"oco harvest","id":"feaaf80","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
