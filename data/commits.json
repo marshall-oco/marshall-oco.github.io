@@ -1014,6 +1014,7 @@
 {"at":"2026-11-15T04:18:20Z","by":"oco observe","id":"f95e452","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T21:09:32Z","by":"oco observe","id":"fa31a29","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:23:20Z","by":"oco observe","id":"fb48bb0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T10:07:44Z","by":"oco observe","id":"fb7c9ab","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:03:12Z","by":"oco observe","id":"fcc2db6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:34:56Z","by":"oco observe","id":"fe87580","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T08:48:36Z","by":"oco observe","id":"fef1b39","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1137,6 +1138,7 @@
 {"at":"2026-11-11T22:08:13+01:00","by":"grenudi","id":"0af68a2","project":"open-commons-observatory/ocoeco","says":"docs: every change recorded - research, design and the milestone (#43)"}
 {"at":"2026-11-14T23:14:08+01:00","by":"github-actions[bot]","id":"0c06383","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.3 (#235)"}
 {"at":"2026-11-13T09:45:14+01:00","by":"grenudi","id":"0de70d8","project":"open-commons-observatory/ocoeco","says":"feat: a part laid out once per value: each red line under its own name (#101)"}
+{"at":"2026-11-15T11:10:12+01:00","by":"grenudi","id":"0e69caa","project":"open-commons-observatory/ocoeco","says":"docs: the names not yet said: eleven words, read from what each holds (#276)"}
 {"at":"2026-11-14T10:43:39+01:00","by":"github-actions[bot]","id":"0fe2f8d","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.18.0 (#175)"}
 {"at":"2026-11-13T02:21:29+01:00","by":"grenudi","id":"115b637","project":"open-commons-observatory/ocoeco","says":"fix: a new place can record its work, its reasoning and what is wrong (#90)"}
 {"at":"2026-11-14T02:16:54+01:00","by":"github-actions[bot]","id":"13eb915","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.14.0 (#156)"}
@@ -1564,6 +1566,7 @@
 {"at":"2026-11-13T06:13:10Z","by":"oco harvest","id":"3d661d5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:19:47+01:00","by":"grenudi","id":"3d7fbdd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: the mark, schema 1 - oco.toml, the oco-project topic, the standard tables (#1)"}
 {"at":"2026-11-15T07:16:39Z","by":"oco harvest","id":"3dc7038","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T10:09:03Z","by":"oco harvest","id":"3df435c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:13:23Z","by":"oco harvest","id":"3e73327","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T13:54:44Z","by":"oco harvest","id":"3f134d2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:23:48Z","by":"oco harvest","id":"3f60168","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
