@@ -846,6 +846,7 @@
 {"at":"2026-11-14T15:33:06Z","by":"oco observe","id":"7f87d2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:34:47Z","by":"oco observe","id":"7fffaa3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:37:32Z","by":"oco observe","id":"84c7f6d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T09:58:15Z","by":"oco observe","id":"8576ad9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:35:00Z","by":"oco observe","id":"86bf7c7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:28:03Z","by":"oco observe","id":"86c1df1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:53:29Z","by":"oco observe","id":"874696d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1196,6 +1197,7 @@
 {"at":"2026-11-14T20:53:21+01:00","by":"github-actions[bot]","id":"4fb160d","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.28.1 (#216)"}
 {"at":"2026-11-14T22:55:33+01:00","by":"grenudi","id":"5008e0f","project":"open-commons-observatory/ocoeco","says":"docs: a look is slower than is understood: said as a sign, with what was measured (#230)"}
 {"at":"2026-11-15T09:51:49+01:00","by":"github-actions[bot]","id":"525eddc","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.1 (#262)"}
+{"at":"2026-11-15T10:59:56+01:00","by":"grenudi","id":"529f627","project":"open-commons-observatory/ocoeco","says":"docs: what the language's own names mean: fifty-one words (#272)"}
 {"at":"2026-11-12T12:40:26+01:00","by":"grenudi","id":"5470c24","project":"open-commons-observatory/ocoeco","says":"docs: the whole is the fulldome: one sky, no walls; ocoeco is the agreement (#51)"}
 {"at":"2026-11-13T19:33:07+01:00","by":"github-actions[bot]","id":"55b6188","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.2.1 (#114)"}
 {"at":"2026-11-14T16:48:47+01:00","by":"github-actions[bot]","id":"564e7ab","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.23.0 (#189)"}
@@ -1669,6 +1671,7 @@
 {"at":"2026-11-12T01:36:51Z","by":"oco harvest","id":"6f6e0ab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:13:50Z","by":"oco harvest","id":"719fa51","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:18:17Z","by":"oco harvest","id":"71f6c87","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T10:00:33Z","by":"oco harvest","id":"7206ce9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:25:37Z","by":"oco harvest","id":"7296389","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:34:55Z","by":"oco harvest","id":"73ec8f6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T08:19:06Z","by":"oco harvest","id":"7421010","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
