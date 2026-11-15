@@ -871,6 +871,7 @@
 {"at":"2026-11-14T23:03:18Z","by":"oco observe","id":"9c900f2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:39:20Z","by":"oco observe","id":"9d79163","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:56:16Z","by":"oco observe","id":"9d80242","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T09:40:39Z","by":"oco observe","id":"9fb4842","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:00:05Z","by":"oco observe","id":"a04924a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:48:19Z","by":"oco observe","id":"a056ec7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T06:52:38Z","by":"oco observe","id":"a0a00d6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1205,6 +1206,7 @@
 {"at":"2026-11-15T10:20:14+01:00","by":"grenudi","id":"5e5cf63","project":"open-commons-observatory/ocoeco","says":"perf: the parts of a lens ask the engine in one go: what it gathered is loaded once (#266)"}
 {"at":"2026-11-14T22:30:16+01:00","by":"grenudi","id":"5edf02a","project":"open-commons-observatory/ocoeco","says":"feat: observed by holding: one way of reading; what a route reads is a thing (#226)"}
 {"at":"2026-11-14T22:53:21+01:00","by":"github-actions[bot]","id":"5f2a49a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.1 (#229)"}
+{"at":"2026-11-15T10:43:18+01:00","by":"grenudi","id":"619da8b","project":"open-commons-observatory/ocoeco","says":"feat: a look may be in passing: it stands nowhere and leaves no step (#269)"}
 {"at":"2026-11-13T19:31:33+01:00","by":"grenudi","id":"644dd06","project":"open-commons-observatory/ocoeco","says":"fix: the rpm is packed from the root: -p is a folder to that tool (#113)"}
 {"at":"2026-11-14T19:54:37+01:00","by":"grenudi","id":"648bc29","project":"open-commons-observatory/ocoeco","says":"docs: what an observation could not read is overwritten: said as a sign (#207)"}
 {"at":"2026-11-15T10:39:06+01:00","by":"grenudi","id":"6659db5","project":"open-commons-observatory/ocoeco","says":"fix: the beam of a lens is the beam of the look: from a thing, from a place (#267)"}
@@ -1624,6 +1626,7 @@
 {"at":"2026-11-11T11:54:46+01:00","by":"grenudi","id":"5b1f1d4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the whole first - practice 20, the observatory stays a mirror, the attention view and recording as a tool (#46)"}
 {"at":"2026-11-12T14:10:24Z","by":"oco harvest","id":"5b535d5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:59:37Z","by":"oco harvest","id":"5b79e5c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T09:40:24Z","by":"oco harvest","id":"5bc17a8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T17:38:14Z","by":"oco harvest","id":"5c99810","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T00:00:08Z","by":"oco harvest","id":"5cab232","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T09:04:05Z","by":"oco harvest","id":"5cd0bb3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
