@@ -745,6 +745,7 @@
 {"at":"2026-11-14T00:10:07Z","by":"oco observe","id":"30c717c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T11:34:43Z","by":"oco observe","id":"31a8c10","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:33:48Z","by":"oco observe","id":"333618c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T09:18:02Z","by":"oco observe","id":"3371143","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:38:10Z","by":"oco observe","id":"34f215c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T15:42:52Z","by":"oco observe","id":"35e2ad9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:33:19Z","by":"oco observe","id":"362b9af","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -933,6 +934,7 @@
 {"at":"2026-11-15T00:17:01Z","by":"oco observe","id":"cc7c2c1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T05:48:24Z","by":"oco observe","id":"cce8059","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T02:03:14Z","by":"oco observe","id":"cd92c00","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T09:11:18Z","by":"oco observe","id":"cfbd486","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:03:15Z","by":"oco observe","id":"d059e19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:42:04+01:00","by":"grenudi","id":"d1e3b71","project":"marshall-oco/marshall-oco.github.io","says":"docs: the sheet says what each sign waits on (#5)"}
 {"at":"2026-11-15T03:33:20Z","by":"oco observe","id":"d1f3d57","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1192,6 +1194,7 @@
 {"at":"2026-11-15T00:52:27+01:00","by":"grenudi","id":"59ff83b","project":"open-commons-observatory/ocoeco","says":"feat: a row is taken back by saying so, guarded as entering is (#249)"}
 {"at":"2026-11-14T16:40:29+01:00","by":"grenudi","id":"5a8e028","project":"open-commons-observatory/ocoeco","says":"fix: the graph by any route: made of what was observed as of what is held (#190)"}
 {"at":"2026-11-11T12:05:32+01:00","by":"grenudi","id":"5c4e9c1","project":"open-commons-observatory/ocoeco","says":"feat: the vocabulary - ocoeco's shared words, compiled into the tool (#26)"}
+{"at":"2026-11-15T10:20:14+01:00","by":"grenudi","id":"5e5cf63","project":"open-commons-observatory/ocoeco","says":"perf: the parts of a lens ask the engine in one go: what it gathered is loaded once (#266)"}
 {"at":"2026-11-14T22:30:16+01:00","by":"grenudi","id":"5edf02a","project":"open-commons-observatory/ocoeco","says":"feat: observed by holding: one way of reading; what a route reads is a thing (#226)"}
 {"at":"2026-11-14T22:53:21+01:00","by":"github-actions[bot]","id":"5f2a49a","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.1 (#229)"}
 {"at":"2026-11-13T19:31:33+01:00","by":"grenudi","id":"644dd06","project":"open-commons-observatory/ocoeco","says":"fix: the rpm is packed from the root: -p is a folder to that tool (#113)"}
@@ -1900,6 +1903,7 @@
 {"at":"2026-11-14T01:11:09Z","by":"oco harvest","id":"fa8f4c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T09:09:16Z","by":"oco harvest","id":"fab85ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:52:11+01:00","by":"grenudi","id":"fabab5c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the ear in health, two kinds of gap told apart, what is written and what waits (#36)"}
+{"at":"2026-11-15T09:14:23Z","by":"oco harvest","id":"facc6cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T17:05:27Z","by":"oco harvest","id":"fb0c5c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:03:32Z","by":"oco harvest","id":"fb1e911","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:07:08Z","by":"oco harvest","id":"fbbda5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
