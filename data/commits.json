@@ -685,6 +685,7 @@
 {"at":"2026-11-15T10:52:21+01:00","by":"lab-agent-session","id":"b7a485b","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T22:35:12+01:00","by":"lab-agent-session","id":"bbfeee7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T09:56:39+01:00","by":"lab-agent-session","id":"c041a2c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T13:22:16+01:00","by":"lab-agent-session","id":"c78db1a","project":"marshall-oco/conversation","record":"g-20261115-122216","says":"fix: a turn says the moment it was said: the entry supplies it, eight told by a transcript"}
 {"at":"2026-11-15T12:34:38+01:00","by":"lab-agent-session","id":"cb4018a","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T11:19:19+01:00","by":"lab-agent-session","id":"cd0b2ff","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T20:30:31+01:00","by":"lab-agent-session","id":"d9fbddc","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -887,6 +888,7 @@
 {"at":"2026-11-14T13:53:17Z","by":"oco observe","id":"95a648b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:21:18Z","by":"oco observe","id":"95d9bca","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:53:06Z","by":"oco observe","id":"962de52","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T12:20:57Z","by":"oco observe","id":"96dadf9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T01:22:01Z","by":"oco observe","id":"98dbe32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T06:03:15Z","by":"oco observe","id":"99208fd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T01:11:11Z","by":"oco observe","id":"99e849e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1045,6 +1047,7 @@
 {"at":"2026-11-15T10:07:44Z","by":"oco observe","id":"fb7c9ab","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:03:12Z","by":"oco observe","id":"fcc2db6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:34:56Z","by":"oco observe","id":"fe87580","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T13:22:04+01:00","by":"grenudi","id":"fe9f3c8","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-122148","says":"feat: this observatory says what it shows first; each page says what it is (#17)"}
 {"at":"2026-11-13T08:48:36Z","by":"oco observe","id":"fef1b39","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T08:26:56Z","by":"oco observe","id":"ff07e50","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:18:24Z","by":"oco observe","id":"ff9f9af","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1857,6 +1860,7 @@
 {"at":"2026-11-13T19:19:36Z","by":"oco harvest","id":"b98ae7b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T01:56:19+01:00","by":"grenudi","id":"b9adaae","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its workings in Russian (by machine, for a person to correct) (#42)"}
 {"at":"2026-11-11T23:12:26Z","by":"oco harvest","id":"baab9b2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T12:21:56Z","by":"oco harvest","id":"bb16523","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:00:03Z","by":"oco harvest","id":"bb370a0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:00:53Z","by":"oco harvest","id":"bb4df01","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:18:22+01:00","by":"lab-agent-session","id":"bbc1172","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: the observatory's architecture - how every project fits the picture"}
