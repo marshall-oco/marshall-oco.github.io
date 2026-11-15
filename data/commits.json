@@ -699,6 +699,7 @@
 {"at":"2026-11-15T09:52:21Z","by":"lab-agent-session","id":"b7a485b","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T18:47:14Z","by":"lab-agent-session","id":"b7b11e2","project":"marshall-oco/conversation","record":"g-20261115-184714","says":"docs: a turn entered as it was said: the ways of the ecosystem, and diving up"}
 {"at":"2026-11-14T21:35:12Z","by":"lab-agent-session","id":"bbfeee7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T20:31:37Z","by":"lab-agent-session","id":"bc6a949","project":"marshall-oco/conversation","record":"g-20261115-203137","says":"feat: the conversation offers a page for each thing the author said that work followed"}
 {"at":"2026-11-15T08:56:39Z","by":"lab-agent-session","id":"c041a2c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T12:22:16Z","by":"lab-agent-session","id":"c78db1a","project":"marshall-oco/conversation","record":"g-20261115-122216","says":"fix: a turn says the moment it was said: the entry supplies it, eight told by a transcript"}
 {"at":"2026-11-15T11:34:38Z","by":"lab-agent-session","id":"cb4018a","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -711,6 +712,7 @@
 {"at":"2026-11-14T22:38:41Z","by":"lab-agent-session","id":"f3aa660","project":"marshall-oco/conversation","record":"g-20261114-223841","says":"docs: a turn entered as it was said: the perfect form"}
 {"at":"2026-11-15T12:09:58Z","by":"lab-agent-session","id":"f8632b2","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T21:03:44Z","by":"grenudi","id":"fc6b9c8","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T20:38:26Z","by":"grenudi","id":"0095fa3","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-203807","says":"feat: every line of what followed leads somewhere: pages for turns, records, what they touched (#23)"}
 {"at":"2026-11-15T15:22:54Z","by":"oco observe","id":"00a38e3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:26:26Z","by":"oco observe","id":"0104e3f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:18:06Z","by":"oco observe","id":"01fc258","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -743,6 +745,7 @@
 {"at":"2026-11-15T13:55:38Z","by":"oco observe","id":"1083502","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T18:33:09Z","by":"oco observe","id":"10ac0c7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T13:36:07Z","by":"oco observe","id":"10ee969","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:29:06Z","by":"oco observe","id":"116e5cb","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T21:39:55Z","by":"grenudi","id":"11f8ebb","project":"marshall-oco/marshall-oco.github.io","record":"g-20261113-213939","says":"docs: a sheet made through a lens: at-a-glance (#2)"}
 {"at":"2026-11-14T12:03:24Z","by":"oco observe","id":"1209cb1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:33:15Z","by":"oco observe","id":"1245e16","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -945,6 +948,7 @@
 {"at":"2026-11-15T14:18:16Z","by":"oco observe","id":"8faadb9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:11:41Z","by":"oco observe","id":"905b55d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:17:32Z","by":"oco observe","id":"906c318","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:33:30Z","by":"oco observe","id":"90b0e75","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:35:37Z","by":"grenudi","id":"9106643","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-213521","says":"ci: the observatory observes by holding: what a route reads reaches the page (#10)"}
 {"at":"2026-11-15T10:01:41Z","by":"oco observe","id":"9149196","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T20:11:44Z","by":"oco observe","id":"928d97b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1959,6 +1963,7 @@
 {"at":"2026-11-14T00:48:26Z","by":"oco harvest","id":"9475d13","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:11:04Z","by":"grenudi","id":"94a0678","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-191047","says":"fix: the harvest's guard can rebase: proven against a staged collision (#73)"}
 {"at":"2026-11-15T12:49:40Z","by":"grenudi","id":"9752daa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-124925","says":"docs: where the practices are shown: eleven more say what shows them (#88)"}
+{"at":"2026-11-15T20:30:38Z","by":"oco harvest","id":"97a3137","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:27:59Z","by":"oco harvest","id":"97b7314","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T05:34:22Z","by":"oco harvest","id":"99371c3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T21:39:38Z","by":"oco harvest","id":"9ae6c55","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
