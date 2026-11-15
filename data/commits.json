@@ -675,6 +675,7 @@
 {"at":"2026-11-15T07:56:04+01:00","by":"lab-agent-session","id":"a71408c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T06:05:39+01:00","by":"lab-agent-session","id":"af0d9ed","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T22:35:12+01:00","by":"lab-agent-session","id":"bbfeee7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T09:56:39+01:00","by":"lab-agent-session","id":"c041a2c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T20:30:31+01:00","by":"lab-agent-session","id":"d9fbddc","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T00:16:16+01:00","by":"lab-agent-session","id":"dd7f5f8","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: not fixed on a surface"}
 {"at":"2026-11-14T23:38:41+01:00","by":"lab-agent-session","id":"f3aa660","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: the perfect form"}
@@ -794,6 +795,7 @@
 {"at":"2026-11-15T00:19:20+01:00","by":"grenudi","id":"5b88fce","project":"marshall-oco/marshall-oco.github.io","says":"docs: a surface said here: the steps one can take from what is shown (#11)"}
 {"at":"2026-11-14T18:45:26Z","by":"oco observe","id":"5bada81","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:27:48Z","by":"oco observe","id":"5c6f37e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T09:03:16Z","by":"oco observe","id":"5df6318","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:18:07Z","by":"oco observe","id":"5f108d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:24:04Z","by":"oco observe","id":"60d3b32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:31:49Z","by":"oco observe","id":"6133420","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -988,6 +990,7 @@
 {"at":"2026-11-14T16:11:48Z","by":"oco observe","id":"f13b5ef","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:21:15Z","by":"oco observe","id":"f1d4012","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T00:48:24Z","by":"oco observe","id":"f33b1a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T08:55:36Z","by":"oco observe","id":"f488088","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:06:11Z","by":"oco observe","id":"f5b5aed","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:48:53Z","by":"oco observe","id":"f6850e5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T01:33:23Z","by":"oco observe","id":"f725c19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1248,6 +1251,7 @@
 {"at":"2026-11-14T20:08:23+01:00","by":"github-actions[bot]","id":"8bdb730","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.2 (#209)"}
 {"at":"2026-11-13T07:25:46+01:00","by":"grenudi","id":"8d3325c","project":"open-commons-observatory/ocoeco","says":"feat: a chain is a shape: walked from where it begins, on every surface (#94)"}
 {"at":"2026-11-13T02:31:36+01:00","by":"grenudi","id":"8ece879","project":"open-commons-observatory/ocoeco","says":"docs: the decisions about the whole are in OCO's place; links follow (#92)"}
+{"at":"2026-11-15T10:10:10+01:00","by":"grenudi","id":"8f6da51","project":"open-commons-observatory/ocoeco","says":"perf: git is asked once for a commit; the graph says where its making went (#264)"}
 {"at":"2026-11-13T23:10:46+01:00","by":"grenudi","id":"8fd6d62","project":"open-commons-observatory/ocoeco","says":"docs: research: tables or a graph - ourselves, and how the world dealt with it (#128)"}
 {"at":"2026-11-11T16:08:50+01:00","by":"grenudi","id":"9069651","project":"open-commons-observatory/ocoeco","says":"docs: waiting, a word and a view (#39)"}
 {"at":"2026-11-10T19:49:46+01:00","by":"grenudi","id":"90ef54a","project":"open-commons-observatory/ocoeco","says":"docs(spec): whose translation - a project translates its own data; ocoeco's records caught up (#13)"}
@@ -1500,6 +1504,7 @@
 {"at":"2026-11-12T18:33:36Z","by":"oco harvest","id":"2ecd540","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:04:51Z","by":"oco harvest","id":"2edbf72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T21:42:40Z","by":"oco harvest","id":"2fe9628","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T08:59:20Z","by":"oco harvest","id":"30a6a92","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:30:56Z","by":"oco harvest","id":"30bfcf3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T20:03:43+01:00","by":"grenudi","id":"32dcb8b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a practice - after a change to how something looks, look at it (#23)"}
 {"at":"2026-11-13T06:41:21Z","by":"oco harvest","id":"330f519","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -1564,6 +1569,7 @@
 {"at":"2026-11-13T07:03:10Z","by":"oco harvest","id":"4970451","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T00:14:55+01:00","by":"grenudi","id":"49eadbe","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: the redesign comes first; everything else parked with its resume order (#69)"}
 {"at":"2026-11-14T21:57:46Z","by":"oco harvest","id":"4a30d93","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T08:55:26Z","by":"oco harvest","id":"4abd005","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:15:14Z","by":"oco harvest","id":"4aeb830","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:00:51+01:00","by":"grenudi","id":"4cbd2cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#37)"}
 {"at":"2026-11-12T02:41:02Z","by":"oco harvest","id":"4cff19f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
