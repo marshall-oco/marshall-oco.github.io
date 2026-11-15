@@ -137,6 +137,7 @@
 {"at":"2026-11-12T10:16:56+01:00","by":"grenudi","id":"14a6d3b","project":"creation-guidelines/lab-agent","record":"g-20261112-091607","says":"fix: lab-agent's voice is back on 0.1.53; its service limit in the right section (#157)"}
 {"at":"2026-11-09T20:21:43+01:00","by":"grenudi","id":"15c82c6","project":"creation-guidelines/lab-agent","says":"feat: the control board - tasks, jobs and the conversation in one live view, with a reply box (#44)"}
 {"at":"2026-11-09T17:34:10+01:00","by":"grenudi","id":"1c96ede","project":"creation-guidelines/lab-agent","says":"feat: phone notifications through ntfy - private channels per user, and jobs that tell you how they ended (#33)"}
+{"at":"2026-11-15T14:54:23+01:00","by":"grenudi","id":"1df24cd","project":"creation-guidelines/lab-agent","record":"g-20261115-135334","says":"fix: oco-work: what holds is asked of the whole from anywhere (#197)"}
 {"at":"2026-11-09T18:15:13+01:00","by":"github-actions[bot]","id":"1e33c79","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.12 (#36)"}
 {"at":"2026-11-13T02:15:29+01:00","by":"grenudi","id":"1ea1b6f","project":"creation-guidelines/lab-agent","record":"g-20261113-011440","says":"fix: no git address on the lab holds a token; a wider search than the claim (#175)"}
 {"at":"2026-11-09T16:30:03+01:00","by":"grenudi","id":"1fde085","project":"creation-guidelines/lab-agent","says":"feat: a result is never lost to a failed push, and a stale 'running' row says so (#29)"}
@@ -853,6 +854,7 @@
 {"at":"2026-11-15T13:26:53+01:00","by":"grenudi","id":"6b9dd17","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-122637","says":"refactor: the sheet says each sign once: in brief, with a way to its own page (#18)"}
 {"at":"2026-11-13T18:03:40Z","by":"oco observe","id":"6bce55b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:48:50Z","by":"oco observe","id":"6c82485","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T13:50:07Z","by":"oco observe","id":"6d1042a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:04:15Z","by":"oco observe","id":"6d77fcd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:48:09Z","by":"oco observe","id":"6f3612c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:12:03Z","by":"oco observe","id":"6ffcd17","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2011,6 +2013,7 @@
 {"at":"2026-11-15T10:27:47Z","by":"oco harvest","id":"ed54af5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T20:05:38Z","by":"oco harvest","id":"edee31c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T01:54:23+01:00","by":"grenudi","id":"eeaab1c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: words that follow their number - done (#41)"}
+{"at":"2026-11-15T13:51:13Z","by":"oco harvest","id":"eebf998","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T17:55:40+01:00","by":"grenudi","id":"ef367ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers, the engine renders (#13)"}
 {"at":"2026-11-12T09:54:01Z","by":"oco harvest","id":"f026e9a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T11:33:16Z","by":"oco harvest","id":"f06a52d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
