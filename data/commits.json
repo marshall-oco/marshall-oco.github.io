@@ -684,6 +684,7 @@
 {"at":"2026-11-15T10:52:21+01:00","by":"lab-agent-session","id":"b7a485b","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T22:35:12+01:00","by":"lab-agent-session","id":"bbfeee7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T09:56:39+01:00","by":"lab-agent-session","id":"c041a2c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T12:34:38+01:00","by":"lab-agent-session","id":"cb4018a","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T11:19:19+01:00","by":"lab-agent-session","id":"cd0b2ff","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T20:30:31+01:00","by":"lab-agent-session","id":"d9fbddc","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T00:16:16+01:00","by":"lab-agent-session","id":"dd7f5f8","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: not fixed on a surface"}
@@ -764,7 +765,9 @@
 {"at":"2026-11-14T09:33:19Z","by":"oco observe","id":"362b9af","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:33:14Z","by":"oco observe","id":"362f6ef","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T23:19:18Z","by":"oco observe","id":"364ed19","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T10:35:23Z","by":"oco observe","id":"3698eaf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:30:29Z","by":"oco observe","id":"3818516","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T11:33:22Z","by":"oco observe","id":"390429e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:15:02Z","by":"oco observe","id":"3a20bd0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T09:03:35Z","by":"oco observe","id":"3a58caf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T02:48:17Z","by":"oco observe","id":"3afa926","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -800,6 +803,7 @@
 {"at":"2026-11-14T19:57:01Z","by":"oco observe","id":"527845f","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T22:14:04Z","by":"oco observe","id":"5355b68","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:46:19Z","by":"oco observe","id":"5367f29","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T11:18:18Z","by":"oco observe","id":"544700a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:25:34Z","by":"oco observe","id":"54c3861","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:20:53Z","by":"oco observe","id":"55f1ce2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:26:46Z","by":"oco observe","id":"5690135","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -949,6 +953,7 @@
 {"at":"2026-11-14T16:33:19Z","by":"oco observe","id":"c18206d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T14:47:23Z","by":"oco observe","id":"c203ff0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:03:08Z","by":"oco observe","id":"c2af823","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T10:48:13Z","by":"oco observe","id":"c38dfb3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T21:06:38Z","by":"oco observe","id":"c39bc87","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:29:05Z","by":"oco observe","id":"c401a1a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:03:10Z","by":"oco observe","id":"c437964","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -993,6 +998,7 @@
 {"at":"2026-11-13T09:38:44Z","by":"oco observe","id":"e19ac8a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:13:11Z","by":"oco observe","id":"e203df6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:03:27Z","by":"oco observe","id":"e31baac","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T11:03:14Z","by":"oco observe","id":"e34c33b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T06:48:31Z","by":"oco observe","id":"e38e529","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:32:51Z","by":"oco observe","id":"e3b3f79","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:47:49Z","by":"oco observe","id":"e3d3789","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1375,6 +1381,7 @@
 {"at":"2026-11-14T02:10:55+01:00","by":"grenudi","id":"d4f10d9","project":"open-commons-observatory/ocoeco","says":"feat: ahead: what, once done, would free the most - read off the halts (#155)"}
 {"at":"2026-11-14T01:45:19+01:00","by":"grenudi","id":"d73e97f","project":"open-commons-observatory/ocoeco","says":"feat: a name is not the place: a table's other names, and a link's level (#149)"}
 {"at":"2026-11-15T00:39:26+01:00","by":"grenudi","id":"d768dc2","project":"open-commons-observatory/ocoeco","says":"feat: what a place adds to a lens kept elsewhere is joined to it (#246)"}
+{"at":"2026-11-15T12:38:07+01:00","by":"grenudi","id":"d86534b","project":"open-commons-observatory/ocoeco","says":"feat: a change is part of its record of work; an address on a page is a way out (#280)"}
 {"at":"2026-11-14T09:17:41+01:00","by":"grenudi","id":"d941420","project":"open-commons-observatory/ocoeco","says":"feat: a plane holds planes: the fulldome is a lens placing every lens (#164)"}
 {"at":"2026-11-14T15:27:03+01:00","by":"grenudi","id":"d94c22b","project":"open-commons-observatory/ocoeco","says":"feat: around: a lens looked through from a thing; how far work can be walked up (#180)"}
 {"at":"2026-11-14T21:47:02+01:00","by":"grenudi","id":"d9cf8a8","project":"open-commons-observatory/ocoeco","says":"feat: a route said in the language: git history, read where a place is held (#222)"}
@@ -1882,6 +1889,7 @@
 {"at":"2026-11-13T20:09:31Z","by":"oco harvest","id":"d26426d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T16:55:37Z","by":"oco harvest","id":"d27e19e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T00:47:45Z","by":"oco harvest","id":"d344dc5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T10:35:39Z","by":"oco harvest","id":"d449141","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:06:47Z","by":"oco harvest","id":"d46eebb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:52:16Z","by":"oco harvest","id":"d6d3be8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:06:07Z","by":"oco harvest","id":"d6d8dd6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
