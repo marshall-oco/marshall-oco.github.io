@@ -983,6 +983,7 @@
 {"at":"2026-11-14T14:48:19Z","by":"oco observe","id":"b7ffe5c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:45:22Z","by":"oco observe","id":"b820e95","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:34:08Z","by":"oco observe","id":"b8352c9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T16:20:22Z","by":"oco observe","id":"b88d54c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T08:03:33Z","by":"oco observe","id":"b8a1410","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T08:32:32Z","by":"oco observe","id":"b9261f3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:30:11Z","by":"oco observe","id":"b9c4651","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1462,6 +1463,7 @@
 {"at":"2026-11-14T10:29:46+01:00","by":"grenudi","id":"da804a6","project":"open-commons-observatory/ocoeco","record":"g-20261114-092817","says":"docs: research: the simplest lens - identity, three ways in, two ways together, two directions (#173)"}
 {"at":"2026-11-14T08:20:09+01:00","by":"grenudi","id":"da81635","project":"open-commons-observatory/ocoeco","record":"g-20261114-071849","says":"feat: a lens made whole through entries: tables, relations, entries, parts (#158)"}
 {"at":"2026-11-11T16:45:10+01:00","by":"grenudi","id":"dab8d9c","project":"open-commons-observatory/ocoeco","says":"data: the wrap-up pass - settled with reasons (#40)"}
+{"at":"2026-11-15T17:21:16+01:00","by":"grenudi","id":"db0e867","project":"open-commons-observatory/ocoeco","record":"g-20261115-161925","says":"docs: a sign: two links point nowhere in what was observed, and hold on the lab (#296)"}
 {"at":"2026-11-12T19:36:54+01:00","by":"grenudi","id":"db94b05","project":"open-commons-observatory/ocoeco","record":"g-20261112-183533","says":"fix: ocoeco check brings every lens into focus; a broken lens cannot land (#70)"}
 {"at":"2026-11-14T19:51:42+01:00","by":"github-actions[bot]","id":"dbe0df5","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.26.1 (#206)"}
 {"at":"2026-11-14T23:36:36+01:00","by":"grenudi","id":"dcb3c44","project":"open-commons-observatory/ocoeco","record":"g-20261114-223456","says":"docs: what the engine's views show that the fulldome does not: looked at, and said (#239)"}
@@ -1608,6 +1610,7 @@
 {"at":"2026-11-15T13:42:52Z","by":"oco harvest","id":"17dcbab","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T10:30:53Z","by":"oco harvest","id":"17ff9bb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T18:57:49Z","by":"oco harvest","id":"185f700","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T16:22:20Z","by":"oco harvest","id":"190b017","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:26:39Z","by":"oco harvest","id":"1ad1fc7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:21:01Z","by":"oco harvest","id":"1b1f9c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:13:57Z","by":"oco harvest","id":"1b9929d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
