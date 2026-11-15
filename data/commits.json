@@ -658,6 +658,7 @@
 {"at":"2026-11-10T17:46:33Z","by":"ocoeco gather","id":"83cecee","project":"linux-phone-oco/sxmo-deviceprofiles","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T15:22:26+01:00","by":"grenudi","id":"a98f120","project":"linux-phone-oco/sxmo-deviceprofiles","says":"chore: the observatory's mark (oco.toml) (#1)"}
 {"at":"2026-11-10T17:41:04+01:00","by":"grenudi","id":"dce09f5","project":"linux-phone-oco/sxmo-deviceprofiles","says":"chore(mark): a short title - Sxmo profiles (#3)"}
+{"at":"2026-11-15T00:59:27+01:00","by":"lab-agent-session","id":"0b46b19","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: please continue"}
 {"at":"2026-11-14T23:50:26+01:00","by":"lab-agent-session","id":"265b3ae","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: please continue"}
 {"at":"2026-11-14T21:05:20+01:00","by":"lab-agent-session","id":"2ff2634","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T23:07:22+01:00","by":"lab-agent-session","id":"37475cf","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -788,6 +789,7 @@
 {"at":"2026-11-14T20:04:15Z","by":"oco observe","id":"6d77fcd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:48:09Z","by":"oco observe","id":"6f3612c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:12:03Z","by":"oco observe","id":"6ffcd17","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-14T23:59:20Z","by":"oco observe","id":"7145a71","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:59:58Z","by":"oco observe","id":"746a414","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:47:42Z","by":"oco observe","id":"74bb207","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:35:23Z","by":"oco observe","id":"778a07a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -890,6 +892,7 @@
 {"at":"2026-11-14T09:42:04+01:00","by":"grenudi","id":"d1e3b71","project":"marshall-oco/marshall-oco.github.io","says":"docs: the sheet says what each sign waits on (#5)"}
 {"at":"2026-11-13T01:36:18Z","by":"oco observe","id":"d40506e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:42:45Z","by":"oco observe","id":"d496caf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T00:03:21Z","by":"oco observe","id":"d68a3be","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:44:30+01:00","by":"grenudi","id":"d68cec3","project":"marshall-oco/marshall-oco.github.io","says":"docs: what is showing where it is kept out, first on the sheet (#7)"}
 {"at":"2026-11-13T17:21:52Z","by":"oco observe","id":"d6ba68b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:51:34Z","by":"oco observe","id":"d6c1a1c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1273,6 +1276,7 @@
 {"at":"2026-11-13T12:31:29+01:00","by":"grenudi","id":"f050748","project":"open-commons-observatory/ocoeco","says":"feat: the typed line reads back: an entry's words read by argenv's reader (#104)"}
 {"at":"2026-11-11T13:30:22+01:00","by":"grenudi","id":"f1e8689","project":"open-commons-observatory/ocoeco","says":"docs: the sources of looking around first (#32)"}
 {"at":"2026-11-14T01:10:54+01:00","by":"grenudi","id":"f2355b9","project":"open-commons-observatory/ocoeco","says":"feat: repeats is a group: one nature, many faces (#143)"}
+{"at":"2026-11-15T01:12:00+01:00","by":"grenudi","id":"f372ae3","project":"open-commons-observatory/ocoeco","says":"feat: the page is said by a lens, equal to the program's byte for byte (#251)"}
 {"at":"2026-11-10T17:55:18+01:00","by":"grenudi","id":"f498231","project":"open-commons-observatory/ocoeco","says":"feat: the core - the mark, discovery and the harvest, moved in from the observatory's engine (#1)"}
 {"at":"2026-11-14T19:42:58+01:00","by":"grenudi","id":"f57fc04","project":"open-commons-observatory/ocoeco","says":"feat: what a place keeps out: a lens, seen like any other (#203)"}
 {"at":"2026-11-14T23:03:25+01:00","by":"grenudi","id":"f588f2c","project":"open-commons-observatory/ocoeco","says":"docs: the longest line is not settled: said as a sign (#233)"}
@@ -1594,6 +1598,7 @@
 {"at":"2026-11-13T00:30:01Z","by":"oco harvest","id":"88cc0a1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:33:23Z","by":"oco harvest","id":"893b97f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:06:04Z","by":"oco harvest","id":"894c7f1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T00:01:30Z","by":"oco harvest","id":"89f555b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T22:19:22+01:00","by":"grenudi","id":"8a5a094","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: how we work under one roof - the concept, the decision with what was rejected, five steps (#29)"}
 {"at":"2026-11-14T00:11:00Z","by":"oco harvest","id":"8a79ee3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:42:40Z","by":"oco harvest","id":"8a8e17a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
