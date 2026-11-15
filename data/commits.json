@@ -306,6 +306,7 @@
 {"at":"2026-11-10T04:09:01+01:00","by":"grenudi","id":"f8ecc34","project":"creation-guidelines/lab-agent","says":"fix: tests never write to the machine's sent log (#72)"}
 {"at":"2026-11-12T14:06:55+01:00","by":"grenudi","id":"fa02329","project":"creation-guidelines/lab-agent","record":"g-20261112-130606","says":"fix: the glimpses' links to milestones name the table (#166)"}
 {"at":"2026-11-11T01:34:40+01:00","by":"grenudi","id":"fa19907","project":"creation-guidelines/lab-agent","says":"docs: its idea in Russian (by machine, for a person to correct) (#112)"}
+{"at":"2026-11-15T13:45:01+01:00","by":"grenudi","id":"fa54535","project":"creation-guidelines/lab-agent","record":"g-20261115-124411","says":"fix: oco-work: what holds everywhere is asked of the whole (#196)"}
 {"at":"2026-11-10T13:13:30+01:00","by":"github-actions[bot]","id":"fbebada","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.35 (#90)"}
 {"at":"2026-11-12T00:33:14+01:00","by":"grenudi","id":"fcb65f8","project":"creation-guidelines/lab-agent","record":"g-20261111-233226","says":"docs: the redesign: ports and adapters, plain names, the journal as tad tables (#132)"}
 {"at":"2026-11-04T21:09:41+01:00","by":"grenudi","id":"fe84fc1","project":"creation-guidelines/lab-agent","says":"fix: home no longer defaults to a root-only system path (#5)"}
@@ -765,6 +766,7 @@
 {"at":"2026-11-15T03:03:22Z","by":"oco observe","id":"3047086","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:10:07Z","by":"oco observe","id":"30c717c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T11:34:43Z","by":"oco observe","id":"31a8c10","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T12:44:33Z","by":"oco observe","id":"31d179e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:33:48Z","by":"oco observe","id":"333618c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:18:02Z","by":"oco observe","id":"3371143","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:38:10Z","by":"oco observe","id":"34f215c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1158,6 +1160,7 @@
 {"at":"2026-11-14T21:47:38+01:00","by":"grenudi","id":"ef11b7a","project":"open-commons-observatory/ecosystem","record":"g-20261114-204722","says":"docs: a route is a lens: its three steps taken (#78)"}
 {"at":"2026-11-14T23:03:55+01:00","by":"grenudi","id":"f0a60de","project":"open-commons-observatory/ecosystem","record":"g-20261114-220338","says":"docs: what a look's time went to: what came of the sign (#82)"}
 {"at":"2026-11-13T23:11:16+01:00","by":"grenudi","id":"f1366f1","project":"open-commons-observatory/ecosystem","record":"g-20261113-221059","says":"docs: squares on the periphery: the author's question, and the trial it leads to (#30)"}
+{"at":"2026-11-15T13:43:59+01:00","by":"grenudi","id":"f1568b0","project":"open-commons-observatory/ecosystem","record":"g-20261115-124341","says":"docs: what came of a row taken back leaving a link pointing nowhere (#104)"}
 {"at":"2026-11-14T21:27:50+01:00","by":"grenudi","id":"f3623fe","project":"open-commons-observatory/ecosystem","record":"g-20261114-202734","says":"docs: a table entered as itself: the step taken, and what came of the sign (#77)"}
 {"at":"2026-11-14T21:59:05+01:00","by":"grenudi","id":"fa3c886","project":"open-commons-observatory/ecosystem","record":"g-20261114-205850","says":"docs: the program in view: its source and its guards, read (#79)"}
 {"at":"2026-11-13T08:25:36+01:00","by":"grenudi","id":"fd65cf1","project":"open-commons-observatory/ecosystem","record":"g-20261113-072521","says":"docs: what a milestone is, in the author's words; the other half on the board (#6)"}
@@ -1616,6 +1619,7 @@
 {"at":"2026-11-11T16:48:16Z","by":"oco harvest","id":"3bc1e66","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:11:46Z","by":"oco harvest","id":"3c84937","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:50:43+01:00","by":"grenudi","id":"3d0cd94","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): a practice - change only what you mean to, never by copying whole files from a stale copy (#7)"}
+{"at":"2026-11-15T13:45:32+01:00","by":"grenudi","id":"3d5d8e3","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-124514","says":"docs: the inbox: shown where it was not read, and what the voice had said (#87)"}
 {"at":"2026-11-13T06:13:10Z","by":"oco harvest","id":"3d661d5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:19:47+01:00","by":"grenudi","id":"3d7fbdd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: the mark, schema 1 - oco.toml, the oco-project topic, the standard tables (#1)"}
 {"at":"2026-11-15T07:16:39Z","by":"oco harvest","id":"3dc7038","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
