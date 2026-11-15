@@ -746,6 +746,7 @@
 {"at":"2026-11-15T00:18:31Z","by":"oco observe","id":"292f2b6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T05:03:00Z","by":"oco observe","id":"2b1375e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:31:43Z","by":"oco observe","id":"2ce0497","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T11:21:36+01:00","by":"grenudi","id":"2d19e33","project":"marshall-oco/marshall-oco.github.io","says":"feat: the site has a page for each sign, each angle of the form, each decision a sign came to (#16)"}
 {"at":"2026-11-13T23:50:16Z","by":"oco observe","id":"2d73a0c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:44:20Z","by":"oco observe","id":"2da85c9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:33:16Z","by":"oco observe","id":"2e892f1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -827,6 +828,7 @@
 {"at":"2026-11-14T20:04:15Z","by":"oco observe","id":"6d77fcd","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T10:48:09Z","by":"oco observe","id":"6f3612c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:12:03Z","by":"oco observe","id":"6ffcd17","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T10:20:17Z","by":"oco observe","id":"70915cc","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:59:20Z","by":"oco observe","id":"7145a71","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T14:59:58Z","by":"oco observe","id":"746a414","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T05:17:25Z","by":"oco observe","id":"7490c35","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1529,6 +1531,7 @@
 {"at":"2026-11-12T11:14:01Z","by":"oco harvest","id":"26b9919","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:46:53Z","by":"oco harvest","id":"27d902d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:44:56Z","by":"oco harvest","id":"280f6b0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T10:20:20Z","by":"oco harvest","id":"288b4a2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:16:47Z","by":"oco harvest","id":"288d135","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T14:58:33Z","by":"oco harvest","id":"28cc189","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:39:19Z","by":"oco harvest","id":"2908280","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
