@@ -38,9 +38,9 @@
 {"bytes":7793,"id":"crates/argenv/tests/declaration.rs","lines":283,"path":"crates/argenv/tests/declaration.rs","project":"argenv-opencommons/argenv"}
 {"bytes":3745,"id":"crates/argenv/tests/document.rs","lines":116,"path":"crates/argenv/tests/document.rs","project":"argenv-opencommons/argenv"}
 {"bytes":4368,"id":"crates/argenv/tests/schema.rs","lines":159,"path":"crates/argenv/tests/schema.rs","project":"argenv-opencommons/argenv"}
-{"bytes":17143,"id":"oco-agent/command-line/src/commands.rs","lines":526,"path":"oco-agent/command-line/src/commands.rs","project":"creation-guidelines/lab-agent"}
+{"bytes":17402,"id":"oco-agent/command-line/src/commands.rs","lines":529,"path":"oco-agent/command-line/src/commands.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":10391,"id":"oco-agent/command-line/src/contract.rs","lines":280,"path":"oco-agent/command-line/src/contract.rs","project":"creation-guidelines/lab-agent"}
-{"bytes":20878,"id":"oco-agent/command-line/src/main.rs","lines":575,"path":"oco-agent/command-line/src/main.rs","project":"creation-guidelines/lab-agent"}
+{"bytes":21304,"id":"oco-agent/command-line/src/main.rs","lines":581,"path":"oco-agent/command-line/src/main.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":5734,"id":"oco-agent/command-line/src/ntfy.rs","lines":175,"path":"oco-agent/command-line/src/ntfy.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":5895,"id":"oco-agent/command-line/src/processes.rs","lines":173,"path":"oco-agent/command-line/src/processes.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":1873,"id":"oco-agent/command-line/src/pulse.rs","lines":58,"path":"oco-agent/command-line/src/pulse.rs","project":"creation-guidelines/lab-agent"}
@@ -55,7 +55,8 @@
 {"bytes":2028,"id":"oco-agent/core/tests/chaos.rs","lines":71,"path":"oco-agent/core/tests/chaos.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":5960,"id":"oco-agent/core/tests/doing.rs","lines":209,"path":"oco-agent/core/tests/doing.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":4623,"id":"oco-agent/github/src/asking.rs","lines":147,"path":"oco-agent/github/src/asking.rs","project":"creation-guidelines/lab-agent"}
-{"bytes":14788,"id":"oco-agent/github/src/lib.rs","lines":391,"path":"oco-agent/github/src/lib.rs","project":"creation-guidelines/lab-agent"}
+{"bytes":21115,"id":"oco-agent/github/src/lib.rs","lines":537,"path":"oco-agent/github/src/lib.rs","project":"creation-guidelines/lab-agent"}
+{"bytes":7824,"id":"oco-agent/github/src/pushed.rs","lines":227,"path":"oco-agent/github/src/pushed.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":1577,"id":"oco-agent/journal-in-tad/examples/a_small_journal.rs","lines":51,"path":"oco-agent/journal-in-tad/examples/a_small_journal.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":14104,"id":"oco-agent/journal-in-tad/src/lib.rs","lines":369,"path":"oco-agent/journal-in-tad/src/lib.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":5150,"id":"oco-agent/journal-in-tad/tests/chaos.rs","lines":150,"path":"oco-agent/journal-in-tad/tests/chaos.rs","project":"creation-guidelines/lab-agent"}
@@ -71,7 +72,7 @@
 {"bytes":40377,"id":"src/daemon.rs","lines":1124,"path":"src/daemon.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":12726,"id":"src/desktop.rs","lines":365,"path":"src/desktop.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":7029,"id":"src/editor.rs","lines":259,"path":"src/editor.rs","project":"creation-guidelines/lab-agent"}
-{"bytes":16171,"id":"src/github.rs","lines":438,"path":"src/github.rs","project":"creation-guidelines/lab-agent"}
+{"bytes":16313,"id":"src/github.rs","lines":440,"path":"src/github.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":2676,"id":"src/guide.rs","lines":70,"path":"src/guide.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":5837,"id":"src/job.rs","lines":173,"path":"src/job.rs","project":"creation-guidelines/lab-agent"}
 {"bytes":17762,"id":"src/jobs.rs","lines":509,"path":"src/jobs.rs","project":"creation-guidelines/lab-agent"}

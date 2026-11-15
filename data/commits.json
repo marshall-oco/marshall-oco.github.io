@@ -289,6 +289,7 @@
 {"at":"2026-11-09T23:41:06+01:00","by":"github-actions[bot]","id":"e29a4f6","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.21 (#56)"}
 {"at":"2026-11-12T02:58:55+01:00","by":"grenudi","id":"e2bfd9a","project":"creation-guidelines/lab-agent","record":"g-20261112-015807","says":"feat: the shadow run: oco-agent judges lab-agent's work every ten minutes (#142)"}
 {"at":"2026-11-12T14:02:51+01:00","by":"grenudi","id":"e3d997f","project":"creation-guidelines/lab-agent","record":"g-20261112-130201","says":"docs: a source two decisions cited is recorded: the link held nowhere (#165)"}
+{"at":"2026-11-15T16:16:32+01:00","by":"grenudi","id":"e4136e2","project":"creation-guidelines/lab-agent","record":"g-20261115-151543","says":"feat: a driver speaks with git alone: an asking is itself a beat; the driver's side kept here (#198)"}
 {"at":"2026-11-09T14:34:14+01:00","by":"grenudi","id":"e44dd2e","project":"creation-guidelines/lab-agent","says":"feat: the agent API - submit, wait, logs; env-configured client; partial logs (#21)"}
 {"at":"2026-11-09T14:40:29+01:00","by":"github-actions[bot]","id":"e5f76fb","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.6 (#23)"}
 {"at":"2026-11-09T17:21:31+01:00","by":"grenudi","id":"e64ab69","project":"creation-guidelines/lab-agent","says":"feat: the monitor spends no GitHub budget - conditional reads, and local records on the machine that runs the agent (#31)"}
@@ -669,6 +670,7 @@
 {"at":"2026-11-15T09:32:53+01:00","by":"lab-agent-session","id":"1306f0f","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T23:50:26+01:00","by":"lab-agent-session","id":"265b3ae","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: please continue"}
 {"at":"2026-11-14T21:05:20+01:00","by":"lab-agent-session","id":"2ff2634","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T16:15:00+01:00","by":"lab-agent-session","id":"3667a9f","project":"marshall-oco/conversation","record":"g-20261115-151500","says":"docs: five turns entered as they were said: the way to the lab cut, and found again"}
 {"at":"2026-11-14T23:07:22+01:00","by":"lab-agent-session","id":"37475cf","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T10:28:23+01:00","by":"lab-agent-session","id":"4b075a2","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T19:04:16+01:00","by":"lab-agent-session","id":"54cd2b0","project":"marshall-oco/conversation","record":"g-20261114-180416","says":"docs: the conversation, kept in a place: what was said, turn by turn"}
@@ -693,6 +695,7 @@
 {"at":"2026-11-15T13:22:16+01:00","by":"lab-agent-session","id":"c78db1a","project":"marshall-oco/conversation","record":"g-20261115-122216","says":"fix: a turn says the moment it was said: the entry supplies it, eight told by a transcript"}
 {"at":"2026-11-15T12:34:38+01:00","by":"lab-agent-session","id":"cb4018a","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T11:19:19+01:00","by":"lab-agent-session","id":"cd0b2ff","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-15T14:56:36+01:00","by":"lab-agent-session","id":"d8219e9","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T20:30:31+01:00","by":"lab-agent-session","id":"d9fbddc","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T00:16:16+01:00","by":"lab-agent-session","id":"dd7f5f8","project":"marshall-oco/conversation","record":"g-20261114-231615","says":"docs: a turn entered as it was said: not fixed on a surface"}
 {"at":"2026-11-15T13:31:38+01:00","by":"lab-agent-session","id":"e3e5163","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -704,6 +707,7 @@
 {"at":"2026-11-14T15:36:51Z","by":"oco observe","id":"0227c29","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:11:27Z","by":"oco observe","id":"025cbac","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:11:37Z","by":"oco observe","id":"0270e2c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T14:03:20Z","by":"oco observe","id":"0281854","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:31:32Z","by":"oco observe","id":"02faa4c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T03:18:15Z","by":"oco observe","id":"039b990","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T02:18:22Z","by":"oco observe","id":"03baa32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -724,6 +728,7 @@
 {"at":"2026-11-13T17:17:59Z","by":"oco observe","id":"0f066a9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T13:33:23Z","by":"oco observe","id":"1040aa7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:36:41Z","by":"oco observe","id":"1078feb","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T13:55:38Z","by":"oco observe","id":"1083502","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T13:36:07Z","by":"oco observe","id":"10ee969","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T22:39:55+01:00","by":"grenudi","id":"11f8ebb","project":"marshall-oco/marshall-oco.github.io","record":"g-20261113-213939","says":"docs: a sheet made through a lens: at-a-glance (#2)"}
 {"at":"2026-11-14T12:03:24Z","by":"oco observe","id":"1209cb1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -836,7 +841,9 @@
 {"at":"2026-11-15T00:19:20+01:00","by":"grenudi","id":"5b88fce","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-231904","says":"docs: a surface said here: the steps one can take from what is shown (#11)"}
 {"at":"2026-11-14T18:45:26Z","by":"oco observe","id":"5bada81","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T07:27:48Z","by":"oco observe","id":"5c6f37e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T14:48:23Z","by":"oco observe","id":"5c8a942","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:03:16Z","by":"oco observe","id":"5df6318","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T14:33:16Z","by":"oco observe","id":"5e02ac7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:18:07Z","by":"oco observe","id":"5f108d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:24:04Z","by":"oco observe","id":"60d3b32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:31:49Z","by":"oco observe","id":"6133420","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -897,8 +904,10 @@
 {"at":"2026-11-13T16:22:17Z","by":"oco observe","id":"8b4b9e3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T12:48:10Z","by":"oco observe","id":"8bb3387","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T20:17:56Z","by":"oco observe","id":"8be4114","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T15:03:16Z","by":"oco observe","id":"8d256e4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T12:18:22Z","by":"oco observe","id":"8ee3456","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T09:08:08Z","by":"oco observe","id":"8f4395b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T14:18:16Z","by":"oco observe","id":"8faadb9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:11:41Z","by":"oco observe","id":"905b55d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:17:32Z","by":"oco observe","id":"906c318","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:35:37+01:00","by":"grenudi","id":"9106643","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-213521","says":"ci: the observatory observes by holding: what a route reads reaches the page (#10)"}
@@ -1624,6 +1633,7 @@
 {"at":"2026-11-13T08:00:34Z","by":"oco harvest","id":"3342d0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T07:23:35Z","by":"oco harvest","id":"33f888a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T16:16:53Z","by":"oco harvest","id":"3415e3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T13:59:13Z","by":"oco harvest","id":"34a0d34","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T01:41:08+01:00","by":"grenudi","id":"34c0edb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: essence measured at home and on the front page; ideas in Russian; what is still owed (#39)"}
 {"at":"2026-11-12T08:16:11Z","by":"oco harvest","id":"359b668","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T08:20:47Z","by":"oco harvest","id":"35c0451","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -1770,6 +1780,7 @@
 {"at":"2026-11-14T22:18:17Z","by":"oco harvest","id":"71f6c87","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T10:00:33Z","by":"oco harvest","id":"7206ce9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:25:37Z","by":"oco harvest","id":"7296389","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T13:55:45Z","by":"oco harvest","id":"72bba82","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:34:55Z","by":"oco harvest","id":"73ec8f6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T08:19:06Z","by":"oco harvest","id":"7421010","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:05:06Z","by":"oco harvest","id":"7434f69","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
