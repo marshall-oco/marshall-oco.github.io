@@ -917,6 +917,7 @@
 {"at":"2026-11-13T23:03:05Z","by":"oco observe","id":"7a8e1a7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:32:43Z","by":"oco observe","id":"7ad3d5e","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:07:01Z","by":"oco observe","id":"7bc1ae6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:58:33Z","by":"grenudi","id":"7bdadc4","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-205816","says":"ci: the pages are laid out where the whole was observed, not at every quarter hour (#24)"}
 {"at":"2026-11-14T08:35:34Z","by":"oco observe","id":"7ce2e11","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T19:18:09Z","by":"oco observe","id":"7d1a540","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:51:45Z","by":"oco observe","id":"7d3ae15","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1140,10 +1141,12 @@
 {"at":"2026-11-15T13:21:49Z","by":"oco observe","id":"fa07b99","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T21:09:32Z","by":"oco observe","id":"fa31a29","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:23:20Z","by":"oco observe","id":"fb48bb0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:49:03Z","by":"oco observe","id":"fb76aa6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:07:44Z","by":"oco observe","id":"fb7c9ab","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T19:23:28Z","by":"oco observe","id":"fbedbb5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T19:48:19Z","by":"oco observe","id":"fc8e0c1","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T11:03:12Z","by":"oco observe","id":"fcc2db6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-15T20:39:33Z","by":"oco observe","id":"fe57c13","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:34:56Z","by":"oco observe","id":"fe87580","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T12:22:04Z","by":"grenudi","id":"fe9f3c8","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-122148","says":"feat: this observatory says what it shows first; each page says what it is (#17)"}
 {"at":"2026-11-13T08:48:36Z","by":"oco observe","id":"fef1b39","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1195,6 +1198,7 @@
 {"at":"2026-11-14T15:19:19Z","by":"grenudi","id":"5871651","project":"open-commons-observatory/ecosystem","record":"g-20261114-151903","says":"docs: work is seen where it happens: the author's words, and what came of them (#56)"}
 {"at":"2026-11-13T20:02:25Z","by":"grenudi","id":"58cb306","project":"open-commons-observatory/ecosystem","record":"g-20261113-200208","says":"docs: a lens is a word: the author's words, and what the lens of language showed (#25)"}
 {"at":"2026-11-13T18:42:26Z","by":"grenudi","id":"5a340bb","project":"open-commons-observatory/ecosystem","record":"g-20261113-184210","says":"docs: what lets go: the author's glimpse, beside Rhizome's own words (#22)"}
+{"at":"2026-11-15T20:39:01Z","by":"grenudi","id":"5d6eca9","project":"open-commons-observatory/ecosystem","record":"g-20261115-203845","says":"docs: what came of a page in a few words; what a reminder showed (#117)"}
 {"at":"2026-11-15T19:20:49Z","by":"grenudi","id":"6011be1","project":"open-commons-observatory/ecosystem","record":"g-20261115-192032","says":"docs: the form's sheet shows the islands; what came of a command asking in a window (#115)"}
 {"at":"2026-11-14T16:10:30Z","by":"grenudi","id":"61570f1","project":"open-commons-observatory/ecosystem","record":"g-20261114-161011","says":"docs: one run, as it last was (#60)"}
 {"at":"2026-11-14T19:41:04Z","by":"grenudi","id":"621f38d","project":"open-commons-observatory/ecosystem","record":"g-20261114-194048","says":"docs: the practices say how work is done now: what came of the sign (#72)"}
@@ -1725,6 +1729,7 @@
 {"at":"2026-11-14T19:00:19Z","by":"grenudi","id":"2e2a503","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261114-190002","says":"docs: practices since the 26th: ten ways of working, each saying where it is shown (#78)"}
 {"at":"2026-11-12T18:33:36Z","by":"oco harvest","id":"2ecd540","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:04:51Z","by":"oco harvest","id":"2edbf72","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T20:45:21Z","by":"oco harvest","id":"2f92316","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T15:20:46Z","by":"oco harvest","id":"2fbfa22","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T21:42:40Z","by":"oco harvest","id":"2fe9628","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T08:59:20Z","by":"oco harvest","id":"30a6a92","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -1947,6 +1952,7 @@
 {"at":"2026-11-15T19:14:02Z","by":"oco harvest","id":"8bdb79c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:08:32Z","by":"oco harvest","id":"8cbe4d1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T22:47:38Z","by":"oco harvest","id":"8d314cb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T20:41:44Z","by":"oco harvest","id":"8e5a7fb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:34:24Z","by":"oco harvest","id":"8ecbef7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T09:37:21Z","by":"grenudi","id":"8f3220b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"docs: this morning's findings, with concepts and decisions (#44)"}
 {"at":"2026-11-12T08:38:10Z","by":"oco harvest","id":"8faa47a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2070,6 +2076,7 @@
 {"at":"2026-11-12T20:26:40Z","by":"oco harvest","id":"c703f4e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:10:35Z","by":"oco harvest","id":"c724c21","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T17:01:25Z","by":"oco harvest","id":"c73e559","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-15T20:39:29Z","by":"grenudi","id":"c7a2376","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-203914","says":"docs: a way of working: what followed is looked at, not written; pages looked at, counted (#98)"}
 {"at":"2026-11-10T15:29:23Z","by":"oco harvest","id":"c8340a1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:35:07Z","by":"oco harvest","id":"c8cbe0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:50:50Z","by":"oco harvest","id":"c92b3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
