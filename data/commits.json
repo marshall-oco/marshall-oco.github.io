@@ -963,6 +963,7 @@
 {"at":"2026-11-14T18:47:42Z","by":"oco observe","id":"74bb207","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T09:27:41Z","by":"oco observe","id":"74c09ec","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T12:05:18Z","by":"grenudi","id":"766f59a","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-120501","says":"feat: the page reads the language as its place keeps it, held while observing (#27)"}
+{"at":"2026-11-16T12:18:05Z","by":"oco observe","id":"7715336","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:35:23Z","by":"oco observe","id":"778a07a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:51:32Z","by":"oco observe","id":"779d649","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:51:57Z","by":"oco observe","id":"77ad571","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -989,6 +990,7 @@
 {"at":"2026-11-16T02:33:25Z","by":"oco observe","id":"80e6a04","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T17:48:24Z","by":"oco observe","id":"82ceef9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T07:48:18Z","by":"oco observe","id":"8330d94","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T12:28:57Z","by":"oco observe","id":"8342a28","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T07:37:32Z","by":"oco observe","id":"84c7f6d","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:58:15Z","by":"oco observe","id":"8576ad9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T15:35:00Z","by":"oco observe","id":"86bf7c7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1689,6 +1691,7 @@
 {"at":"2026-11-16T08:46:42Z","by":"grenudi","id":"c8a610b","project":"open-commons-observatory/ocoeco","record":"g-20261116-084459","says":"docs: a sign: a thing known by its name is not stood on from within (#364)"}
 {"at":"2026-11-11T10:58:46Z","by":"grenudi","id":"c9c84be","project":"open-commons-observatory/ocoeco","says":"feat: ocoeco note - recording as a tool (#23)"}
 {"at":"2026-11-16T05:13:53Z","by":"grenudi","id":"ca4617f","project":"open-commons-observatory/ocoeco","record":"g-20261116-051223","says":"feat: the check looks with the places beside it; what is kept out stops by its lens (#353)"}
+{"at":"2026-11-16T12:30:05Z","by":"grenudi","id":"ca83123","project":"open-commons-observatory/ocoeco","record":"g-20261116-122841","says":"fix: a first step brings the trail into view: here names what was made in that saying (#389)"}
 {"at":"2026-11-15T19:19:48Z","by":"grenudi","id":"ca9643f","project":"open-commons-observatory/ocoeco","record":"g-20261115-191807","says":"feat: what is joined to nothing, by kind: the islands of the whole; a record named is counted (#308)"}
 {"at":"2026-11-15T12:43:02Z","by":"grenudi","id":"cafa1a4","project":"open-commons-observatory/ocoeco","record":"g-20261115-124119","says":"fix: a row is taken back only when nothing in view points at it (#286)"}
 {"at":"2026-11-16T11:10:16Z","by":"github-actions[bot]","id":"cb7b796","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.66.0 (#381)"}
@@ -1737,6 +1740,7 @@
 {"at":"2026-11-14T22:21:15Z","by":"grenudi","id":"e5a7f20","project":"open-commons-observatory/ocoeco","record":"g-20261114-221934","says":"feat: a walk in the dome: point at a thing, stand on it, step back (#236)"}
 {"at":"2026-11-16T11:30:46Z","by":"grenudi","id":"e5cbf89","project":"open-commons-observatory/ocoeco","record":"g-20261116-112904","says":"feat: a link may be said of what was: a record of work points at what it touched then (#383)"}
 {"at":"2026-11-14T07:22:48Z","by":"grenudi","id":"e6245e6","project":"open-commons-observatory/ocoeco","record":"g-20261114-072138","says":"docs: ocoeco on argenv is done; the form waits on the author's word (#160)"}
+{"at":"2026-11-16T12:30:39Z","by":"github-actions[bot]","id":"e6f4937","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.68.1 (#390)"}
 {"at":"2026-11-15T11:43:27Z","by":"grenudi","id":"e7e87e2","project":"open-commons-observatory/ocoeco","record":"g-20261115-114207","says":"feat: from why to the code in one step; a look cut short ends quietly (#282)"}
 {"at":"2026-11-14T16:59:09Z","by":"github-actions[bot]","id":"e7f12d1","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.23.2 (#195)"}
 {"at":"2026-11-16T08:38:09Z","by":"grenudi","id":"e90efb1","project":"open-commons-observatory/ocoeco","record":"g-20261116-083626","says":"docs: a part: entering/20 (#361)"}
