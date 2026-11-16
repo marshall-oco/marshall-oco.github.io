@@ -28,10 +28,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           mkdir -p "$RUNNER_TEMP/ocoeco" "$RUNNER_TEMP/bin" && cd "$RUNNER_TEMP/ocoeco"
-          # the newest release that has its files: a release is made, and its files are built after it -
-          # for those minutes the newest has nothing to take, and the one before it serves
-          tag=$(gh api repos/open-commons-observatory/ocoeco/releases --jq '[.[] | select(any(.assets[]; .name | endswith("x86_64-unknown-linux-musl.tar.gz")) and any(.assets[]; .name == "SHA256SUMS-x86_64-unknown-linux-musl"))][0].tag_name')
-          gh release download "$tag" --repo open-commons-observatory/ocoeco --pattern "ocoeco-v*-x86_64-unknown-linux-musl.tar.gz" --pattern "SHA256SUMS-x86_64-unknown-linux-musl"
+          # the newest release: a release is said only once its files are there - the package conveyor says it
+          gh release download --repo open-commons-observatory/ocoeco --pattern "ocoeco-v*-x86_64-unknown-linux-musl.tar.gz" --pattern "SHA256SUMS-x86_64-unknown-linux-musl"
           sha256sum -c --ignore-missing SHA256SUMS-x86_64-unknown-linux-musl
           tar -xzf ocoeco-v*-x86_64-unknown-linux-musl.tar.gz
           install -m 755 "$(find . -name ocoeco -type f | head -1)" "$RUNNER_TEMP/bin/ocoeco"
