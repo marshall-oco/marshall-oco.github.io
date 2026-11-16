@@ -38,6 +38,7 @@
 {"at":"2026-09-25T09:28:10Z","by":"grenudi","id":"5c25605","project":"argenv-opencommons/argenv","says":"Merge branch 'main' into feat/positional-and-gated-inputs"}
 {"at":"2026-10-23T15:13:46Z","by":"grenudi","id":"5c7e9ea","project":"argenv-opencommons/argenv","says":"fix(ci): run the whole test suite, not only the examples (#20)"}
 {"at":"2026-09-24T01:27:32Z","by":"grenudi","id":"64225db","project":"argenv-opencommons/argenv","says":"feat: positional arguments and gated inputs"}
+{"at":"2026-11-16T14:41:26Z","by":"grenudi","id":"67b24a7","project":"argenv-opencommons/argenv","record":"g-20261116-144004","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#52)"}
 {"at":"2026-11-13T20:05:13Z","by":"grenudi","id":"7e7465a","project":"argenv-opencommons/argenv","record":"g-20261113-200341","says":"docs: the held step says it waits, not that it is next (#50)"}
 {"at":"2026-07-23T10:58:10Z","by":"grenudi","id":"7f4bb7b","project":"argenv-opencommons/argenv","says":"fix: direnv reload added"}
 {"at":"2026-09-25T08:19:38Z","by":"dependabot[bot]","id":"8680ed5","project":"argenv-opencommons/argenv","says":"build(deps): bump actions/deploy-pages from 4 to 5 (#5)"}
@@ -87,6 +88,7 @@
 {"at":"2026-11-11T15:42:16Z","by":"grenudi","id":"533e1c6","project":"creation-guidelines/agent-access-oco","says":"docs: web pages too - an agent should see and use what it builds (#1)"}
 {"at":"2026-11-11T14:05:37Z","by":"lab-agent-session","id":"623beaa","project":"creation-guidelines/agent-access-oco","says":"docs: agent access - researched and planned"}
 {"at":"2026-11-11T21:30:27Z","by":"grenudi","id":"6d675ea","project":"creation-guidelines/agent-access-oco","record":"g-20261111-213011","says":"chore: glimpses are recorded here from now on (#2)"}
+{"at":"2026-11-16T14:41:57Z","by":"grenudi","id":"0d1871e","project":"creation-guidelines/essence-oco","record":"g-20261116-144140","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#6)"}
 {"at":"2026-11-11T00:55:59Z","by":"grenudi","id":"225ed29","project":"creation-guidelines/essence-oco","says":"docs: its workings in Russian (by machine, for a person to correct) (#4)"}
 {"at":"2026-11-10T23:00:30Z","by":"grenudi","id":"4679a47","project":"creation-guidelines/essence-oco","says":"docs: its idea in Russian (by machine, for a person to correct) (#2)"}
 {"at":"2026-11-10T22:06:11Z","by":"lab-agent-session","id":"484995b","project":"creation-guidelines/essence-oco","says":"docs: Essence - the method, and its own essence written with it"}
@@ -103,6 +105,7 @@
 {"at":"2026-11-04T07:33:30Z","by":"grenudi","id":"4e33ca8","project":"creation-guidelines/ideal-project-playbook","says":"feat(site): a GitHub Pages site built from the reStructuredText (#6)"}
 {"at":"2026-11-11T20:03:39Z","by":"grenudi","id":"519a5e7","project":"creation-guidelines/ideal-project-playbook","says":"refactor: a concept's text is its summary, the shared word (#23)"}
 {"at":"2026-11-11T13:04:15Z","by":"grenudi","id":"69e6ff7","project":"creation-guidelines/ideal-project-playbook","says":"docs: words are decisions - ubiquitous language, Orwell, plain language (#18)"}
+{"at":"2026-11-16T14:42:39Z","by":"grenudi","id":"6d22ab5","project":"creation-guidelines/ideal-project-playbook","record":"g-20261116-144211","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#28)"}
 {"at":"2026-11-04T13:23:24Z","by":"grenudi","id":"78e6724","project":"creation-guidelines/ideal-project-playbook","says":"fix(kit): the tools run on a fresh repository, and the gate is in the tests (#10)"}
 {"at":"2026-11-04T13:18:15Z","by":"grenudi","id":"7aacc7b","project":"creation-guidelines/ideal-project-playbook","says":"feat(kit): the guards catalogue, templates and CI configuration, and the audit's fixes (#9)"}
 {"at":"2026-11-11T17:23:56Z","by":"grenudi","id":"8653f49","project":"creation-guidelines/ideal-project-playbook","says":"docs: after the switch to tad - the last old names, and the session recorded (#21)"}
@@ -251,6 +254,7 @@
 {"at":"2026-11-12T03:00:20Z","by":"grenudi","id":"a8e9592","project":"creation-guidelines/lab-agent","record":"g-20261112-025931","says":"feat: speaking: the journal and logs back to the repository; wait from anywhere (#150)"}
 {"at":"2026-11-12T02:38:46Z","by":"grenudi","id":"a91beed","project":"creation-guidelines/lab-agent","record":"g-20261112-023758","says":"feat: intake: work asked through the repository; beats as variables (#147)"}
 {"at":"2026-11-12T10:03:56Z","by":"grenudi","id":"aecb00c","project":"creation-guidelines/lab-agent","record":"g-20261112-100308","says":"feat: oco-agent's voice: drivers say things to one another, carried to the phone (#162)"}
+{"at":"2026-11-16T14:43:55Z","by":"grenudi","id":"b08b5a6","project":"creation-guidelines/lab-agent","record":"g-20261116-144254","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#210)"}
 {"at":"2026-11-12T22:20:58Z","by":"grenudi","id":"b0b17f3","project":"creation-guidelines/lab-agent","record":"g-20261112-221959","says":"feat: oco-agent says what newly came into view, every five minutes (#174)"}
 {"at":"2026-11-15T09:44:49Z","by":"grenudi","id":"b45f73f","project":"creation-guidelines/lab-agent","record":"g-20261115-094401","says":"fix: a comparison looks in passing: oco-work's looks leave no step (#193)"}
 {"at":"2026-11-13T12:28:32Z","by":"grenudi","id":"b505510","project":"creation-guidelines/lab-agent","record":"g-20261113-122744","says":"feat: oco-agent's record says what it is: a place that brings the lens of now (#179)"}
@@ -328,6 +332,7 @@
 {"at":"2026-09-22T21:48:45Z","by":"grenudi","id":"017e08c","project":"creation-guidelines/software-engineering-canon","says":"chore(tad): pull engine update (definition-list field rendering)"}
 {"at":"2026-09-22T21:50:33Z","by":"github-actions[bot]","id":"083d44a","project":"creation-guidelines/software-engineering-canon","says":"chore(main): release 1.1.0"}
 {"at":"2026-09-22T08:21:21Z","by":"grenudi","id":"0858067","project":"creation-guidelines/software-engineering-canon","says":"Initial commit"}
+{"at":"2026-11-16T14:46:41Z","by":"grenudi","id":"08f8cda","project":"creation-guidelines/software-engineering-canon","record":"g-20261116-144410","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#32)"}
 {"at":"2026-11-11T22:17:36Z","by":"grenudi","id":"1049f45","project":"creation-guidelines/software-engineering-canon","record":"g-20261111-221658","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#24)"}
 {"at":"2026-11-10T17:46:32Z","by":"ocoeco gather","id":"17bc5fd","project":"creation-guidelines/software-engineering-canon","says":"data: gathered by ocoeco"}
 {"at":"2026-11-11T17:44:05Z","by":"grenudi","id":"18d864c","project":"creation-guidelines/software-engineering-canon","says":"docs: after the switch to tad - the rules link, the session logged (#17)"}
@@ -421,6 +426,7 @@
 {"at":"2026-11-11T17:17:06Z","by":"grenudi","id":"cd32edb","project":"creation-guidelines/tad-engine","says":"ci: release tad through the package conveyor - binaries with signed provenance for every tad-v tag (#39)"}
 {"at":"2026-11-11T16:52:22Z","by":"grenudi","id":"d1bd333","project":"creation-guidelines/tad-engine","says":"feat(tad): canon and set - canonical form and checked row edits, byte for byte as DuckDB writes (#37)"}
 {"at":"2026-11-11T16:28:15Z","by":"grenudi","id":"d315e2f","project":"creation-guidelines/tad-engine","says":"docs: tad - the tool by the conveyor, the library as a cutting (#32)"}
+{"at":"2026-11-16T14:48:16Z","by":"grenudi","id":"d650472","project":"creation-guidelines/tad-engine","record":"g-20261116-144655","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#76)"}
 {"at":"2026-11-11T00:14:37Z","by":"grenudi","id":"d713181","project":"creation-guidelines/tad-engine","says":"docs: tad tells its essence - its idea for anyone and its workings (#27)"}
 {"at":"2026-09-22T17:20:57Z","by":"grenudi","id":"d879b22","project":"creation-guidelines/tad-engine","says":"feat(render): use definition lists instead of bold field labels (#11)"}
 {"at":"2026-11-11T21:34:19Z","by":"grenudi","id":"e4ce7cc","project":"creation-guidelines/tad-engine","record":"g-20261111-213259","says":"chore: glimpses are recorded here from now on (#60)"}
@@ -462,6 +468,7 @@
 {"at":"2026-11-11T00:33:14Z","by":"grenudi","id":"bcc6180","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#8)"}
 {"at":"2026-11-11T18:23:03Z","by":"grenudi","id":"bd46a9b","project":"git-rhizoid/git-rhizoid.github.io","says":"build: tad 0.2.0 (#14)"}
 {"at":"2026-09-22T12:42:22Z","by":"grenudi","id":"c6b4157","project":"git-rhizoid/git-rhizoid.github.io","says":"Initial commit"}
+{"at":"2026-11-16T14:49:08Z","by":"grenudi","id":"d1deba7","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-144830","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#24)"}
 {"at":"2026-11-10T21:43:44Z","by":"grenudi","id":"da26169","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: Rhizoid's idea, told for anyone - in its own data (#6)"}
 {"at":"2026-11-11T15:50:38Z","by":"grenudi","id":"e5e0957","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: the wrap-up pass - parked with a reason (#9)"}
 {"at":"2026-09-23T07:09:56Z","by":"grenudi","id":"ea6d4ae","project":"git-rhizoid/git-rhizoid.github.io","says":"feat(data): design the boundary layer, having read argenv's real API"}
@@ -799,6 +806,7 @@
 {"at":"2026-11-15T11:47:41Z","by":"oco observe","id":"1bf9520","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:01:44Z","by":"oco observe","id":"1d261d2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:03:32Z","by":"oco observe","id":"1e0f523","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T14:36:44Z","by":"oco observe","id":"1e757bf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T07:33:23Z","by":"oco observe","id":"1f0744c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T17:48:22Z","by":"oco observe","id":"1f5dd97","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T13:33:09Z","by":"oco observe","id":"1f97027","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -932,6 +940,7 @@
 {"at":"2026-11-15T14:33:16Z","by":"oco observe","id":"5e02ac7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T20:03:42Z","by":"oco observe","id":"5efaf13","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T16:18:07Z","by":"oco observe","id":"5f108d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T14:48:41Z","by":"oco observe","id":"60a25d6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:24:04Z","by":"oco observe","id":"60d3b32","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T17:31:49Z","by":"oco observe","id":"6133420","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T00:26:43Z","by":"oco observe","id":"6171424","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1832,6 +1841,7 @@
 {"at":"2026-11-11T12:35:06Z","by":"grenudi","id":"3cd336d","project":"open-commons-observatory/ocoeco-engine","says":"feat/effort research badges (#44)"}
 {"at":"2026-11-10T18:48:43Z","by":"grenudi","id":"48eaae7","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): each project's own translations, and only its own - with the engine's records caught up (#22)"}
 {"at":"2026-11-11T01:01:28Z","by":"grenudi","id":"4a0ced7","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): the last English words on a Russian page - a count and the kinds of workings (#40)"}
+{"at":"2026-11-16T14:38:41Z","by":"grenudi","id":"4e89449","project":"open-commons-observatory/ocoeco-engine","record":"g-20261116-143751","says":"feat: the page reads the runs the observatory observes, no longer ci (#57)"}
 {"at":"2026-11-11T21:40:33Z","by":"grenudi","id":"550d043","project":"open-commons-observatory/ocoeco-engine","record":"g-20261111-213944","says":"chore: glimpses are recorded here from now on (#56)"}
 {"at":"2026-11-10T16:33:41Z","by":"grenudi","id":"5ba8281","project":"open-commons-observatory/ocoeco-engine","says":"chore(mark): a short title - Engine (#12)"}
 {"at":"2026-11-10T17:28:05Z","by":"grenudi","id":"5c9f66b","project":"open-commons-observatory/ocoeco-engine","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#17)"}
@@ -1909,6 +1919,7 @@
 {"at":"2026-11-13T07:25:09Z","by":"grenudi","id":"0b53aba","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261113-072453","says":"docs: practice 26: refining first, and recorded through ocoeco (#77)"}
 {"at":"2026-11-10T17:33:57Z","by":"grenudi","id":"0c2fdec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: lenses - the concept, the decision with what was rejected, the steps (#16)"}
 {"at":"2026-11-10T21:51:18Z","by":"oco harvest","id":"0c78d5d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:41:44Z","by":"oco harvest","id":"0c97c15","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:02:25Z","by":"grenudi","id":"0ce18b1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: joining in one command, Rhizoid joins, discovered lenses - logged; the tiers done (#27)"}
 {"at":"2026-11-16T09:27:19Z","by":"oco harvest","id":"0cff802","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:34:32Z","by":"oco harvest","id":"0d487e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -1958,6 +1969,7 @@
 {"at":"2026-11-10T17:56:06Z","by":"oco harvest","id":"2611e3a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:03:41Z","by":"grenudi","id":"2677346","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-210325","says":"docs: each time done by hand named apart: rows that were named alike; two looks counted (#99)"}
 {"at":"2026-11-12T11:14:01Z","by":"oco harvest","id":"26b9919","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:45:11Z","by":"oco harvest","id":"273e19a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T18:46:53Z","by":"oco harvest","id":"27d902d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:44:56Z","by":"oco harvest","id":"280f6b0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T05:21:32Z","by":"oco harvest","id":"282e23e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2010,6 +2022,7 @@
 {"at":"2026-11-14T22:01:50Z","by":"oco harvest","id":"3b02b14","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:00:12Z","by":"oco harvest","id":"3b61b6c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T16:48:16Z","by":"oco harvest","id":"3bc1e66","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:49:21Z","by":"oco harvest","id":"3c5c113","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:11:46Z","by":"oco harvest","id":"3c84937","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:50:43Z","by":"grenudi","id":"3d0cd94","project":"open-commons-observatory/open-commons-observatory.github.io","says":"feat(data): a practice - change only what you mean to, never by copying whole files from a stale copy (#7)"}
 {"at":"2026-11-16T09:34:56Z","by":"oco harvest","id":"3d2cada","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2389,6 +2402,7 @@
 {"at":"2026-11-11T17:01:25Z","by":"oco harvest","id":"c73e559","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:39:29Z","by":"grenudi","id":"c7a2376","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-203914","says":"docs: a way of working: what followed is looked at, not written; pages looked at, counted (#98)"}
 {"at":"2026-11-10T15:29:23Z","by":"oco harvest","id":"c8340a1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T14:38:17Z","by":"oco harvest","id":"c88ba11","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T04:43:28Z","by":"oco harvest","id":"c88d6e1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:35:07Z","by":"oco harvest","id":"c8cbe0b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:50:50Z","by":"oco harvest","id":"c92b3e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
