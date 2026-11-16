@@ -64,6 +64,7 @@
 {"at":"2026-07-21T17:12:17Z","by":"grenudi","id":"b302586","project":"argenv-opencommons/argenv","says":"init"}
 {"at":"2026-10-23T23:54:24Z","by":"grenudi","id":"b5715fd","project":"argenv-opencommons/argenv","says":"feat(resolve): derive shell completions and a man page from a contract (#32)"}
 {"at":"2026-11-13T11:30:00Z","by":"grenudi","id":"b60f64c","project":"argenv-opencommons/argenv","record":"g-20261113-112839","says":"docs: a sign from use: what was meant misses a swapped pair (#49)"}
+{"at":"2026-11-16T15:50:45Z","by":"grenudi","id":"b9e0ead","project":"argenv-opencommons/argenv","record":"g-20261116-154710","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#53)"}
 {"at":"2026-11-10T19:24:58Z","by":"grenudi","id":"ba86055","project":"argenv-opencommons/argenv","says":"chore: join the Open Commons Observatory - the mark, the gatherer, its own path (#40)"}
 {"at":"2026-10-24T00:31:41Z","by":"github-actions[bot]","id":"c063ad3","project":"argenv-opencommons/argenv","says":"chore: release v0.3.2"}
 {"at":"2026-10-23T19:00:03Z","by":"grenudi","id":"c2002ac","project":"argenv-opencommons/argenv","says":"fix(lint): a required input is only required when its own subcommand runs (#22)"}
@@ -94,6 +95,7 @@
 {"at":"2026-11-10T23:00:30Z","by":"grenudi","id":"4679a47","project":"creation-guidelines/essence-oco","says":"docs: its idea in Russian (by machine, for a person to correct) (#2)"}
 {"at":"2026-11-10T22:06:11Z","by":"lab-agent-session","id":"484995b","project":"creation-guidelines/essence-oco","says":"docs: Essence - the method, and its own essence written with it"}
 {"at":"2026-11-10T22:09:17Z","by":"grenudi","id":"6394dc2","project":"creation-guidelines/essence-oco","says":"data: the whole chain is drawn, and measured by four marks (#1)"}
+{"at":"2026-11-16T15:51:20Z","by":"grenudi","id":"789ba62","project":"creation-guidelines/essence-oco","record":"g-20261116-155104","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#7)"}
 {"at":"2026-11-11T21:30:50Z","by":"grenudi","id":"d247ec2","project":"creation-guidelines/essence-oco","record":"g-20261111-213034","says":"chore: glimpses are recorded here from now on (#5)"}
 {"at":"2026-11-11T00:23:27Z","by":"grenudi","id":"f6b2759","project":"creation-guidelines/essence-oco","says":"data: checked before publishing - ocoeco check reads a repository's essence (#3)"}
 {"at":"2026-11-11T16:45:51Z","by":"grenudi","id":"13ee044","project":"creation-guidelines/ideal-project-playbook","says":"docs: the tables declared as data, for tad in Rust (#19)"}
@@ -106,6 +108,7 @@
 {"at":"2026-11-04T07:33:30Z","by":"grenudi","id":"4e33ca8","project":"creation-guidelines/ideal-project-playbook","says":"feat(site): a GitHub Pages site built from the reStructuredText (#6)"}
 {"at":"2026-11-11T20:03:39Z","by":"grenudi","id":"519a5e7","project":"creation-guidelines/ideal-project-playbook","says":"refactor: a concept's text is its summary, the shared word (#23)"}
 {"at":"2026-11-11T13:04:15Z","by":"grenudi","id":"69e6ff7","project":"creation-guidelines/ideal-project-playbook","says":"docs: words are decisions - ubiquitous language, Orwell, plain language (#18)"}
+{"at":"2026-11-16T15:52:28Z","by":"grenudi","id":"6bc17e0","project":"creation-guidelines/ideal-project-playbook","record":"g-20261116-155138","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#29)"}
 {"at":"2026-11-16T14:42:39Z","by":"grenudi","id":"6d22ab5","project":"creation-guidelines/ideal-project-playbook","record":"g-20261116-144211","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#28)"}
 {"at":"2026-11-04T13:23:24Z","by":"grenudi","id":"78e6724","project":"creation-guidelines/ideal-project-playbook","says":"fix(kit): the tools run on a fresh repository, and the gate is in the tests (#10)"}
 {"at":"2026-11-04T13:18:15Z","by":"grenudi","id":"7aacc7b","project":"creation-guidelines/ideal-project-playbook","says":"feat(kit): the guards catalogue, templates and CI configuration, and the audit's fixes (#9)"}
@@ -316,6 +319,7 @@
 {"at":"2026-11-10T13:10:42Z","by":"grenudi","id":"ecbd2f1","project":"creation-guidelines/lab-agent","says":"feat: the status bar shows the agent's state at a glance; waits on jobs show themselves (#93)"}
 {"at":"2026-11-12T08:44:23Z","by":"github-actions[bot]","id":"ecce2b6","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.53 (#127)"}
 {"at":"2026-11-10T03:02:51Z","by":"github-actions[bot]","id":"f223599","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.26 (#70)"}
+{"at":"2026-11-16T15:53:45Z","by":"grenudi","id":"f2ed9cd","project":"creation-guidelines/lab-agent","record":"g-20261116-155246","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#211)"}
 {"at":"2026-11-11T23:43:52Z","by":"grenudi","id":"f47d868","project":"creation-guidelines/lab-agent","record":"g-20261111-234314","says":"docs: the journal's SQL is tad's, on DuckDB as tad's research chose (#133)"}
 {"at":"2026-11-12T13:27:40Z","by":"grenudi","id":"f58b9a3","project":"creation-guidelines/lab-agent","record":"g-20261112-132651","says":"docs: decisions that refine others say so as a relation (#167)"}
 {"at":"2026-11-11T15:20:40Z","by":"github-actions[bot]","id":"f6f4f06","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.51 (#123)"}
@@ -337,6 +341,7 @@
 {"at":"2026-11-11T22:17:36Z","by":"grenudi","id":"1049f45","project":"creation-guidelines/software-engineering-canon","record":"g-20261111-221658","says":"build: tad 0.4.0: the pin moved, the data and documents re-rendered (#24)"}
 {"at":"2026-11-10T17:46:32Z","by":"ocoeco gather","id":"17bc5fd","project":"creation-guidelines/software-engineering-canon","says":"data: gathered by ocoeco"}
 {"at":"2026-11-11T17:44:05Z","by":"grenudi","id":"18d864c","project":"creation-guidelines/software-engineering-canon","says":"docs: after the switch to tad - the rules link, the session logged (#17)"}
+{"at":"2026-11-16T15:54:39Z","by":"grenudi","id":"19fcade","project":"creation-guidelines/software-engineering-canon","record":"g-20261116-155404","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#33)"}
 {"at":"2026-09-22T21:53:29Z","by":"grenudi","id":"3a5cf0d","project":"creation-guidelines/software-engineering-canon","says":"Merge pull request #2 from creation-guidelines/release-please--branches--main"}
 {"at":"2026-11-10T17:36:20Z","by":"grenudi","id":"63386cb","project":"creation-guidelines/software-engineering-canon","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#13)"}
 {"at":"2026-11-11T17:42:56Z","by":"grenudi","id":"6358469","project":"creation-guidelines/software-engineering-canon","says":"refactor: tad in Rust replaces the vendored Python engine (#16)"}
@@ -373,6 +378,7 @@
 {"at":"2026-11-11T23:57:46Z","by":"grenudi","id":"0273604","project":"creation-guidelines/tad-engine","record":"g-20261111-235659","says":"docs: tad's knowledge connected: 2026-09 decisions, workings, delivery, words (#65)"}
 {"at":"2026-11-11T17:25:40Z","by":"grenudi","id":"02da2bc","project":"creation-guidelines/tad-engine","says":"docs: tad released, the playbook switched first (#40)"}
 {"at":"2026-11-11T18:25:30Z","by":"grenudi","id":"043c9de","project":"creation-guidelines/tad-engine","says":"docs: tad pins kept current weekly (#52)"}
+{"at":"2026-11-16T15:56:09Z","by":"grenudi","id":"071bb36","project":"creation-guidelines/tad-engine","record":"g-20261116-155458","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#77)"}
 {"at":"2026-09-22T06:24:52Z","by":"github-actions[bot]","id":"0e499db","project":"creation-guidelines/tad-engine","says":"chore(main): release 1.0.1"}
 {"at":"2026-11-11T00:33:46Z","by":"grenudi","id":"1484cec","project":"creation-guidelines/tad-engine","says":"docs: its idea in Russian (by machine, for a person to correct) (#28)"}
 {"at":"2026-11-11T21:27:48Z","by":"grenudi","id":"1b8a261","project":"creation-guidelines/tad-engine","says":"feat: update-pins records a glimpse where glimpses are recorded (#59)"}
@@ -468,6 +474,7 @@
 {"at":"2026-09-22T12:42:29Z","by":"grenudi","id":"b8daa9c","project":"git-rhizoid/git-rhizoid.github.io","says":"chore(tad): vendor engine via git subrepo"}
 {"at":"2026-11-11T00:33:14Z","by":"grenudi","id":"bcc6180","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: its idea in Russian (by machine, for a person to correct) (#8)"}
 {"at":"2026-11-11T18:23:03Z","by":"grenudi","id":"bd46a9b","project":"git-rhizoid/git-rhizoid.github.io","says":"build: tad 0.2.0 (#14)"}
+{"at":"2026-11-16T15:57:06Z","by":"grenudi","id":"c5e3c55","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-155626","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#25)"}
 {"at":"2026-09-22T12:42:22Z","by":"grenudi","id":"c6b4157","project":"git-rhizoid/git-rhizoid.github.io","says":"Initial commit"}
 {"at":"2026-11-16T14:49:08Z","by":"grenudi","id":"d1deba7","project":"git-rhizoid/git-rhizoid.github.io","record":"g-20261116-144830","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#24)"}
 {"at":"2026-11-10T21:43:44Z","by":"grenudi","id":"da26169","project":"git-rhizoid/git-rhizoid.github.io","says":"docs: Rhizoid's idea, told for anyone - in its own data (#6)"}
@@ -510,6 +517,7 @@
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
 {"at":"2026-11-11T09:52:07Z","by":"grenudi","id":"426141a","project":"linux-phone-oco/docs","says":"feat(data): the microphone codec comes up (#55)"}
 {"at":"2026-11-12T19:14:52Z","by":"grenudi","id":"43f79d8","project":"linux-phone-oco/docs","record":"g-20261112-191425","says":"fix: the docs begin their own history at 0.1.0; the template's is cleared (#74)"}
+{"at":"2026-11-16T15:57:53Z","by":"grenudi","id":"469655a","project":"linux-phone-oco/docs","record":"g-20261116-155725","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#79)"}
 {"at":"2026-11-10T04:22:57Z","by":"grenudi","id":"475bb27","project":"linux-phone-oco/docs","says":"feat(feed): the mobile shells' latest releases (#31)"}
 {"at":"2026-11-05T07:59:36Z","by":"grenudi","id":"4c8c97d","project":"linux-phone-oco/docs","says":"feat(data): the phone, confirmed for real (#4)"}
 {"at":"2026-11-10T04:27:13Z","by":"grenudi","id":"4ec2109","project":"linux-phone-oco/docs","says":"feat(data): the device template - the conveyor for any phone, designed (#32)"}
@@ -587,6 +595,7 @@
 {"at":"2026-11-10T13:38:10Z","by":"grenudi","id":"7edee0a","project":"linux-phone-oco/lab-tools","says":"feat: devlab flash - an image onto the phone with the manifest's fixes baked in (#8)"}
 {"at":"2026-11-10T04:25:54Z","by":"lab-agent-session","id":"952c3a2","project":"linux-phone-oco/lab-tools","says":"feat: tone - make a test tone, and find it in a recording"}
 {"at":"2026-11-11T14:27:03Z","by":"grenudi","id":"97759a9","project":"linux-phone-oco/lab-tools","says":"feat(devlab): kernel try reports its own outcome (#24)"}
+{"at":"2026-11-16T15:59:02Z","by":"grenudi","id":"9bb36b7","project":"linux-phone-oco/lab-tools","record":"g-20261116-155810","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#28)"}
 {"at":"2026-11-11T00:13:44Z","by":"grenudi","id":"acfc451","project":"linux-phone-oco/lab-tools","says":"docs: the ear on notice - the procedure, a guard to build, and a proper rig on the backlog (#19)"}
 {"at":"2026-11-11T09:21:37Z","by":"grenudi","id":"b810574","project":"linux-phone-oco/lab-tools","says":"fix(devlab): only an EFI program is offered to the bootloader - a gzip kernel was lost silently (#22)"}
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
@@ -955,6 +964,7 @@
 {"at":"2026-11-15T16:18:06Z","by":"oco observe","id":"61d6bcb","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:48:14Z","by":"oco observe","id":"624fbfe","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:22:57Z","by":"oco observe","id":"631aeaf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T15:44:33Z","by":"oco observe","id":"632aea6","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:18:23Z","by":"oco observe","id":"63474ee","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T22:15:23Z","by":"oco observe","id":"63ddaf7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T20:08:01Z","by":"oco observe","id":"64918b0","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1953,6 +1963,7 @@
 {"at":"2026-11-12T21:26:22Z","by":"oco harvest","id":"109b1e2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:43:38Z","by":"oco harvest","id":"11b626b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T00:36:04Z","by":"oco harvest","id":"123263d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T15:54:05Z","by":"oco harvest","id":"12c380c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T12:08:20Z","by":"oco harvest","id":"13bb494","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:36:21Z","by":"oco harvest","id":"141c18f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:23:11Z","by":"oco harvest","id":"145704d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2040,6 +2051,7 @@
 {"at":"2026-11-11T10:53:21Z","by":"oco harvest","id":"38040dd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:03:49Z","by":"oco harvest","id":"380da48","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T19:38:59Z","by":"oco harvest","id":"3833910","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T15:57:42Z","by":"oco harvest","id":"389a601","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:28:51Z","by":"oco harvest","id":"3940c9e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T02:55:38Z","by":"oco harvest","id":"39b68ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T09:10:51Z","by":"oco harvest","id":"39bc9e6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2451,6 +2463,7 @@
 {"at":"2026-11-10T18:24:53Z","by":"grenudi","id":"cf90d47","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: languages - the concept, the decision with what was rejected, three steps (#19)"}
 {"at":"2026-11-14T09:46:56Z","by":"oco harvest","id":"d02a463","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:22:51Z","by":"oco harvest","id":"d049d07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T15:46:17Z","by":"oco harvest","id":"d1960e5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:03:24Z","by":"oco harvest","id":"d2530d1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T20:09:31Z","by":"oco harvest","id":"d26426d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T16:55:37Z","by":"oco harvest","id":"d27e19e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
