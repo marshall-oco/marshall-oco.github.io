@@ -275,6 +275,7 @@
 {"at":"2026-11-10T03:18:07Z","by":"grenudi","id":"c8142eb","project":"creation-guidelines/lab-agent","says":"feat: updates apply themselves when the agent is idle (#74)"}
 {"at":"2026-11-12T09:06:27Z","by":"grenudi","id":"c93a92e","project":"creation-guidelines/lab-agent","record":"g-20261112-090528","says":"fix: release-plz: oco-agent's crates get their own tag names (#156)"}
 {"at":"2026-11-10T15:37:16Z","by":"grenudi","id":"c9d2472","project":"creation-guidelines/lab-agent","says":"feat: lab-agent guide - every agent instructs itself from the observatory's living practices (#99)"}
+{"at":"2026-11-16T09:59:19Z","by":"grenudi","id":"cb708cf","project":"creation-guidelines/lab-agent","record":"g-20261116-095819","says":"docs: a sign: the words in use were not the ones that landed, and 1 more (#206)"}
 {"at":"2026-11-09T16:22:16Z","by":"github-actions[bot]","id":"cbcb56e","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.10 (#32)"}
 {"at":"2026-11-10T01:57:02Z","by":"github-actions[bot]","id":"cc10707","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.25 (#68)"}
 {"at":"2026-11-12T18:54:39Z","by":"grenudi","id":"cc40da9","project":"creation-guidelines/lab-agent","record":"g-20261112-185347","says":"docs: the token rotated, sealed on its way; the old kept until revoked (#169)"}
@@ -311,6 +312,7 @@
 {"at":"2026-11-12T13:27:40Z","by":"grenudi","id":"f58b9a3","project":"creation-guidelines/lab-agent","record":"g-20261112-132651","says":"docs: decisions that refine others say so as a relation (#167)"}
 {"at":"2026-11-11T15:20:40Z","by":"github-actions[bot]","id":"f6f4f06","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.51 (#123)"}
 {"at":"2026-11-10T14:24:07Z","by":"github-actions[bot]","id":"f79654d","project":"creation-guidelines/lab-agent","says":"chore: release v0.1.39 (#98)"}
+{"at":"2026-11-16T09:57:15Z","by":"grenudi","id":"f8471a0","project":"creation-guidelines/lab-agent","record":"g-20261116-095614","says":"feat: landing the place that keeps the words every job uses puts them to use (#205)"}
 {"at":"2026-11-10T03:09:01Z","by":"grenudi","id":"f8ecc34","project":"creation-guidelines/lab-agent","says":"fix: tests never write to the machine's sent log (#72)"}
 {"at":"2026-11-12T13:06:55Z","by":"grenudi","id":"fa02329","project":"creation-guidelines/lab-agent","record":"g-20261112-130606","says":"fix: the glimpses' links to milestones name the table (#166)"}
 {"at":"2026-11-11T00:34:40Z","by":"grenudi","id":"fa19907","project":"creation-guidelines/lab-agent","says":"docs: its idea in Russian (by machine, for a person to correct) (#112)"}
@@ -870,6 +872,7 @@
 {"at":"2026-11-14T14:57:39Z","by":"oco observe","id":"48d86d3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:15:00Z","by":"oco observe","id":"48f2c27","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:31:54Z","by":"oco observe","id":"49928c7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T09:56:44Z","by":"oco observe","id":"4bd9ba4","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T10:23:19Z","by":"oco observe","id":"4c38f94","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:34:35Z","by":"oco observe","id":"4d26395","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T18:06:51Z","by":"oco observe","id":"4d70310","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1327,6 +1330,7 @@
 {"at":"2026-11-14T13:50:06Z","by":"grenudi","id":"c8fd9c0","project":"open-commons-observatory/ecosystem","record":"g-20261114-134950","says":"docs: a field's place in order says ordinal (#53)"}
 {"at":"2026-11-13T06:11:38Z","by":"grenudi","id":"ca46280","project":"open-commons-observatory/ecosystem","record":"g-20261113-061122","says":"docs: the route as a red line: seventeen connections, each saying how it is known (#4)"}
 {"at":"2026-11-14T08:42:34Z","by":"grenudi","id":"caa8ced","project":"open-commons-observatory/ecosystem","record":"g-20261114-084218","says":"docs: a sign held back, drawn as a halt (#48)"}
+{"at":"2026-11-16T09:59:50Z","by":"grenudi","id":"d06dce2","project":"open-commons-observatory/ecosystem","record":"g-20261116-095933","says":"docs: a connection: the words in use are the ones that landed (#132)"}
 {"at":"2026-11-16T04:38:51Z","by":"grenudi","id":"d0df31b","project":"open-commons-observatory/ecosystem","record":"g-20261116-043834","says":"docs: a connection: an id kept twice stops a place (#124)"}
 {"at":"2026-11-13T23:33:07Z","by":"grenudi","id":"d308f70","project":"open-commons-observatory/ecosystem","record":"g-20261113-233250","says":"docs: lenses read the graph: what it showed, and what it now asks for (#33)"}
 {"at":"2026-11-13T09:35:30Z","by":"grenudi","id":"d36a295","project":"open-commons-observatory/ecosystem","record":"g-20261113-093514","says":"docs: the whole is discovered, not changed: the author's words (#11)"}
@@ -1335,6 +1339,7 @@
 {"at":"2026-11-13T21:03:45Z","by":"grenudi","id":"d58accf","project":"open-commons-observatory/ecosystem","record":"g-20261113-210328","says":"docs: a character is a lens: the author's words; a lens named is a lens addressed (#28)"}
 {"at":"2026-11-13T17:54:13Z","by":"grenudi","id":"d9f11fb","project":"open-commons-observatory/ecosystem","record":"g-20261113-175357","says":"docs: a name is not the place: the author's glimpse, beside Rhizome's own concepts (#20)"}
 {"at":"2026-11-13T09:06:47Z","by":"grenudi","id":"da91fd7","project":"open-commons-observatory/ecosystem","record":"g-20261113-090630","says":"docs: argenv first: the need is met where it lives (#10)"}
+{"at":"2026-11-16T10:01:43Z","by":"grenudi","id":"dbec944","project":"open-commons-observatory/ecosystem","record":"g-20261116-100124","says":"docs: a reflection: what the first acts said at once showed, and 1 more (#133)"}
 {"at":"2026-11-14T08:26:06Z","by":"grenudi","id":"e1cd269","project":"open-commons-observatory/ecosystem","record":"g-20261114-082550","says":"docs: one word each (#46)"}
 {"at":"2026-11-14T19:01:32Z","by":"grenudi","id":"e2929b8","project":"open-commons-observatory/ecosystem","record":"g-20261114-190117","says":"docs: how work is done, said as practices: what came of it, and two signs (#68)"}
 {"at":"2026-11-14T01:11:27Z","by":"grenudi","id":"e2bdc56","project":"open-commons-observatory/ecosystem","record":"g-20261114-011109","says":"docs: what lies ahead, read off (#42)"}
@@ -1414,6 +1419,7 @@
 {"at":"2026-11-15T18:29:40Z","by":"github-actions[bot]","id":"281f517","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.48.2 (#301)"}
 {"at":"2026-11-15T10:28:48Z","by":"grenudi","id":"29457a0","project":"open-commons-observatory/ocoeco","record":"g-20261115-102718","says":"fix: a lens looked through from a place is no one's address: the shape lets it be (#278)"}
 {"at":"2026-11-14T07:32:34Z","by":"grenudi","id":"2b48085","project":"open-commons-observatory/ocoeco","record":"g-20261114-073054","says":"fix: a row is held to the lens that defines its table, built in or brought (#162)"}
+{"at":"2026-11-16T10:03:37Z","by":"grenudi","id":"2b56193","project":"open-commons-observatory/ocoeco","record":"g-20261116-100156","says":"docs: a sign: what a lens file keeps beside its rows is outside what an entry says (#375)"}
 {"at":"2026-11-14T17:34:51Z","by":"grenudi","id":"2b63e3b","project":"open-commons-observatory/ocoeco","record":"g-20261114-173320","says":"feat: any table a place keeps is looked through as itself (#199)"}
 {"at":"2026-11-13T07:52:24Z","by":"grenudi","id":"2d498e9","project":"open-commons-observatory/ocoeco","record":"g-20261113-075054","says":"docs: the board says what is: three set waiting on what they wait on, one taken up (#99)"}
 {"at":"2026-11-11T00:57:13Z","by":"grenudi","id":"2defaa5","project":"open-commons-observatory/ocoeco","says":"docs: its workings in Russian (by machine, for a person to correct) (#22)"}
@@ -1729,6 +1735,7 @@
 {"at":"2026-11-13T01:29:03Z","by":"grenudi","id":"f69ed27","project":"open-commons-observatory/ocoeco","record":"g-20261113-012742","says":"feat: rows move between places with every link kept true (#91)"}
 {"at":"2026-11-14T13:51:58Z","by":"grenudi","id":"f7a351c","project":"open-commons-observatory/ocoeco","record":"g-20261114-135017","says":"fix: a field's ordinal; three names that hold two kinds, said (#179)"}
 {"at":"2026-11-14T22:00:38Z","by":"grenudi","id":"f839cdb","project":"open-commons-observatory/ocoeco","record":"g-20261114-215858","says":"perf: a lens is brought into focus once in a look (#231)"}
+{"at":"2026-11-16T10:08:47Z","by":"grenudi","id":"f9844a5","project":"open-commons-observatory/ocoeco","record":"g-20261116-100703","says":"docs: a sign: what an entry changed in a lens file is not what its record touc, and 1 more (#376)"}
 {"at":"2026-11-14T21:30:43Z","by":"github-actions[bot]","id":"fb2044e","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.32.0 (#227)"}
 {"at":"2026-11-13T19:15:42Z","by":"grenudi","id":"fc19bc5","project":"open-commons-observatory/ocoeco","record":"g-20261113-191432","says":"fix: the lab does not cry wolf: a run replaced is not said to fail (#121)"}
 {"at":"2026-11-16T00:31:20Z","by":"grenudi","id":"fd08413","project":"open-commons-observatory/ocoeco","record":"g-20261116-002939","says":"docs: a sign: the window shows only the headings of what a lens places (#345)"}
@@ -1808,6 +1815,7 @@
 {"at":"2026-11-12T01:14:41Z","by":"oco harvest","id":"06afd73","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T11:47:25Z","by":"oco harvest","id":"06d945e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T01:19:23Z","by":"oco harvest","id":"070015a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T10:02:48Z","by":"oco harvest","id":"070d8ca","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:47:45Z","by":"oco harvest","id":"0761771","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:49:02Z","by":"oco harvest","id":"077da5c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:24:28Z","by":"oco harvest","id":"0815f45","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2001,6 +2009,7 @@
 {"at":"2026-11-14T20:19:19Z","by":"oco harvest","id":"564a30f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T14:08:23Z","by":"oco harvest","id":"571259d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:11:07Z","by":"oco harvest","id":"57b8734","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T10:06:13Z","by":"oco harvest","id":"57cd13f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T13:47:33Z","by":"grenudi","id":"57de89f","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-134715","says":"fix: the first observatory's whole begins with why each star exists (#91)"}
 {"at":"2026-11-16T05:08:25Z","by":"oco harvest","id":"5867ea7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:45:06Z","by":"oco harvest","id":"599dc5b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2365,6 +2374,7 @@
 {"at":"2026-11-11T00:54:23Z","by":"grenudi","id":"eeaab1c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: words that follow their number - done (#41)"}
 {"at":"2026-11-15T13:51:13Z","by":"oco harvest","id":"eebf998","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:55:40Z","by":"grenudi","id":"ef367ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers, the engine renders (#13)"}
+{"at":"2026-11-16T09:58:39Z","by":"oco harvest","id":"ef9f3f3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:10:19Z","by":"oco harvest","id":"efe230f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T09:54:01Z","by":"oco harvest","id":"f026e9a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T11:33:16Z","by":"oco harvest","id":"f06a52d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
