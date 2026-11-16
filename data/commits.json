@@ -749,6 +749,7 @@
 {"at":"2026-11-14T20:38:44Z","by":"lab-agent-session","id":"8badde7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T18:59:53Z","by":"lab-agent-session","id":"8ef91ae","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T04:49:25Z","by":"lab-agent-session","id":"91ed4ce","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-16T20:19:45Z","by":"lab-agent-session","id":"93fe295","project":"marshall-oco/conversation","record":"g-20261116-201944","says":"docs: a turn: turn 2026 11 16 continue 34"}
 {"at":"2026-11-15T10:32:34Z","by":"lab-agent-session","id":"94a3f76","project":"marshall-oco/conversation","record":"g-20261115-103233","says":"fix: the seam between transcripts repeats a turn: kept once; the way in is kept here"}
 {"at":"2026-11-15T22:16:52Z","by":"lab-agent-session","id":"95a91ec","project":"marshall-oco/conversation","record":"g-20261115-221651","says":"docs: a turn: turn 2026 11 15 a hand that draws itself"}
 {"at":"2026-11-15T19:46:26Z","by":"lab-agent-session","id":"9929b4a","project":"marshall-oco/conversation","record":"g-20261115-194626","says":"docs: a turn entered as it was said: a lens for it, not a drawing by hand in a chat"}
@@ -891,6 +892,7 @@
 {"at":"2026-11-15T09:18:02Z","by":"oco observe","id":"3371143","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T06:03:28Z","by":"oco observe","id":"3427c61","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T15:33:18Z","by":"oco observe","id":"348c7de","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T20:15:28Z","by":"oco observe","id":"34ecbb3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T21:38:10Z","by":"oco observe","id":"34f215c","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T15:42:52Z","by":"oco observe","id":"35e2ad9","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:33:19Z","by":"oco observe","id":"362b9af","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1617,6 +1619,7 @@
 {"at":"2026-11-16T15:01:38Z","by":"github-actions[bot]","id":"5023136","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.72.0 (#409)"}
 {"at":"2026-11-16T14:35:16Z","by":"github-actions[bot]","id":"51261de","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.71.0 (#407)"}
 {"at":"2026-11-15T23:07:49Z","by":"github-actions[bot]","id":"51701ef","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.57.0 (#326)"}
+{"at":"2026-11-16T20:26:24Z","by":"grenudi","id":"522aff3","project":"open-commons-observatory/ocoeco","record":"g-20261116-202440","says":"feat: what is in view is read in another language, where rows are read: in ru (#428)"}
 {"at":"2026-11-15T08:51:49Z","by":"github-actions[bot]","id":"525eddc","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.1 (#262)"}
 {"at":"2026-11-16T08:34:14Z","by":"grenudi","id":"528415c","project":"open-commons-observatory/ocoeco","record":"g-20261116-083228","says":"docs: a part: entering/8 (#360)"}
 {"at":"2026-11-15T09:59:56Z","by":"grenudi","id":"529f627","project":"open-commons-observatory/ocoeco","record":"g-20261115-095824","says":"docs: what the language's own names mean: fifty-one words (#272)"}
@@ -1794,6 +1797,7 @@
 {"at":"2026-11-14T13:48:28Z","by":"grenudi","id":"b2fc08a","project":"open-commons-observatory/ocoeco","record":"g-20261114-134708","says":"fix: the language asks which names hold different kinds (#178)"}
 {"at":"2026-11-15T23:18:06Z","by":"grenudi","id":"b32b953","project":"open-commons-observatory/ocoeco","record":"g-20261115-231634","says":"docs: a decision: entering is said by a lens (#329)"}
 {"at":"2026-11-14T00:29:41Z","by":"grenudi","id":"b3360f3","project":"open-commons-observatory/ocoeco","record":"g-20261114-002811","says":"docs: a condition names its table otherwise: feature, not features (#146)"}
+{"at":"2026-11-16T20:26:57Z","by":"github-actions[bot]","id":"b3e1898","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.79.0 (#429)"}
 {"at":"2026-11-15T11:38:38Z","by":"github-actions[bot]","id":"b53c77f","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.44.0 (#281)"}
 {"at":"2026-11-14T01:04:58Z","by":"grenudi","id":"b595530","project":"open-commons-observatory/ocoeco","record":"g-20261114-010327","says":"feat: what fits across stars: the star, then its kind, then the row (#153)"}
 {"at":"2026-11-10T18:24:28Z","by":"grenudi","id":"b6488f9","project":"open-commons-observatory/ocoeco","says":"docs(spec): languages - the interface in Fluent catalogs, the data in translations tables, one site per language (#12)"}
@@ -2055,6 +2059,7 @@
 {"at":"2026-11-15T16:22:20Z","by":"oco harvest","id":"190b017","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T22:26:39Z","by":"oco harvest","id":"1ad1fc7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:28:01Z","by":"oco harvest","id":"1ae86ac","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T20:16:08Z","by":"oco harvest","id":"1b1bacc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T12:21:01Z","by":"oco harvest","id":"1b1f9c1","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:18:41Z","by":"oco harvest","id":"1b7f4c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T22:13:57Z","by":"oco harvest","id":"1b9929d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2179,6 +2184,7 @@
 {"at":"2026-11-13T17:18:27Z","by":"oco harvest","id":"48952e8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T01:09:18Z","by":"oco harvest","id":"48b4e88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T15:43:02Z","by":"oco harvest","id":"48cdeb7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T20:19:31Z","by":"oco harvest","id":"4900f04","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T07:03:10Z","by":"oco harvest","id":"4970451","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:14:55Z","by":"grenudi","id":"49eadbe","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-231439","says":"docs: the redesign comes first; everything else parked with its resume order (#69)"}
 {"at":"2026-11-16T11:56:19Z","by":"oco harvest","id":"49fd86f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2346,6 +2352,7 @@
 {"at":"2026-11-14T23:36:44Z","by":"oco harvest","id":"8707f43","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T19:36:06Z","by":"oco harvest","id":"8729f29","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T21:49:40Z","by":"grenudi","id":"87917d2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: a project, whole - the decision (one roof superseded), ideas and workings for all, the naming question left to the author (#31)"}
+{"at":"2026-11-16T20:30:01Z","by":"oco harvest","id":"8794b17","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T09:29:17Z","by":"oco harvest","id":"87a2881","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T20:02:32Z","by":"oco harvest","id":"87c3b86","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T14:51:00Z","by":"oco harvest","id":"87d746a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
