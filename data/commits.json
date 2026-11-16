@@ -762,6 +762,7 @@
 {"at":"2026-11-15T09:52:21Z","by":"lab-agent-session","id":"b7a485b","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T18:47:14Z","by":"lab-agent-session","id":"b7b11e2","project":"marshall-oco/conversation","record":"g-20261115-184714","says":"docs: a turn entered as it was said: the ways of the ecosystem, and diving up"}
 {"at":"2026-11-16T08:17:35Z","by":"lab-agent-session","id":"b88ce85","project":"marshall-oco/conversation","record":"g-20261116-081735","says":"docs: a turn: turn 2026 11 16 continue 23"}
+{"at":"2026-11-16T21:40:48Z","by":"lab-agent-session","id":"b98f9f1","project":"marshall-oco/conversation","record":"g-20261116-214048","says":"docs: a turn: turn 2026 11 16 continue 35"}
 {"at":"2026-11-14T21:35:12Z","by":"lab-agent-session","id":"bbfeee7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T20:31:37Z","by":"lab-agent-session","id":"bc6a949","project":"marshall-oco/conversation","record":"g-20261115-203137","says":"feat: the conversation offers a page for each thing the author said that work followed"}
 {"at":"2026-11-15T08:56:39Z","by":"lab-agent-session","id":"c041a2c","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -1217,6 +1218,7 @@
 {"at":"2026-11-15T05:48:24Z","by":"oco observe","id":"cce8059","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T19:13:45Z","by":"oco observe","id":"cd11477","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T02:03:14Z","by":"oco observe","id":"cd92c00","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T21:33:25Z","by":"oco observe","id":"cdea47a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T19:03:19Z","by":"oco observe","id":"cf9bebe","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:11:18Z","by":"oco observe","id":"cfbd486","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T14:54:24Z","by":"grenudi","id":"d02e7a7","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-145407","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#28)"}
@@ -1296,6 +1298,7 @@
 {"at":"2026-11-14T20:50:02Z","by":"oco observe","id":"e8c241a","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-13T12:32:14Z","by":"oco observe","id":"e8dc540","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T14:33:06Z","by":"oco observe","id":"e922758","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T21:17:15Z","by":"oco observe","id":"e9efad7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T16:01:23Z","by":"grenudi","id":"e9f1d09","project":"marshall-oco/marshall-oco.github.io","record":"g-20261116-160106","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#29)"}
 {"at":"2026-11-15T06:18:20Z","by":"oco observe","id":"eaf8561","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:25:39Z","by":"oco observe","id":"eb258b7","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1659,6 +1662,7 @@
 {"at":"2026-11-15T20:27:38Z","by":"grenudi","id":"5f8690b","project":"open-commons-observatory/ocoeco","record":"g-20261115-202536","says":"feat: a thing in full where one stands on it; a site places the pages a place offers (#312)"}
 {"at":"2026-11-16T08:44:28Z","by":"grenudi","id":"5fbf5cf","project":"open-commons-observatory/ocoeco","says":"docs: a sign: what is entered in the window lands one row at a time (#363)"}
 {"at":"2026-11-16T17:34:29Z","by":"grenudi","id":"5fe0b47","project":"open-commons-observatory/ocoeco","record":"g-20261116-173237","says":"docs: a sign: an act on where one stands follows a step that failed (#421)"}
+{"at":"2026-11-16T21:45:42Z","by":"grenudi","id":"5fe4775","project":"open-commons-observatory/ocoeco","record":"g-20261116-214349","says":"feat: a site is laid out once for each language, and each page offers the others (#435)"}
 {"at":"2026-11-15T21:49:04Z","by":"grenudi","id":"601c575","project":"open-commons-observatory/ocoeco","record":"g-20261115-214733","says":"feat: the window where there is no terminal: one stands, says a mark, a lens, back or up (#317)"}
 {"at":"2026-11-16T13:34:39Z","by":"grenudi","id":"6180801","project":"open-commons-observatory/ocoeco","record":"g-20261116-133306","says":"docs: a lens: gathered, and 9 more (#402)"}
 {"at":"2026-11-15T09:43:18Z","by":"grenudi","id":"619da8b","project":"open-commons-observatory/ocoeco","record":"g-20261115-094145","says":"feat: a look may be in passing: it stands nowhere and leaves no step (#269)"}
