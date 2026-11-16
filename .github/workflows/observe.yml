@@ -76,8 +76,14 @@ jobs:
           echo "$RUNNER_TEMP/duckdb" >> "$GITHUB_PATH"
       - name: the fulldome, on the page
         if: ${{ inputs.only == '' }}
+        # the language as its place keeps it - ocoeco's place, held with the rest while observing - and not
+        # only as the release carries it: what was changed in the language from the window is on the page at
+        # its next laying out, with no release waited for
+        env:
+          OCOECO_LANGUAGE: ${{ runner.temp }}/held/open-commons-observatory/ocoeco
         run: |
           mkdir -p _site
+          if [ -f "$OCOECO_LANGUAGE/language/language.toml" ]; then echo "the language, as its place keeps it: held"; else echo "the language, as the release carries it: its place is not held"; fi
           # the site is said by a lens of this place: its rows are the pages - the whole, and a page for
           # each place in view - each laid out by the page lens; a line about a place leads to its page
           ocoeco site site --observed data --out _site
