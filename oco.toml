@@ -22,7 +22,6 @@ lenses = "oco/lenses.json"
 lens_relations = "oco/lens_relations.json"
 activity = "oco/gathered/activity.json@oco-data"
 releases = "oco/gathered/releases.json@oco-data"
-ci = "oco/gathered/ci.json@oco-data"
 
 # What place this is, and what it gathers: a star by name, or every star of an owner (owner/*).
 [place]
