@@ -542,8 +542,10 @@
 {"at":"2026-11-17T11:43:57Z","by":"grenudi","id":"6fce9c3","project":"grenudi/ideal-agent","says":"fix: nothing of ocoeco: skills look and record through tad and idealkb only (#9)"}
 {"at":"2026-11-17T16:28:27Z","by":"grenudi","id":"82343cf","project":"grenudi/ideal-agent","says":"docs: work-struggles cites ikb-cli's friction measure (#42)"}
 {"at":"2026-11-17T15:34:25Z","by":"grenudi","id":"8293de5","project":"grenudi/ideal-agent","says":"docs: ideal-agent's hand-over says where the neutral start stands (#30)"}
+{"at":"2026-11-17T21:44:08Z","by":"grenudi","id":"870e881","project":"grenudi/ideal-agent","says":"feat: overlay-check takes a domain's own text to check against too (plugin 0.3.24) (#59)"}
 {"at":"2026-11-17T13:02:03Z","by":"grenudi","id":"87c2fcf","project":"grenudi/ideal-agent","says":"fix: scripts/read-weight lands: what a started session read, from its transcript (#22)"}
 {"at":"2026-11-17T11:48:30Z","by":"grenudi","id":"8820395","project":"grenudi/ideal-agent","says":"feat: look around first, as a skill; ideal-agent pins idealkb 0.3.0 (#12)"}
+{"at":"2026-11-17T21:48:01Z","by":"grenudi","id":"91fcabb","project":"grenudi/ideal-agent","says":"feat: a programmer subagent and the canon's core as a skill (plugin 0.3.25) (#60)"}
 {"at":"2026-11-17T12:48:42Z","by":"grenudi","id":"954abd3","project":"grenudi/ideal-agent","says":"docs: Gmail and Claude Docs off by default; a session that needs one asks (#19)"}
 {"at":"2026-11-17T15:07:13Z","by":"grenudi","id":"9c6e55d","project":"grenudi/ideal-agent","says":"feat: skills: record with ikb, read the base's IKB.md (plugin 0.2.8) (#25)"}
 {"at":"2026-11-17T13:05:26Z","by":"grenudi","id":"a0df0f2","project":"grenudi/ideal-agent","says":"docs: the first after number, and why it is not yet comparable (#24)"}
@@ -558,6 +560,7 @@
 {"at":"2026-11-17T16:17:56Z","by":"grenudi","id":"c10e5e2","project":"grenudi/ideal-agent","says":"feat: start health folds into housekeeping: read-weight's given, not used (plugin 0.3.7) (#38)"}
 {"at":"2026-11-17T16:46:54Z","by":"grenudi","id":"c664bb3","project":"grenudi/ideal-agent","says":"fix: agent-env reads the GitHub token from ~/.config/ideal-agent/token (#45)"}
 {"at":"2026-11-17T16:07:56Z","by":"grenudi","id":"cda8005","project":"grenudi/ideal-agent","says":"fix: a started session's role is read past the app's reminders and the background (0.3.6) (#37)"}
+{"at":"2026-11-17T21:51:20Z","by":"grenudi","id":"cf15732","project":"grenudi/ideal-agent","says":"fix: a resume trusts only role state kept under the first-prompt rule (plugin 0.3.26) (#61)"}
 {"at":"2026-11-17T12:42:50Z","by":"grenudi","id":"d046c11","project":"grenudi/ideal-agent","says":"docs: follows idealkb 0.5.0: at a task's start, ask only about its subject (#18)"}
 {"at":"2026-11-17T13:03:37Z","by":"grenudi","id":"d0593fa","project":"grenudi/ideal-agent","says":"docs: the keeper's before number, and where the after comes from (#23)"}
 {"at":"2026-11-17T10:38:51Z","by":"grenudi","id":"d167984","project":"grenudi/ideal-agent","says":"docs: a project's briefs live in its agent folder; practice 42 points there (#5)"}
@@ -595,6 +598,7 @@
 {"at":"2026-11-13T00:34:41Z","by":"grenudi","id":"ae96f03","project":"linux-package-distribution-oco/lens","record":"g-20261113-003422","says":"docs: this is a constellation, and says what it gathers (#2)"}
 {"at":"2026-11-11T10:27:16Z","by":"lab-agent-session","id":"d33034d","project":"linux-package-distribution-oco/lens","says":"feat: the package conveyor's lens"}
 {"at":"2026-11-17T17:47:46Z","by":"grenudi","id":"16d6fc5","project":"linux-phone-oco/device-template","says":"feat: device base: ships idealkb and the template as upstreams, and lists what it gives (#5)"}
+{"at":"2026-11-17T21:39:44Z","by":"grenudi","id":"1cb495a","project":"linux-phone-oco/device-template","says":"docs: agents: the principles are cited by id (linux-phone-oco/docs), not restated (#10)"}
 {"at":"2026-11-17T15:27:32Z","by":"grenudi","id":"1fb0db3","project":"linux-phone-oco/device-template","says":"feat: [fastboot] serial and writes in the manifest (#3)"}
 {"at":"2026-11-17T20:09:29Z","by":"grenudi","id":"6344ce8","project":"linux-phone-oco/device-template","says":"feat: device base: a wait names its item (blocked_by) and clears itself when it is done (#9)"}
 {"at":"2026-11-17T17:24:29Z","by":"grenudi","id":"6d71593","project":"linux-phone-oco/device-template","says":"feat: device base: each device has its own tad base, following idealkb, with parts (#4)"}
@@ -689,6 +693,7 @@
 {"at":"2026-11-17T16:26:59Z","by":"grenudi","id":"3bafba0","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#244)"}
 {"at":"2026-11-17T21:23:30Z","by":"grenudi","id":"3d185e7","project":"linux-phone-oco/docs","says":"docs(lab-tools): bringup-pin-and-hooks done, decision and log (#373)"}
 {"at":"2026-11-11T16:44:33Z","by":"grenudi","id":"3d67245","project":"linux-phone-oco/docs","says":"docs: the tables declared as data, for tad in Rust (#60)"}
+{"at":"2026-11-17T21:55:18Z","by":"grenudi","id":"3e54c5e","project":"linux-phone-oco/docs","says":"docs: lpoco-host leaves 51-android.rules alone (the author: keep it for now) (#379)"}
 {"at":"2026-11-17T10:05:15Z","by":"grenudi","id":"3e5e6c8","project":"linux-phone-oco/docs","says":"docs: An ideal knowledge base proposed: about link, one entry, idealkb from the template (#161)"}
 {"at":"2026-11-17T17:34:00Z","by":"grenudi","id":"40a8dc0","project":"linux-phone-oco/docs","says":"docs: floor-udc-unbound - USB is not the holder (keeper-9) (#274)"}
 {"at":"2026-11-10T17:37:49Z","by":"grenudi","id":"41ca2e8","project":"linux-phone-oco/docs","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#42)"}
@@ -753,6 +758,7 @@
 {"at":"2026-11-17T18:46:34Z","by":"grenudi","id":"665d2a9","project":"linux-phone-oco/docs","says":"docs: floor-entry-trace first on surya's queue; the SH0 owner hunt pauses (#318)"}
 {"at":"2026-11-17T19:20:01Z","by":"grenudi","id":"6661035","project":"linux-phone-oco/docs","says":"docs: walleye s0n bisect try - same as s0, phone off USB (hands) (#341)"}
 {"at":"2026-11-17T20:03:47Z","by":"grenudi","id":"675f6e3","project":"linux-phone-oco/docs","says":"chore: surya's base is surya-lab: docs pulls its parts (#361)"}
+{"at":"2026-11-17T21:49:07Z","by":"grenudi","id":"69060cb","project":"linux-phone-oco/docs","says":"docs: lab-tools devlab-tone-on-argenv (practice 43) (#377)"}
 {"at":"2026-11-17T20:02:09Z","by":"grenudi","id":"6b010a8","project":"linux-phone-oco/docs","says":"chore: surya's rows move to surya-lab's own base; its briefs and the waker read the lab (#360)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-17T10:37:21Z","by":"grenudi","id":"6d85dd7","project":"linux-phone-oco/docs","says":"docs: The agent specifics in their own folder: ideal-agent-linux-phone-oco/ (#171)"}
@@ -768,6 +774,7 @@
 {"at":"2026-11-17T09:48:51Z","by":"grenudi","id":"72fc8ea","project":"linux-phone-oco/docs","says":"docs: a change's health report stays on the phone until the watch files it (#157)"}
 {"at":"2026-11-17T18:14:12Z","by":"grenudi","id":"736b666","project":"linux-phone-oco/docs","says":"docs: walleye control accepted from the restored first state; phone then off USB (#294)"}
 {"at":"2026-11-17T17:45:10Z","by":"grenudi","id":"73b4efc","project":"linux-phone-oco/docs","says":"docs: SH0 sleep vote is a consumer tag; AOP QMP read-only first (research) (#282)"}
+{"at":"2026-11-17T21:36:27Z","by":"grenudi","id":"73beb4f","project":"linux-phone-oco/docs","says":"docs: lab-tools bringup-release done, install from tag decided (#375)"}
 {"at":"2026-11-17T19:13:17Z","by":"grenudi","id":"7581b17","project":"linux-phone-oco/docs","says":"docs: walleye vendor-gadget2 built, try queued, v1 panic cause (no RD_GZIP) (#338)"}
 {"at":"2026-11-17T17:10:37Z","by":"grenudi","id":"75dd496","project":"linux-phone-oco/docs","says":"docs: two signs from the patrol - agent folder over 3 KB, first reads of whole records (#256)"}
 {"at":"2026-11-17T19:51:41Z","by":"grenudi","id":"7632404","project":"linux-phone-oco/docs","says":"fix(feeds): install tad's pinned DuckDB before the feeds run (#356)"}
@@ -800,6 +807,7 @@
 {"at":"2026-11-17T18:45:40Z","by":"grenudi","id":"8d3365a","project":"linux-phone-oco/docs","says":"docs: floor research validity - read the suspend entry first (research, decision, 3 items) (#317)"}
 {"at":"2026-11-17T15:19:27Z","by":"grenudi","id":"8d7db9c","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's brief, first decisions and backlog (#219)"}
 {"at":"2026-11-17T09:42:01Z","by":"grenudi","id":"8deb2ef","project":"linux-phone-oco/docs","says":"docs: 7 runs of xiaomi-surya filed by devlab, from the phone's own reports (#156)"}
+{"at":"2026-11-17T22:00:28Z","by":"grenudi","id":"90dfaf8","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-host built and landed (#91), acceptance still to run (#380)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
 {"at":"2026-11-17T15:40:29Z","by":"grenudi","id":"92999d5","project":"linux-phone-oco/docs","says":"docs: orchestration hand-over, 2026-11-17 evening (#231)"}
 {"at":"2026-11-17T17:58:58Z","by":"grenudi","id":"937a549","project":"linux-phone-oco/docs","says":"docs: floor-sh0-owner first on surya's phone queue (#289)"}
@@ -807,6 +815,7 @@
 {"at":"2026-11-17T11:05:34Z","by":"github-actions[bot]","id":"96c1274","project":"linux-phone-oco/docs","says":"chore(main): release 0.2.0 (#83)"}
 {"at":"2026-11-10T14:20:29Z","by":"grenudi","id":"96cfe9e","project":"linux-phone-oco/docs","says":"chore: the observatory's mark (oco.toml) (#38)"}
 {"at":"2026-11-11T00:45:43Z","by":"grenudi","id":"98c8c5c","project":"linux-phone-oco/docs","says":"feat(data): four of surya's parts no longer unknown - each follows its evidence (#51)"}
+{"at":"2026-11-17T21:37:40Z","by":"grenudi","id":"997a9d6","project":"linux-phone-oco/docs","says":"docs: lpoco roof done - session log; sign land-release-silent (#376)"}
 {"at":"2026-11-17T19:52:06Z","by":"feeds","id":"997dd47","project":"linux-phone-oco/docs","says":"chore(feed): data from the scheduled feeds"}
 {"at":"2026-11-17T04:49:24Z","by":"grenudi","id":"99fd21e","project":"linux-phone-oco/docs","says":"docs: Tests: the top microphone hears the speaker too (#128)"}
 {"at":"2026-11-17T08:49:39Z","by":"grenudi","id":"9a38d3d","project":"linux-phone-oco/docs","says":"docs: Calls proven by an echo call; health checks in shell and Rust (#144)"}
@@ -928,6 +937,7 @@
 {"at":"2026-11-10T17:46:36Z","by":"ocoeco gather","id":"e751539","project":"linux-phone-oco/docs","says":"data: gathered by ocoeco"}
 {"at":"2026-11-17T16:52:22Z","by":"grenudi","id":"e969b87","project":"linux-phone-oco/docs","says":"docs: fastboot boot says the slot flags; set-active gated (lab-tools PR 80) (#250)"}
 {"at":"2026-11-17T15:29:00Z","by":"grenudi","id":"e9ca400","project":"linux-phone-oco/docs","says":"docs: the walleye coordinator's start no longer sources oco-work (#225)"}
+{"at":"2026-11-17T21:50:45Z","by":"grenudi","id":"eaf29fa","project":"linux-phone-oco/docs","says":"docs(lab-tools): lpoco-host research and decision; backlog lpoco-host rank 1 (#378)"}
 {"at":"2026-11-17T17:10:03Z","by":"grenudi","id":"eb317a8","project":"linux-phone-oco/docs","says":"docs: walleye coordinator brief: the lane's launchers and decision routing (#255)"}
 {"at":"2026-11-17T17:11:37Z","by":"grenudi","id":"ee54b3e","project":"linux-phone-oco/docs","says":"docs: floor-dsps-never-started - the DSPs are not the holder (keeper-9) (#257)"}
 {"at":"2026-11-17T18:59:50Z","by":"grenudi","id":"eea2797","project":"linux-phone-oco/docs","says":"docs: sleep-standby-current waits for the author (#327)"}
@@ -946,6 +956,7 @@
 {"at":"2026-11-17T02:07:39Z","by":"grenudi","id":"f659865","project":"linux-phone-oco/docs","says":"docs: 1 runs of xiaomi-surya filed by devlab, from the phone's own reports (#112)"}
 {"at":"2026-11-17T05:32:00Z","by":"grenudi","id":"f707409","project":"linux-phone-oco/docs","says":"docs: 44 runs of xiaomi-surya filed by devlab, from the phone's own reports (#139)"}
 {"at":"2026-11-17T17:25:05Z","by":"grenudi","id":"f799ea9","project":"linux-phone-oco/docs","says":"walleye boot tries on b (#259)"}
+{"at":"2026-11-17T21:38:41Z","by":"grenudi","id":"f7b0d1c","project":"linux-phone-oco/docs","says":"feat: docs: linux-phone-oco's five principles, cited by id and never restated (#374)"}
 {"at":"2026-11-17T12:57:42Z","by":"grenudi","id":"f837482","project":"linux-phone-oco/docs","says":"docs: the coordinator's hand-over, and its brief: a fresh coordinator starts from them (#195)"}
 {"at":"2026-11-10T04:13:10Z","by":"grenudi","id":"f92337c","project":"linux-phone-oco/docs","says":"feat(data): the ADSP crashes after resume, and a kernel component (#30)"}
 {"at":"2026-11-10T13:34:55Z","by":"grenudi","id":"f97e75d","project":"linux-phone-oco/docs","says":"feat(data): the session log - the conveyor in Rust, self-watching health, the microphone narrowed (#37)"}
@@ -978,16 +989,20 @@
 {"at":"2026-11-17T20:07:03Z","by":"grenudi","id":"2f2ee42","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bisect try waits on nothing (#28)"}
 {"at":"2026-11-17T20:58:02Z","by":"grenudi","id":"3034bbb","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-n3 image, the FunctionFS ACM console helper and its init (#44)"}
 {"at":"2026-11-17T21:21:24Z","by":"grenudi","id":"424931e","project":"linux-phone-oco/google-walleye-lab","says":"walleye: both host-bound tries re-queued after the lab reboot (#51)"}
+{"at":"2026-11-17T21:57:44Z","by":"grenudi","id":"44ac2c4","project":"linux-phone-oco/google-walleye-lab","says":"walleye: first light images ml1 and ml2 (mainline kernel, watchdog, mass_storage) (#63)"}
+{"at":"2026-11-17T21:43:15Z","by":"grenudi","id":"45284b3","project":"linux-phone-oco/google-walleye-lab","says":"feat: our dtb carries -@ symbols and 130 overlay stubs; image s3o queued (#58)"}
 {"at":"2026-11-17T20:01:33Z","by":"grenudi","id":"49a4712","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget4 tried - idle init returns, bootreason reboot (#25)"}
 {"at":"2026-11-17T21:01:50Z","by":"grenudi","id":"4af8d9b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: how the phone stands (#48)"}
 {"at":"2026-11-17T18:27:57Z","by":"grenudi","id":"4eb1a74","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants g, h, i answer on 172.16.43.1 (e, b, f); a-f byte for byte (#9)"}
 {"at":"2026-11-17T18:23:44Z","by":"grenudi","id":"4fa476d","project":"linux-phone-oco/google-walleye-lab","says":"address 43 (#7)"}
+{"at":"2026-11-17T21:49:13Z","by":"grenudi","id":"520a680","project":"linux-phone-oco/google-walleye-lab","says":"walleye: code hygiene item (C probe removal, Rust CI) queued after the n3r try (#62)"}
 {"at":"2026-11-17T20:21:07Z","by":"grenudi","id":"5315bf5","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget-n1, n2, the ncm step without settings writes (walleye-ncm-noattr-images) (#35)"}
 {"at":"2026-11-17T20:02:36Z","by":"grenudi","id":"53a8965","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the gadget bring-up bisect (build item); cmdline-read and panic-time closed (#26)"}
 {"at":"2026-11-17T20:13:44Z","by":"grenudi","id":"54419ea","project":"linux-phone-oco/google-walleye-lab","says":"walleye: gadget bisect - 5a returns, 5b panics (ncm step) (#30)"}
 {"at":"2026-11-17T21:25:37Z","by":"grenudi","id":"55bb612","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-n3r, the FunctionFS ACM helper in Rust (walleye-ffs-helper-rust) (#52)"}
 {"at":"2026-11-17T20:54:51Z","by":"grenudi","id":"57fe926","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ffs ACM helper researched, build and phone items queued (#43)"}
 {"at":"2026-11-17T19:56:52Z","by":"grenudi","id":"585debd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the keeper's try of vendor-gadget4 placed (#21)"}
+{"at":"2026-11-17T21:40:18Z","by":"grenudi","id":"5f47dda","project":"linux-phone-oco/google-walleye-lab","says":"docs: agents: the principles are cited by id (linux-phone-oco/docs), not restated (#57)"}
 {"at":"2026-11-17T20:48:31Z","by":"grenudi","id":"5f6a665","project":"linux-phone-oco/google-walleye-lab","says":"walleye: ncm-noattr tried - n2 enumerates, host cdc_ncm lacks the MAC string (#39)"}
 {"at":"2026-11-17T15:18:27Z","by":"grenudi","id":"6497db7","project":"linux-phone-oco/google-walleye-lab","says":"feat: the walleye lab's manifest and mark from the template (#1)"}
 {"at":"2026-11-17T20:18:12Z","by":"grenudi","id":"65aae52","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the superseded vendor-gadget-try closed (#34)"}
@@ -996,6 +1011,7 @@
 {"at":"2026-11-17T19:30:44Z","by":"grenudi","id":"6b3fdd7","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's own device base, from device-template (#4, #5) (#14)"}
 {"at":"2026-11-17T21:01:09Z","by":"grenudi","id":"78795ca","project":"linux-phone-oco/google-walleye-lab","says":"walleye: m1 tried - enumerates as mass storage, host lacks usb_storage (#47)"}
 {"at":"2026-11-17T21:34:59Z","by":"grenudi","id":"7d98904","project":"linux-phone-oco/google-walleye-lab","says":"walleye: dtbo overlay merge research queued; the console retry waits on the lab-prepare tool (#55)"}
+{"at":"2026-11-17T21:37:58Z","by":"grenudi","id":"7e2c0cc","project":"linux-phone-oco/google-walleye-lab","says":"walleye: dtbo overlay merge needs __symbols__ - research, decision, host test, backlog (#56)"}
 {"at":"2026-11-17T20:50:49Z","by":"grenudi","id":"7f32736","project":"linux-phone-oco/google-walleye-lab","says":"walleye: decision on the host channel order (#41)"}
 {"at":"2026-11-17T19:48:29Z","by":"grenudi","id":"83984c0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the third try of vendor-gadget3, with the watcher kept alive (#16)"}
 {"at":"2026-11-17T20:18:44Z","by":"grenudi","id":"981c2f6","project":"linux-phone-oco/google-walleye-lab","says":"walleye: why ncm panics the vendor kernel (attribute writes on a NULL net), decision and backlog (#33)"}
@@ -1007,10 +1023,13 @@
 {"at":"2026-11-17T21:07:48Z","by":"grenudi","id":"abbe728","project":"linux-phone-oco/google-walleye-lab","says":"walleye: n3 try - gadget enumerates, host lacks cdc_acm for its kernel (#49)"}
 {"at":"2026-11-17T19:52:33Z","by":"grenudi","id":"b4b077b","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget3's third try (panic before the gadget), next build named (#17)"}
 {"at":"2026-11-17T20:53:39Z","by":"grenudi","id":"b5aca68","project":"linux-phone-oco/google-walleye-lab","says":"walleye: vendor-gadget-m1, the mass-storage log window, and its host reader (#42)"}
+{"at":"2026-11-17T21:43:59Z","by":"grenudi","id":"c008d55","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the s3o try unblocked, first (#59)"}
 {"at":"2026-11-17T15:29:58Z","by":"grenudi","id":"cbe406f","project":"linux-phone-oco/google-walleye-lab","says":"feat: walleye's fastboot serial, writes off (#2)"}
 {"at":"2026-11-17T20:17:20Z","by":"grenudi","id":"d9072bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget5b1..b4, the ncm step of the gadget bring-up split (walleye-ncm-split) (#32)"}
 {"at":"2026-11-17T17:08:03Z","by":"grenudi","id":"dc676bd","project":"linux-phone-oco/google-walleye-lab","says":"feat: boot image variants c and d carry an os version and patch level (#5)"}
 {"at":"2026-11-17T19:55:45Z","by":"grenudi","id":"e00c523","project":"linux-phone-oco/google-walleye-lab","says":"feat: phone-stands, the keeper's last hand-over (#20)"}
+{"at":"2026-11-17T21:47:09Z","by":"grenudi","id":"e0732fd","project":"linux-phone-oco/google-walleye-lab","says":"walleye: s4 overlay-symbols try, result recorded (#60)"}
+{"at":"2026-11-17T21:48:18Z","by":"grenudi","id":"e180218","project":"linux-phone-oco/google-walleye-lab","says":"walleye: first light of our mainline kernel with the symbols dtb (build item) (#61)"}
 {"at":"2026-11-17T19:53:56Z","by":"grenudi","id":"e2beef8","project":"linux-phone-oco/google-walleye-lab","says":"walleye: the idle-init bisect and the panic research queued (#18)"}
 {"at":"2026-11-17T19:55:47Z","by":"grenudi","id":"e74e497","project":"linux-phone-oco/google-walleye-lab","says":"feat: vendor-gadget4.img, an idle init without a gadget (the panic bisect) (#walleye) (#19)"}
 {"at":"2026-11-17T19:58:48Z","by":"grenudi","id":"ea0ffc0","project":"linux-phone-oco/google-walleye-lab","says":"walleye: cmdline read first, the gadget4 try after it (#23)"}
@@ -1086,7 +1105,9 @@
 {"at":"2026-11-10T17:46:42Z","by":"ocoeco gather","id":"b92e424","project":"linux-phone-oco/lab-tools","says":"data: gathered by ocoeco"}
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
 {"at":"2026-11-17T14:10:45Z","by":"grenudi","id":"badfc81","project":"linux-phone-oco/lab-tools","says":"fix(lpoco-health): keep no_sim and the old library path for the phone's own checks (#76)"}
+{"at":"2026-11-17T21:59:02Z","by":"grenudi","id":"bcb4e9d","project":"linux-phone-oco/lab-tools","says":"feat(host): lpoco host, the lab host prepared from lab.toml and each device's [host] (#91)"}
 {"at":"2026-11-17T02:59:51Z","by":"grenudi","id":"c2dabac","project":"linux-phone-oco/lab-tools","says":"fix: Test sounds are quiet: a level and volume per phone, -40 dBFS at 25% by default (#45)"}
+{"at":"2026-11-17T22:01:35Z","by":"github-actions[bot]","id":"c738ff3","project":"linux-phone-oco/lab-tools","says":"chore: release v0.2.1 (#89)"}
 {"at":"2026-11-17T04:09:15Z","by":"grenudi","id":"caba4f3","project":"linux-phone-oco/lab-tools","says":"feat: devlab-health as an Alpine package: released by release-plz, published by the package conveyor (#48)"}
 {"at":"2026-11-17T13:08:06Z","by":"grenudi","id":"cb68328","project":"linux-phone-oco/lab-tools","says":"fix(devlab): kernel try reads the booted entry off the running initramfs (#71)"}
 {"at":"2026-11-17T21:12:43Z","by":"grenudi","id":"cbfaf6f","project":"linux-phone-oco/lab-tools","says":"feat: lpoco mcp, one MCP server for the family, old tool names kept (#87)"}
@@ -1104,6 +1125,7 @@
 {"at":"2026-11-17T13:13:08Z","by":"grenudi","id":"e8c20e3","project":"linux-phone-oco/lab-tools","says":"feat(devlab): suite put --runner builds the runner by itself (#72)"}
 {"at":"2026-11-17T20:22:58Z","by":"grenudi","id":"eef94b8","project":"linux-phone-oco/lab-tools","says":"bringup image v0 (#85)"}
 {"at":"2026-11-17T09:09:41Z","by":"github-actions[bot]","id":"f21fb4b","project":"linux-phone-oco/lab-tools","says":"chore(devlab-health): release v0.1.1 (#50)"}
+{"at":"2026-11-17T21:35:25Z","by":"grenudi","id":"f4e55b0","project":"linux-phone-oco/lab-tools","says":"test: install lpoco and bringup from the release tags; wrong-pin tests use 99.0 (#90)"}
 {"at":"2026-11-10T22:03:37Z","by":"grenudi","id":"f5c1d4f","project":"linux-phone-oco/lab-tools","says":"feat(devlab): hear - a tone on each speaker, heard through the lab's microphone (#15)"}
 {"at":"2026-11-10T17:39:07Z","by":"grenudi","id":"f7897df","project":"linux-phone-oco/lab-tools","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#12)"}
 {"at":"2026-11-11T00:32:42Z","by":"grenudi","id":"f8bc01a","project":"linux-phone-oco/lab-tools","says":"docs: its idea in Russian (by machine, for a person to correct) (#21)"}
@@ -1191,6 +1213,7 @@
 {"at":"2026-11-11T01:09:19Z","by":"grenudi","id":"76ea0a4","project":"linux-phone-oco/surya-lab","says":"docs: why the cameras are dark, and the way in - measured, sourced, nothing guessed (#47)"}
 {"at":"2026-11-10T11:43:38Z","by":"grenudi","id":"78b7614","project":"linux-phone-oco/surya-lab","says":"feat: device.toml - this device's manifest, for linux-phone-oco/lab-tools (devlab) (#27)"}
 {"at":"2026-11-10T04:17:26Z","by":"grenudi","id":"7979da9","project":"linux-phone-oco/surya-lab","says":"docs: a script that changes state needs explicit intent (#20)"}
+{"at":"2026-11-17T21:50:08Z","by":"grenudi","id":"7a5f7ea","project":"linux-phone-oco/surya-lab","says":"docs: r3 scored partial, r4 decision (#147)"}
 {"at":"2026-11-17T19:08:08Z","by":"grenudi","id":"7acf795","project":"linux-phone-oco/surya-lab","says":"docs: xiaomi-surya's own health reports, gathered (#131)"}
 {"at":"2026-11-16T23:38:20Z","by":"grenudi","id":"7b0c23d","project":"linux-phone-oco/surya-lab","says":"docs: The phone's own health reports, gathered: 4 runs of 2026-11-16 (#71)"}
 {"at":"2026-11-10T13:34:11Z","by":"grenudi","id":"7b92e12","project":"linux-phone-oco/surya-lab","says":"docs: the explicit-intent example is devlab provision now (#33)"}
@@ -1273,6 +1296,7 @@
 {"at":"2026-11-17T08:32:07Z","by":"grenudi","id":"f313456","project":"linux-phone-oco/surya-lab","says":"docs: The earpiece is the top speaker: a UCM Earpiece device, proven by the top mic (#110)"}
 {"at":"2026-11-17T04:19:06Z","by":"grenudi","id":"f3ecc63","project":"linux-phone-oco/surya-lab","says":"docs: Manifest: test sounds at 20% volume and -20 dBFS, as the author asked (#96)"}
 {"at":"2026-11-10T20:35:23Z","by":"grenudi","id":"f8c1406","project":"linux-phone-oco/surya-lab","says":"fix: the suspend crash - hexagonrpcd's RootPD helper masked in the manifest; the resume counter counts (#39)"}
+{"at":"2026-11-17T21:43:00Z","by":"grenudi","id":"fa1df20","project":"linux-phone-oco/surya-lab","says":"docs: agents: the principles are cited by id (linux-phone-oco/docs), not restated (#146)"}
 {"at":"2026-11-16T15:59:46Z","by":"grenudi","id":"fdf4df9","project":"linux-phone-oco/surya-lab","says":"chore: a mark: what the gatherer writes is said where it writes it - no longer named here (#69)"}
 {"at":"2026-11-17T03:45:45Z","by":"grenudi","id":"feb3971","project":"linux-phone-oco/surya-lab","says":"chore: the records are kept in docs; the mark points there (#92)"}
 {"at":"2026-11-16T14:53:44Z","by":"grenudi","id":"0242136","project":"linux-phone-oco/sxmo-deviceprofiles","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#8)"}
@@ -1482,6 +1506,7 @@
 {"at":"2026-11-13T07:51:28Z","by":"oco observe","id":"174a4ce","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-17T06:03:06Z","by":"oco observe","id":"174be36","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:39:27Z","by":"oco observe","id":"17ce83b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T21:36:08Z","by":"oco observe","id":"17d4bc3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T19:59:17Z","by":"grenudi","id":"1892758","project":"marshall-oco/marshall-oco.github.io","record":"g-20261114-195901","says":"docs: the part about next steps, taken back from the sheet (#9)"}
 {"at":"2026-11-13T23:06:11Z","by":"oco observe","id":"19280ed","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:53:47Z","by":"oco observe","id":"1932e7b","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -2761,6 +2786,7 @@
 {"at":"2026-11-12T01:47:45Z","by":"oco harvest","id":"0761771","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T09:49:02Z","by":"oco harvest","id":"077da5c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T20:16:49Z","by":"oco harvest","id":"07d5e16","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:38:07Z","by":"oco harvest","id":"080d54b","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:24:28Z","by":"oco harvest","id":"0815f45","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T18:20:54Z","by":"oco harvest","id":"08245af","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:00:41Z","by":"oco harvest","id":"0824cb0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2810,6 +2836,7 @@
 {"at":"2026-11-17T13:13:34Z","by":"oco harvest","id":"13cc0ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T01:36:21Z","by":"oco harvest","id":"141c18f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T17:23:11Z","by":"oco harvest","id":"145704d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:45:59Z","by":"oco harvest","id":"14aa616","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T14:15:25Z","by":"oco harvest","id":"14b5200","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T21:32:38Z","by":"grenudi","id":"14bd5fa","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-213222","says":"feat: the observatory's page shows the fulldome, beside the engine's views (#76)"}
 {"at":"2026-11-17T13:48:59Z","by":"oco harvest","id":"14c17fb","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -3406,6 +3433,7 @@
 {"at":"2026-11-15T13:39:12Z","by":"oco harvest","id":"b2db452","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T04:16:24Z","by":"oco harvest","id":"b344a8c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T17:45:44Z","by":"oco harvest","id":"b37e4fd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:49:59Z","by":"oco harvest","id":"b391b07","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T12:22:26Z","by":"oco harvest","id":"b395e7e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T23:25:30Z","by":"oco harvest","id":"b3ba866","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:56:08Z","by":"oco harvest","id":"b4369c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -3560,6 +3588,7 @@
 {"at":"2026-11-11T11:10:21Z","by":"grenudi","id":"dc59548","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: Rust for what ships; tools for what repeats (#48)"}
 {"at":"2026-11-12T19:02:51Z","by":"oco harvest","id":"dc8f2be","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T23:04:03Z","by":"oco harvest","id":"dca96b3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:59:13Z","by":"oco harvest","id":"dd09c88","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:53:06Z","by":"oco harvest","id":"dd3774c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T18:05:32Z","by":"oco harvest","id":"dd4277d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:54:19Z","by":"oco harvest","id":"dd4aa63","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -3602,6 +3631,7 @@
 {"at":"2026-11-11T00:37:18Z","by":"oco harvest","id":"e7015c5","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T16:09:37Z","by":"oco harvest","id":"e782a57","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T18:26:06Z","by":"oco harvest","id":"e783258","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:54:40Z","by":"oco harvest","id":"e78c896","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T15:59:14Z","by":"oco harvest","id":"e794aec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:06:55Z","by":"oco harvest","id":"e798f65","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T15:14:09Z","by":"oco harvest","id":"e7d7a9f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -3633,6 +3663,7 @@
 {"at":"2026-11-11T00:54:23Z","by":"grenudi","id":"eeaab1c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: words that follow their number - done (#41)"}
 {"at":"2026-11-15T13:51:13Z","by":"oco harvest","id":"eebf998","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-17T19:35:36Z","by":"oco harvest","id":"ef16552","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-17T21:41:57Z","by":"oco harvest","id":"ef1db24","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:55:40Z","by":"grenudi","id":"ef367ff","project":"open-commons-observatory/open-commons-observatory.github.io","says":"ci: ocoeco gathers, the engine renders (#13)"}
 {"at":"2026-11-16T09:58:39Z","by":"oco harvest","id":"ef9f3f3","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:10:19Z","by":"oco harvest","id":"efe230f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
