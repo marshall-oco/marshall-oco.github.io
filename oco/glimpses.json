@@ -29,3 +29,4 @@
 {"id":"g-20261116-160106","at":"2026-11-16T16:01:06Z","by":"claude","kind":"chore","summary":"a mark: what the gatherer writes is said where it writes it - no longer named here"}
 {"id":"g-20261116-161113","at":"2026-11-16T16:11:13Z","by":"claude","kind":"chore","summary":"a caller: what the gatherer writes is said where it writes it, not here"}
 {"id":"g-20261116-193813","at":"2026-11-16T19:38:13Z","by":"claude","kind":"feat","summary":"ocoeco is taken from its newest release: a release is said only once its files are there","where":"linux-package-distribution-oco/conveyor/decisions:2026-11-16-a-release-is-said-once-its-files-are-there"}
+{"id":"g-20261117-095937","at":"2026-11-17T09:59:37Z","by":"ideal-agent","kind":"feat","summary":"gather grenudi/ideal-agent: the one home of general agent know-how"}
