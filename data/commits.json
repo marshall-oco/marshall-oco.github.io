@@ -505,9 +505,11 @@
 {"at":"2026-11-11T21:36:00Z","by":"grenudi","id":"53a061f","project":"linux-package-distribution-oco/lens","record":"g-20261111-213543","says":"chore: glimpses are recorded here from now on (#1)"}
 {"at":"2026-11-13T00:34:41Z","by":"grenudi","id":"ae96f03","project":"linux-package-distribution-oco/lens","record":"g-20261113-003422","says":"docs: this is a constellation, and says what it gathers (#2)"}
 {"at":"2026-11-11T10:27:16Z","by":"lab-agent-session","id":"d33034d","project":"linux-package-distribution-oco/lens","says":"feat: the package conveyor's lens"}
+{"at":"2026-11-16T23:55:39Z","by":"lab-agent-session","id":"8642359","project":"linux-phone-oco/device-template","record":"g-20261116-235539","says":"feat: The device template: a new phone's lab is a new device.toml"}
 {"at":"2026-11-05T08:22:47Z","by":"grenudi","id":"0bdbff5","project":"linux-phone-oco/docs","says":"feat(data): a fresh-install plan, prepared but not run (#7)"}
 {"at":"2026-11-10T12:16:20Z","by":"grenudi","id":"18ea436","project":"linux-phone-oco/docs","says":"feat(data): the landscape - what postmarketOS and Mobian offer the conveyor (#36)"}
 {"at":"2026-11-10T01:59:07Z","by":"grenudi","id":"1a72431","project":"linux-phone-oco/docs","says":"feat(data): the microphone test kernel is built; a safe second-boot-entry plan for the test (#24)"}
+{"at":"2026-11-16T23:56:31Z","by":"grenudi","id":"1ccec59","project":"linux-phone-oco/docs","record":"g-20261116-235603","says":"docs: The conveyor for any phone: health on the phone, gather, MCP, the device template (#81)"}
 {"at":"2026-11-10T19:02:22Z","by":"grenudi","id":"1e0c661","project":"linux-phone-oco/docs","says":"feat(data): the project's own data in Russian - a translations table, by machine (#43)"}
 {"at":"2026-11-11T10:15:20Z","by":"grenudi","id":"1e61618","project":"linux-phone-oco/docs","says":"feat(data): the microphone's route is set; the stream does not start yet (#56)"}
 {"at":"2026-11-09T23:21:22Z","by":"grenudi","id":"24c64c3","project":"linux-phone-oco/docs","says":"feat(data): phosh-usb - the PC loses the phone over USB under Phosh (#14)"}
@@ -539,11 +541,13 @@
 {"at":"2026-11-11T00:57:49Z","by":"grenudi","id":"5e48058","project":"linux-phone-oco/docs","says":"feat(data): the workings of Linux Phones in Russian (#52)"}
 {"at":"2026-11-09T19:07:37Z","by":"grenudi","id":"6219abb","project":"linux-phone-oco/docs","says":"feat(data): the surya speaker works (#11)"}
 {"at":"2026-11-10T03:11:28Z","by":"grenudi","id":"634c464","project":"linux-phone-oco/docs","says":"feat(data): test runs - one line per run with its counts, and the latest runs filed (#28)"}
+{"at":"2026-11-16T23:40:58Z","by":"github-actions[bot]","id":"652ae0b","project":"linux-phone-oco/docs","says":"chore(main): release 0.1.0 (#72)"}
 {"at":"2026-11-11T09:37:56Z","by":"grenudi","id":"6c24d21","project":"linux-phone-oco/docs","says":"feat(data): the microphone's chain nearly whole; which speaker is the bottom one (#54)"}
 {"at":"2026-11-05T08:03:38Z","by":"grenudi","id":"6f79a41","project":"linux-phone-oco/docs","says":"fix(data): the distro is Nura now (#5)"}
 {"at":"2026-11-10T00:33:46Z","by":"grenudi","id":"7a10c36","project":"linux-phone-oco/docs","says":"feat(data): plasma-silent - sound works after writing the chips' volume; not yet persistent (#17)"}
 {"at":"2026-11-10T03:58:52Z","by":"grenudi","id":"81e7a43","project":"linux-phone-oco/docs","says":"feat(data): the tas2562 volume bug is fixed - Plasma's silence explained; both patches queued (#29)"}
 {"at":"2026-11-12T01:05:33Z","by":"grenudi","id":"82ca47b","project":"linux-phone-oco/docs","record":"g-20261112-010505","says":"build: tad 0.5.0: the pin moved, the data and documents re-rendered (#70)"}
+{"at":"2026-11-16T23:40:26Z","by":"grenudi","id":"8377c4a","project":"linux-phone-oco/docs","record":"g-20261116-233919","says":"docs: 9 runs of surya filed by devlab gather: the phone's own health reports (#80)"}
 {"at":"2026-11-11T21:36:33Z","by":"grenudi","id":"8a3f860","project":"linux-phone-oco/docs","record":"g-20261111-213606","says":"chore: glimpses are recorded here from now on (#64)"}
 {"at":"2026-11-09T16:48:31Z","by":"grenudi","id":"8bb7568","project":"linux-phone-oco/docs","says":"feat(data): the boot hang, the ADSP crash loop and off-state charging, recorded (#8)"}
 {"at":"2026-11-10T00:05:14Z","by":"grenudi","id":"919f1ec","project":"linux-phone-oco/docs","says":"docs: the grand picture - why, what, where, the evidence conveyor, the orgs, the phases (#15)"}
@@ -595,6 +599,7 @@
 {"at":"2026-11-11T21:37:29Z","by":"grenudi","id":"2b36565","project":"linux-phone-oco/lab-tools","record":"g-20261111-213639","says":"chore: glimpses are recorded here from now on (#26)"}
 {"at":"2026-11-10T11:46:34Z","by":"grenudi","id":"33f7424","project":"linux-phone-oco/lab-tools","says":"feat: devlab kernel - the safe test-kernel boot, for any phone (#2)"}
 {"at":"2026-11-10T16:40:31Z","by":"grenudi","id":"41cc1ab","project":"linux-phone-oco/lab-tools","says":"chore(mark): a short title - devlab (#11)"}
+{"at":"2026-11-16T23:46:28Z","by":"grenudi","id":"41fa86c","project":"linux-phone-oco/lab-tools","record":"g-20261116-234539","says":"feat: Every change ends with the phone's health: reboot, kernel try, provision (#31)"}
 {"at":"2026-11-10T13:32:41Z","by":"grenudi","id":"473d87c","project":"linux-phone-oco/lab-tools","says":"feat: devlab provision - a freshly flashed phone gets its packages, files and Wi-Fi (#7)"}
 {"at":"2026-11-10T22:45:03Z","by":"grenudi","id":"4d2c83d","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health --hear - a silent speaker is a regression like any other (#17)"}
 {"at":"2026-11-16T14:52:18Z","by":"grenudi","id":"5be562f","project":"linux-phone-oco/lab-tools","record":"g-20261116-145006","says":"chore: a mark: the latest runs are observed, as runs - no longer gathered here (#27)"}
@@ -602,6 +607,7 @@
 {"at":"2026-11-11T14:33:32Z","by":"grenudi","id":"62cc1e4","project":"linux-phone-oco/lab-tools","says":"feat(devlab): health waits for the phone to settle before checking (#25)"}
 {"at":"2026-11-10T19:44:45Z","by":"grenudi","id":"7032731","project":"linux-phone-oco/lab-tools","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#13)"}
 {"at":"2026-11-10T12:14:25Z","by":"grenudi","id":"7077724","project":"linux-phone-oco/lab-tools","says":"fix: devlab finds the phone quietly - an address that does not answer is no error to show (#4)"}
+{"at":"2026-11-16T23:51:54Z","by":"grenudi","id":"71cbf80","project":"linux-phone-oco/lab-tools","record":"g-20261116-235054","says":"feat: The phone for any agent: devlab mcp, nine tools over MCP (#32)"}
 {"at":"2026-11-10T13:38:10Z","by":"grenudi","id":"7edee0a","project":"linux-phone-oco/lab-tools","says":"feat: devlab flash - an image onto the phone with the manifest's fixes baked in (#8)"}
 {"at":"2026-11-10T04:25:54Z","by":"lab-agent-session","id":"952c3a2","project":"linux-phone-oco/lab-tools","says":"feat: tone - make a test tone, and find it in a recording"}
 {"at":"2026-11-11T14:27:03Z","by":"grenudi","id":"97759a9","project":"linux-phone-oco/lab-tools","says":"feat(devlab): kernel try reports its own outcome (#24)"}
@@ -612,6 +618,7 @@
 {"at":"2026-11-10T22:57:14Z","by":"grenudi","id":"b958458","project":"linux-phone-oco/lab-tools","says":"docs: the ear's first results withdrawn; it counts only with a microphone fixed in place (#18)"}
 {"at":"2026-11-10T22:31:19Z","by":"grenudi","id":"d43d5e4","project":"linux-phone-oco/lab-tools","says":"docs: it tells its essence - its idea for anyone and its workings (#16)"}
 {"at":"2026-11-10T16:26:44Z","by":"grenudi","id":"e330899","project":"linux-phone-oco/lab-tools","says":"feat(oco): devlab's own backlog and path (#10)"}
+{"at":"2026-11-16T23:37:27Z","by":"grenudi","id":"e5329bb","project":"linux-phone-oco/lab-tools","record":"g-20261116-233648","says":"feat: Gathering is one command: devlab gather now (#30)"}
 {"at":"2026-11-10T22:03:37Z","by":"grenudi","id":"f5c1d4f","project":"linux-phone-oco/lab-tools","says":"feat(devlab): hear - a tone on each speaker, heard through the lab's microphone (#15)"}
 {"at":"2026-11-10T17:39:07Z","by":"grenudi","id":"f7897df","project":"linux-phone-oco/lab-tools","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#12)"}
 {"at":"2026-11-11T00:32:42Z","by":"grenudi","id":"f8bc01a","project":"linux-phone-oco/lab-tools","says":"docs: its idea in Russian (by machine, for a person to correct) (#21)"}
@@ -646,6 +653,7 @@
 {"at":"2026-11-11T10:25:16Z","by":"grenudi","id":"581e671","project":"linux-phone-oco/surya-lab","says":"docs: the port table cleared; the next step is tracing the bus (#52)"}
 {"at":"2026-11-10T02:45:07Z","by":"grenudi","id":"59873b0","project":"linux-phone-oco/surya-lab","says":"refactor: one phone library for every script - no nested quoting, USB or Wi-Fi (#12)"}
 {"at":"2026-11-10T17:38:22Z","by":"grenudi","id":"5c716e4","project":"linux-phone-oco/surya-lab","says":"ci: ocoeco gathers this repository's activity, releases and CI - data made by work (#36)"}
+{"at":"2026-11-16T23:30:19Z","by":"grenudi","id":"5dd7806","project":"linux-phone-oco/surya-lab","record":"g-20261116-232952","says":"feat: surya checks its own health after every boot: [health] and its amplifier checks (#70)"}
 {"at":"2026-11-09T14:16:59Z","by":"grenudi","id":"5ed017a","project":"linux-phone-oco/surya-lab","says":"fix: resolve the revision before checking it out"}
 {"at":"2026-11-10T11:14:04Z","by":"grenudi","id":"620c5da","project":"linux-phone-oco/surya-lab","says":"feat/test entry boot counting (#26)"}
 {"at":"2026-11-09T14:15:39Z","by":"grenudi","id":"6730419","project":"linux-phone-oco/surya-lab","says":"Initial commit"}
@@ -655,6 +663,7 @@
 {"at":"2026-11-11T01:09:19Z","by":"grenudi","id":"76ea0a4","project":"linux-phone-oco/surya-lab","says":"docs: why the cameras are dark, and the way in - measured, sourced, nothing guessed (#47)"}
 {"at":"2026-11-10T11:43:38Z","by":"grenudi","id":"78b7614","project":"linux-phone-oco/surya-lab","says":"feat: device.toml - this device's manifest, for linux-phone-oco/lab-tools (devlab) (#27)"}
 {"at":"2026-11-10T04:17:26Z","by":"grenudi","id":"7979da9","project":"linux-phone-oco/surya-lab","says":"docs: a script that changes state needs explicit intent (#20)"}
+{"at":"2026-11-16T23:38:20Z","by":"grenudi","id":"7b0c23d","project":"linux-phone-oco/surya-lab","record":"g-20261116-233802","says":"docs: The phone's own health reports, gathered: 4 runs of 2026-11-16 (#71)"}
 {"at":"2026-11-10T13:34:11Z","by":"grenudi","id":"7b92e12","project":"linux-phone-oco/surya-lab","says":"docs: the explicit-intent example is devlab provision now (#33)"}
 {"at":"2026-11-10T04:52:22Z","by":"grenudi","id":"7cbdc4e","project":"linux-phone-oco/surya-lab","says":"feat: kernel/test-entry.sh - boot a test kernel beside the stock one (#22)"}
 {"at":"2026-11-09T14:15:46Z","by":"grenudi","id":"81a566b","project":"linux-phone-oco/surya-lab","says":"feat: dt/irq-audit.py"}
@@ -748,6 +757,7 @@
 {"at":"2026-11-14T18:52:47Z","by":"lab-agent-session","id":"866c745","project":"marshall-oco/conversation","record":"g-20261114-185247","says":"docs: a turn entered as it was said: you see it"}
 {"at":"2026-11-14T18:05:42Z","by":"lab-agent-session","id":"87a9420","project":"marshall-oco/conversation","record":"g-20261114-180542","says":"docs: a turn entered as it was said: all means all"}
 {"at":"2026-11-15T21:46:21Z","by":"lab-agent-session","id":"8866c17","project":"marshall-oco/conversation","record":"g-20261115-214621","says":"docs: a turn entered as it was said: a page is only a surface a lens of lenses projects to"}
+{"at":"2026-11-17T00:18:46Z","by":"lab-agent-session","id":"8ab7fc3","project":"marshall-oco/conversation","record":"g-20261117-001846","says":"docs: a turn entered: a face for linux-phone, drawn in CI"}
 {"at":"2026-11-14T20:38:44Z","by":"lab-agent-session","id":"8badde7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T18:59:53Z","by":"lab-agent-session","id":"8ef91ae","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T04:49:25Z","by":"lab-agent-session","id":"91ed4ce","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -764,6 +774,7 @@
 {"at":"2026-11-15T09:52:21Z","by":"lab-agent-session","id":"b7a485b","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T18:47:14Z","by":"lab-agent-session","id":"b7b11e2","project":"marshall-oco/conversation","record":"g-20261115-184714","says":"docs: a turn entered as it was said: the ways of the ecosystem, and diving up"}
 {"at":"2026-11-16T08:17:35Z","by":"lab-agent-session","id":"b88ce85","project":"marshall-oco/conversation","record":"g-20261116-081735","says":"docs: a turn: turn 2026 11 16 continue 23"}
+{"at":"2026-11-17T00:24:12Z","by":"lab-agent-session","id":"b973d5f","project":"marshall-oco/conversation","record":"g-20261117-002412","says":"docs: a turn entered as it was said: yes: linux-phone-oco"}
 {"at":"2026-11-16T21:40:48Z","by":"lab-agent-session","id":"b98f9f1","project":"marshall-oco/conversation","record":"g-20261116-214048","says":"docs: a turn: turn 2026 11 16 continue 35"}
 {"at":"2026-11-14T21:35:12Z","by":"lab-agent-session","id":"bbfeee7","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T20:31:37Z","by":"lab-agent-session","id":"bc6a949","project":"marshall-oco/conversation","record":"g-20261115-203137","says":"feat: the conversation offers a page for each thing the author said that work followed"}
@@ -773,6 +784,7 @@
 {"at":"2026-11-15T21:46:28Z","by":"lab-agent-session","id":"c7b96a1","project":"marshall-oco/conversation","record":"g-20261115-214628","says":"docs: a turn entered as it was said: an interface one stands in and acts from"}
 {"at":"2026-11-15T11:34:38Z","by":"lab-agent-session","id":"cb4018a","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-15T10:19:19Z","by":"lab-agent-session","id":"cd0b2ff","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
+{"at":"2026-11-16T23:52:40Z","by":"lab-agent-session","id":"d156324","project":"marshall-oco/conversation","record":"g-20261116-235240","says":"docs: a turn entered as it was said: no SIM card yet: the board's sim item is put right"}
 {"at":"2026-11-16T13:10:46Z","by":"lab-agent-session","id":"d3f746c","project":"marshall-oco/conversation","record":"g-20261116-131046","says":"docs: a turn: turn 2026 11 16 continue 27"}
 {"at":"2026-11-15T13:56:36Z","by":"lab-agent-session","id":"d8219e9","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
 {"at":"2026-11-14T19:30:31Z","by":"lab-agent-session","id":"d9fbddc","project":"marshall-oco/conversation","says":"docs: a turn entered as it was said: continue"}
@@ -811,6 +823,7 @@
 {"at":"2026-11-15T12:46:53Z","by":"oco observe","id":"084a252","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:48:22Z","by":"oco observe","id":"084f3ab","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:15:33Z","by":"oco observe","id":"0878d70","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T00:18:36Z","by":"oco observe","id":"0897764","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T00:48:35Z","by":"oco observe","id":"09cefc5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T19:55:16Z","by":"oco observe","id":"0a94dea","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T09:05:59Z","by":"oco observe","id":"0bd7758","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -923,6 +936,7 @@
 {"at":"2026-11-14T17:18:10Z","by":"oco observe","id":"3def3cf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T09:36:05Z","by":"oco observe","id":"3e4ca67","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:09:28Z","by":"oco observe","id":"404aac8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-16T23:30:28Z","by":"oco observe","id":"404bcb5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T16:40:39Z","by":"oco observe","id":"40c08a8","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:40:49Z","by":"oco observe","id":"40cf205","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T04:56:44Z","by":"grenudi","id":"40dccff","project":"marshall-oco/marshall-oco.github.io","record":"g-20261115-045628","says":"feat: this observatory says its site: the whole, and a page for each place (#14)"}
@@ -1110,6 +1124,7 @@
 {"at":"2026-11-14T18:56:33Z","by":"oco observe","id":"9aec0b3","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-15T07:18:25Z","by":"oco observe","id":"9b355e5","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-16T16:32:57Z","by":"oco observe","id":"9b9bb24","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
+{"at":"2026-11-17T00:05:51Z","by":"oco observe","id":"9b9f267","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T18:12:54Z","by":"oco observe","id":"9bb83bf","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T01:06:58Z","by":"oco observe","id":"9bdd762","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
 {"at":"2026-11-14T23:03:18Z","by":"oco observe","id":"9c900f2","project":"marshall-oco/marshall-oco.github.io","says":"data: observed"}
@@ -1621,6 +1636,7 @@
 {"at":"2026-11-14T15:14:26Z","by":"grenudi","id":"3ed76f3","project":"open-commons-observatory/ocoeco","record":"g-20261114-151256","says":"feat: where the work happens: a lens from a place; a record of work says where it was made (#184)"}
 {"at":"2026-11-14T01:01:13Z","by":"grenudi","id":"3eff039","project":"open-commons-observatory/ocoeco","record":"g-20261114-005932","says":"fix: a link into one kind of row is offered as the id alone (#151)"}
 {"at":"2026-11-14T07:23:03Z","by":"github-actions[bot]","id":"3f67792","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.15.0 (#159)"}
+{"at":"2026-11-16T23:36:22Z","by":"grenudi","id":"3fe5d70","project":"open-commons-observatory/ocoeco","record":"g-20261116-233431","says":"docs: A sign: a test run has no shared shape in the language (#451)"}
 {"at":"2026-11-10T16:50:47Z","by":"lab-agent-session","id":"412955f","project":"open-commons-observatory/ocoeco","says":"chore(mark): its place among the observatory's family (2)"}
 {"at":"2026-11-15T07:04:04Z","by":"github-actions[bot]","id":"415b462","project":"open-commons-observatory/ocoeco","says":"chore(main): release ocoeco 0.41.0 (#259)"}
 {"at":"2026-11-16T09:47:35Z","by":"grenudi","id":"41856dc","project":"open-commons-observatory/ocoeco","record":"g-20261116-094614","says":"feat: the shapes of a lens are made ready in the order they rest on each other (#372)"}
@@ -2023,12 +2039,14 @@
 {"at":"2026-11-11T13:43:25Z","by":"grenudi","id":"e0aa5ef","project":"open-commons-observatory/ocoeco-engine","says":"data: patching source by text is automated by structural edits (#50)"}
 {"at":"2026-11-10T22:08:56Z","by":"grenudi","id":"e179fb0","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): Essence - the signature view: why, what, how, now on one page (#32)"}
 {"at":"2026-11-10T18:10:54Z","by":"grenudi","id":"e56e8bd","project":"open-commons-observatory/ocoeco-engine","says":"feat(site): grand views from lenses - the face draws what each lens declares (#18)"}
+{"at":"2026-11-17T00:23:41Z","by":"grenudi","id":"e61040f","project":"open-commons-observatory/ocoeco-engine","record":"g-20261117-002253","says":"feat: A site of one family's data is that family's face (#59)"}
 {"at":"2026-11-10T19:48:22Z","by":"grenudi","id":"ebb02ab","project":"open-commons-observatory/ocoeco-engine","says":"fix(site): not yet is not failure - planned work has its own calm sign (#28)"}
 {"at":"2026-11-11T13:16:31Z","by":"grenudi","id":"ec4e529","project":"open-commons-observatory/ocoeco-engine","says":"feat/timeline and word badges (#46)"}
 {"at":"2026-11-10T15:50:22Z","by":"grenudi","id":"f46f79e","project":"open-commons-observatory/ocoeco-engine","says":"fix(mark): the observatory kind again - lost when whole files were copied from a stale copy (#7)"}
 {"at":"2026-11-10T19:38:32Z","by":"grenudi","id":"fd4c39d","project":"open-commons-observatory/ocoeco-engine","says":"chore: gathered data lives on the oco-data branch - main is the history of the work (#27)"}
 {"at":"2026-11-14T18:09:19Z","by":"oco harvest","id":"002a0c2","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:18:10Z","by":"oco harvest","id":"004608c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:59:52Z","by":"oco harvest","id":"014f875","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:24:51Z","by":"oco harvest","id":"01cbcba","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T19:40:19Z","by":"oco harvest","id":"01cf509","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T00:29:09Z","by":"oco harvest","id":"029a292","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2319,6 +2337,7 @@
 {"at":"2026-11-15T20:25:47Z","by":"oco harvest","id":"6929989","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T21:39:13Z","by":"oco harvest","id":"6958556","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T05:25:10Z","by":"oco harvest","id":"695a9d9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:35:38Z","by":"oco harvest","id":"69f6af0","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:57:30Z","by":"oco harvest","id":"6a6bb0c","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T20:48:37Z","by":"oco harvest","id":"6ac0f8e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T23:24:21Z","by":"oco harvest","id":"6acd637","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2354,6 +2373,7 @@
 {"at":"2026-11-12T19:58:36Z","by":"oco harvest","id":"74d92b4","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T20:21:48Z","by":"oco harvest","id":"74da7cd","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:55:40Z","by":"oco harvest","id":"74fa32d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:49:18Z","by":"oco harvest","id":"76309ec","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T19:46:45Z","by":"oco harvest","id":"76baad8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T12:27:59Z","by":"grenudi","id":"76d91b8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: practice 22 - look around first (#54)"}
 {"at":"2026-11-14T19:15:33Z","by":"oco harvest","id":"7743de8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2443,6 +2463,7 @@
 {"at":"2026-11-12T13:50:08Z","by":"oco harvest","id":"92f5f14","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T15:44:12Z","by":"oco harvest","id":"9334002","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:25:11Z","by":"oco harvest","id":"93b5d49","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:46:06Z","by":"oco harvest","id":"9450d3d","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T00:48:26Z","by":"oco harvest","id":"9475d13","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T19:11:04Z","by":"grenudi","id":"94a0678","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261112-191047","says":"fix: the harvest's guard can rebase: proven against a staged collision (#73)"}
 {"at":"2026-11-16T12:51:19Z","by":"oco harvest","id":"961b514","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2463,6 +2484,7 @@
 {"at":"2026-11-12T00:59:16Z","by":"oco harvest","id":"9e54bbc","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T16:44:22Z","by":"oco harvest","id":"9ea5d12","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T12:27:22Z","by":"grenudi","id":"9efa1c7","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261115-122706","says":"docs: look at it: shown where it was not followed, and what looking then showed (#86)"}
+{"at":"2026-11-16T23:42:40Z","by":"oco harvest","id":"9f3070e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T19:21:05Z","by":"oco harvest","id":"9f7e7ce","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T13:18:23Z","by":"oco harvest","id":"9f9b58f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T10:29:34Z","by":"oco harvest","id":"9fdde3e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2505,6 +2527,7 @@
 {"at":"2026-11-11T17:54:33Z","by":"oco harvest","id":"ac12060","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T13:00:23Z","by":"oco harvest","id":"ac24627","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-10T18:04:09Z","by":"oco harvest","id":"acd213a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:39:08Z","by":"oco harvest","id":"ad04860","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:03:15Z","by":"oco harvest","id":"ad07b64","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-11T23:44:44Z","by":"grenudi","id":"ad348b8","project":"open-commons-observatory/open-commons-observatory.github.io","record":"g-20261111-234429","says":"docs: the look-around practice: find why a thing exists before replacing it (#70)"}
 {"at":"2026-11-11T21:49:40Z","by":"oco harvest","id":"ad5ea01","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2516,6 +2539,7 @@
 {"at":"2026-11-12T02:11:30Z","by":"oco harvest","id":"af28df8","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-13T23:07:34Z","by":"oco harvest","id":"af5dff7","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:41:42Z","by":"oco harvest","id":"af9e120","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:56:27Z","by":"oco harvest","id":"b04c606","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-12T13:28:30Z","by":"oco harvest","id":"b04f4c6","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T20:06:37Z","by":"oco harvest","id":"b05cecf","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T10:28:25Z","by":"oco harvest","id":"b0bdb9e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
@@ -2723,6 +2747,7 @@
 {"at":"2026-11-16T08:37:49Z","by":"oco harvest","id":"f833e5a","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-14T22:28:34Z","by":"oco harvest","id":"f842403","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T11:33:39Z","by":"oco harvest","id":"f91808f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
+{"at":"2026-11-16T23:32:17Z","by":"oco harvest","id":"f97cbc9","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-16T08:59:26Z","by":"oco harvest","id":"f9b9437","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T21:08:08Z","by":"oco harvest","id":"f9ee73e","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
 {"at":"2026-11-15T05:23:04Z","by":"oco harvest","id":"fa2b54f","project":"open-commons-observatory/open-commons-observatory.github.io","says":"data: the harvest"}
