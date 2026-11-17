@@ -89,7 +89,7 @@
 {"bytes":19197,"id":"tad/src/statements.rs","lines":549,"path":"tad/src/statements.rs","project":"creation-guidelines/tad-engine"}
 {"bytes":16713,"id":"devlab/src/device.rs","lines":516,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":7978,"id":"devlab/src/flash.rs","lines":232,"path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":12540,"id":"devlab/src/gather.rs","lines":342,"path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":13850,"id":"devlab/src/gather.rs","lines":372,"path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":18640,"id":"devlab/src/guard.rs","lines":534,"path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":9535,"id":"devlab/src/health.rs","lines":276,"path":"devlab/src/health.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":9264,"id":"devlab/src/hear.rs","lines":240,"path":"devlab/src/hear.rs","project":"linux-phone-oco/lab-tools"}
@@ -128,10 +128,10 @@
 {"bytes":23408,"id":"src/note.rs","lines":604,"path":"src/note.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":12831,"id":"src/pick.rs","lines":387,"path":"src/pick.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":76670,"id":"src/relations.rs","lines":1818,"path":"src/relations.rs","project":"open-commons-observatory/ocoeco"}
-{"bytes":41274,"id":"src/routes.rs","lines":1001,"path":"src/routes.rs","project":"open-commons-observatory/ocoeco"}
+{"bytes":42748,"id":"src/routes.rs","lines":1029,"path":"src/routes.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":16184,"id":"src/trail.rs","lines":427,"path":"src/trail.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":7061,"id":"src/typed.rs","lines":198,"path":"src/typed.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":26406,"id":"src/window.rs","lines":584,"path":"src/window.rs","project":"open-commons-observatory/ocoeco"}
 {"bytes":3983,"id":"src/i18n.rs","lines":128,"path":"src/i18n.rs","project":"open-commons-observatory/ocoeco-engine"}
 {"bytes":864,"id":"src/main.rs","lines":40,"path":"src/main.rs","project":"open-commons-observatory/ocoeco-engine"}
-{"bytes":169580,"id":"src/site.rs","lines":4251,"path":"src/site.rs","project":"open-commons-observatory/ocoeco-engine"}
+{"bytes":170624,"id":"src/site.rs","lines":4275,"path":"src/site.rs","project":"open-commons-observatory/ocoeco-engine"}
