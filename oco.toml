@@ -24,4 +24,4 @@ lens_relations = "oco/lens_relations.json"
 # What place this is, and what it gathers: a star by name, or every star of an owner (owner/*).
 [place]
 is = "observatory"
-gathers = ["open-commons-observatory/*", "creation-guidelines/*", "linux-phone-oco/*", "linux-package-distribution-oco/*", "Mnemonic-Vocabulary-org/*", "rhizome-oco/*", "git-rhizoid/*", "argenv-opencommons/*", "marshall-oco/*"]
+gathers = ["open-commons-observatory/*", "creation-guidelines/*", "linux-phone-oco/*", "linux-package-distribution-oco/*", "Mnemonic-Vocabulary-org/*", "rhizome-oco/*", "git-rhizoid/*", "argenv-opencommons/*", "marshall-oco/*", "grenudi/ideal-agent"]
