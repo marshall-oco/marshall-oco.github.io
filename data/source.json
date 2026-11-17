@@ -96,7 +96,7 @@
 {"bytes":14903,"id":"src/roles.rs","lines":390,"path":"src/roles.rs","project":"grenudi/ideal-agent"}
 {"bytes":11402,"id":"src/shell.rs","lines":304,"path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"bytes":18382,"id":"devlab/src/device.rs","lines":549,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
-{"bytes":15181,"id":"devlab/src/fastboot.rs","lines":418,"path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
+{"bytes":18226,"id":"devlab/src/fastboot.rs","lines":492,"path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8726,"id":"devlab/src/flash.rs","lines":248,"path":"devlab/src/flash.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":12774,"id":"devlab/src/gather.rs","lines":345,"path":"devlab/src/gather.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":9225,"id":"devlab/src/guard.rs","lines":244,"path":"devlab/src/guard.rs","project":"linux-phone-oco/lab-tools"}
