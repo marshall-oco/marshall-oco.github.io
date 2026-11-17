@@ -91,9 +91,9 @@
 {"bytes":4653,"id":"src/contract.rs","lines":109,"path":"src/contract.rs","project":"grenudi/ideal-agent"}
 {"bytes":7956,"id":"src/guard.rs","lines":242,"path":"src/guard.rs","project":"grenudi/ideal-agent"}
 {"bytes":273,"id":"src/lib.rs","lines":6,"path":"src/lib.rs","project":"grenudi/ideal-agent"}
-{"bytes":9433,"id":"src/main.rs","lines":260,"path":"src/main.rs","project":"grenudi/ideal-agent"}
-{"bytes":6737,"id":"src/practices.rs","lines":166,"path":"src/practices.rs","project":"grenudi/ideal-agent"}
-{"bytes":10588,"id":"src/roles.rs","lines":305,"path":"src/roles.rs","project":"grenudi/ideal-agent"}
+{"bytes":9559,"id":"src/main.rs","lines":262,"path":"src/main.rs","project":"grenudi/ideal-agent"}
+{"bytes":7217,"id":"src/practices.rs","lines":174,"path":"src/practices.rs","project":"grenudi/ideal-agent"}
+{"bytes":12326,"id":"src/roles.rs","lines":344,"path":"src/roles.rs","project":"grenudi/ideal-agent"}
 {"bytes":11402,"id":"src/shell.rs","lines":304,"path":"src/shell.rs","project":"grenudi/ideal-agent"}
 {"bytes":18155,"id":"devlab/src/device.rs","lines":545,"path":"devlab/src/device.rs","project":"linux-phone-oco/lab-tools"}
 {"bytes":8597,"id":"devlab/src/fastboot.rs","lines":243,"path":"devlab/src/fastboot.rs","project":"linux-phone-oco/lab-tools"}
